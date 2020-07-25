@@ -16,7 +16,7 @@ social:
     link: https://twitter.com/mparfyonov
   - link: https://scholar.google.com/citations?user=YF3PFn0AAAAJ&hl=en
     icon_pack: fas
-    icon: google scholar
+    icon: scholar
 organizations:
   - name: BC Children's Hospital
     url: ""

@@ -1,6 +1,7 @@
 ---
 title: Maksim Parfyonov
 role: Pediatric Neurology Resident, BC Children's Hospital
+avatar_filename: maksim-parfyonov-social-media_0002_bw.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

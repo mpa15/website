@@ -1,7 +1,7 @@
 ---
 title: Maksim Parfyonov
 role: Pediatric Neurology Resident
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Epilepsy

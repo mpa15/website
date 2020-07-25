@@ -22,15 +22,12 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MD
+      institution: University of British Columbia
+      year: 2017
+    - course: "BSc in Molecular Biology & Biochemistry "
+      institution: Simon Fraser University
+      year: 2013
 email: ""
 superuser: true
 authors:

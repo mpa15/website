@@ -1,6 +1,6 @@
 ---
 title: Maksim Parfyonov
-role: Pediatric Neurology Resident, BC Children's Hospital
+role: Pediatric Neurology Resident
 avatar_filename: maksim-parfyonov-social-media_0002_bw.jpg
 bio: ""
 interests:
@@ -18,7 +18,7 @@ social:
     icon_pack: fas
     icon: google scholar
 organizations:
-  - name: Stanford University
+  - name: BC Children's Hospital
     url: ""
 education:
   courses:

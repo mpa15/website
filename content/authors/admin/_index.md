@@ -22,10 +22,10 @@ organizations:
     url: ""
 education:
   courses:
-    - course: MD
+    - course: M.D.
       institution: University of British Columbia
       year: 2017
-    - course: "BSc in Molecular Biology & Biochemistry "
+    - course: B.Sc. (Biochem & Neuroscience Double Major)
       institution: Simon Fraser University
       year: 2013
 email: ""

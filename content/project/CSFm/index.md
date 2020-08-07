@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "EPBiome: The Epilepsy Microbiome Study"
-summary: "Multi-center study located at BC Children's and Alberta Children's Hospitals, investigating the role of the gut microbiome in the efficacy of the ketogenic diet as a treatment for refractory epilepsy."
+title: "CSF metagenomics and cytokine profiling in children with encephalitis"
+summary: "Validation of a metagenomics-based method of pathogen detection in encephalitis, and using cytokine and chemokine profiles to differentiate subtypes of encephalitis"
 authors: []
 tags: []
 categories: []
-date: 2020-08-05T10:43:27-07:00
+date: 2020-08-05T10:54:16-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.epbiome.com"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,5 +39,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Multi-center study located at BC Children's and Alberta Children's Hospitals, investigating the role of the gut microbiome in the efficacy of the ketogenic diet as a treatment for refractory epilepsy. _Supervisor_ Dr. Linda Huh 

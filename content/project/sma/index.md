@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "EPBiome: The Epilepsy Microbiome Study"
-summary: "Multi-center study located at BC Children's and Alberta Children's Hospitals, investigating the role of the gut microbiome in the efficacy of the ketogenic diet as a treatment for refractory epilepsy."
+title: "The landscape of spinal muscular atrophy in Canada"
+summary: "Understanding the impact of nusinersen treatment on motor and respiratory outcomes in children with 5q spinal muscular atrophy types 1 and 2 in Canada."
 authors: []
 tags: []
 categories: []
-date: 2020-08-05T10:43:27-07:00
+date: 2020-08-04T22:33:51-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.epbiome.com"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,5 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Multi-center study located at BC Children's and Alberta Children's Hospitals, investigating the role of the gut microbiome in the efficacy of the ketogenic diet as a treatment for refractory epilepsy. _Supervisor_ Dr. Linda Huh 
+Understanding the impact of nusinersen treatment on motor and respiratory outcomes in children with 5q spinal muscular atrophy types 1 and 2 in Canada. *Supervisor*: [Dr. Kathryn Selby](https://www.bcchr.ca/kselby)

@@ -40,5 +40,5 @@ url_video: ""
 slides: ""
 ---
 
-Qualitative stuy exploring how parents experience and interpret genetic testing in relation to their child who has been affected by epilepsy. _Supervisors_ Drs. [Judy Iles](https://neuroethics.med.ubc.ca/people-2/) & [Mary Connolly](https://www.bcchr.ca/mconnolly).
+Qualitative study exploring how parents experience and interpret genetic testing in relation to their child who has been affected by epilepsy. _Supervisors_ Drs. [Judy Iles](https://neuroethics.med.ubc.ca/people-2/) & [Mary Connolly](https://www.bcchr.ca/mconnolly).
 

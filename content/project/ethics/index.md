@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Parental perspectives on whole exome sequencing in pediatric epilepsy"
-summary: "Qualitative stuy exploring how parents experience and interpret genetic testing in relation to their child who has been affected by epilepsy."
+summary: "Qualitative study exploring how parents experience and interpret genetic testing in relation to their child who has been affected by epilepsy."
 authors: []
 tags: []
 categories: []

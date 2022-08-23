@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Neurology Resident
+role: Epilepsy Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: BC Children's Hospital
+- name: Cleveland Clinic Neurologic Institute
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: Epilepsy Fellowship 
+    institution: Cleveland Clinic
+    year: 2022  
   - course: MD 
     institution: University of British Columbia
     year: 2017
@@ -65,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Maksim Parfyonov is a Pediatric Neurology Resident at BC Children's Hospital in Vancouver, British Columbia. His research interests include treatment-resistant epilepsy and genetic causes of pediatric epilepsy. 
+Maksim Parfyonov is a Pediatric Epilepsy Fellow at the Cleveland Clinic in Cleveland, Ohio. His research interests include treatment-resistant epilepsy and genetic causes of pediatric epilepsy. 
 
 He currently leads the [EPBiome](https://www.epbiome.com) study , a multi-center trial investigating the role of the gut microbiome in the efficacy of ketogenic diet, which is supported by a grant from the [Weston Foundation](https://www.westonfoundation.org/our-mandate/). His clinical interests mirror his research interests and include treatment-refractory epilepsy, ketogenic diet, and surgical management of epilepsy.

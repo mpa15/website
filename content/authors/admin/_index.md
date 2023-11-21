@@ -27,18 +27,21 @@ interests:
 
 education:
   courses:
-  - course: MSc (Ongoing) 
+  - course: MSc, Biomedical & Health Informatics (in progress)
     institution: Case Western Reserve University
-    year: 2023
+    year: 2023-present
   - course: Clinical Neurophysiology Fellowship 
     institution: Cleveland Clinic
     year: 2023
   - course: Epilepsy Fellowship 
     institution: Cleveland Clinic
     year: 2022  
+  - course: Pediatric Neurology Residency 
+    institution: British Columbia Children's Hospital
+    year: 2017-2022
   - course: MD 
     institution: University of British Columbia
-    year: 2017
+    year: 2013-2017
   - course: BSc in Neuroscience & Biochemistry
     institution: Simon Fraser University
     year: 2013

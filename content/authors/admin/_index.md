@@ -20,14 +20,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 interests:
-- Epilepsy
-- EEG 
-- Ketogenic Diet
-- Microbiome
-- Genetics
+- Surgical approaches for pediatric epilepsy
+- Advanced neuroimaging techniques for epilepsy
+- Ketogenic diet and microbiome 
+
 
 education:
   courses:
+  - course: MSc (Ongoing) 
+    institution: Case Western Reserve University
+    year: 2023
+  - course: Clinical Neurophysiology Fellowship 
+    institution: Cleveland Clinic
+    year: 2023
   - course: Epilepsy Fellowship 
     institution: Cleveland Clinic
     year: 2022  
@@ -70,4 +75,4 @@ user_groups:
 
 Maksim Parfyonov is a Pediatric Epilepsy Fellow at the Cleveland Clinic in Cleveland, Ohio. His research interests include treatment-resistant epilepsy and genetic causes of pediatric epilepsy. 
 
-He currently leads the [EPBiome](https://www.epbiome.com) study , a multi-center trial investigating the role of the gut microbiome in the efficacy of ketogenic diet, which is supported by a grant from the [Weston Foundation](https://www.westonfoundation.org/our-mandate/). His clinical interests mirror his research interests and include treatment-refractory epilepsy, ketogenic diet, and surgical management of epilepsy.
+He currently leads the EPBiome study , a multi-center trial investigating the role of the gut microbiome in the efficacy of ketogenic diet, which is supported by a grant from the [Weston Foundation](https://www.westonfoundation.org/our-mandate/). His clinical interests mirror his research interests and include treatment-refractory epilepsy, ketogenic diet, and surgical management of epilepsy.

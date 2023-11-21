@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "EPBiome: The Epilepsy Microbiome Study"
-summary: "Multi-center study located at BC Children's and Alberta Children's Hospitals, investigating the role of the gut microbiome in the efficacy of the ketogenic diet as a treatment for refractory epilepsy."
+title: "Long-term Seizure Outcomes Following Pediatric Epilepsy Surgery in Children with Hemispheric Lesions: Hemispherectomy vs Limited Resections"
+summary: "Clinicians caring for children with drug resistant epilepsy in the setting of large hemispheric or multilobar lesions are often faced with a difficult surgical decision. Hemispherectomy incurs significant deficits, but has a better chance of seizure freedom. In contrast, smaller lobar/multilobar resections may limit deficits but if unsuccessful lead to multiple surgeries and may prolong time to seizure freedom.  This decision becomes especially difficult in patients with minor or no existing deficits. The present study explores the  longitudinal seizure outcomes and developmental trajectories of patients for whom both surgical options were considered."
 authors: []
 tags: []
 categories: []
 date: 2020-08-05T10:43:27-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.epbiome.com"
+external_link:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,5 +39,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Multi-center study located at BC Children's and Alberta Children's Hospitals, investigating the role of the gut microbiome in the efficacy of the ketogenic diet as a treatment for refractory epilepsy. _Supervisor_ Dr. Linda Huh 

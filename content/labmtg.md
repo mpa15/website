@@ -4,4 +4,6 @@ date: last-modified
 draft: false
 ---
 
-{{< toc2 >}} 
+[2024-05-13](www.mparfyonov.com/labmtg/2024-05-13.html)
+
+[2024-08-02](www.mparfyonov.com/labmtg/lab-mtg-2024-08-02.html)

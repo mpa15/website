@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Epilepsy Fellow
+role: Associate Staff
 
 # Organizations/Affiliations
 organizations:
-- name: Cleveland Clinic Neurologic Institute
+- name: Epilepsy Center | Cleveland Clinic Neurologic Institute
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Maksim Parfyonov is a Pediatric Epileptologist at the Cleveland Clinic in Cleveland, Ohio. His research interests include epilepsy surgery and neuroimaging. His clinical interests mirror his research interests and include treatment-refractory epilepsy and surgical management of epilepsy.
+Maksim Parfyonov is a Pediatric Epileptologist at the Cleveland Clinic in Cleveland, Ohio. His research interests include using advanced neuroimaging techniques for presurgical evaluation and studying epileptogenicity.

@@ -1,6 +1,6 @@
 ---
 title: "Lab Meetings"
-date: last-modified
+date: 2024-08-02
 draft: false
 ---
 

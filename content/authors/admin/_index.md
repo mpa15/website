@@ -77,7 +77,13 @@ user_groups:
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Maksim Parfyonov is a Pediatric Epileptologist at the Cleveland Clinic in Cleveland, Ohio. His research interests include using advanced neuroimaging techniques for presurgical evaluation and studying epileptogenicity.
+=======
+Maksim Parfyonov is a Pediatric Epilepsy Fellow at the Cleveland Clinic in Cleveland, Ohio. His research interests include treatment-resistant epilepsy and genetic causes of pediatric epilepsy. 
+
+He currently leads the EPBiome study , a multi-center trial investigating the role of the gut microbiome in the efficacy of ketogenic diet, which is supported by a grant from the [Weston Foundation](https://www.westonfoundation.org/our-mandate/). His clinical interests mirror his research interests and include treatment-refractory epilepsy, ketogenic diet, and surgical management of epilepsy.
+>>>>>>> parent of 8ad68c1 (c)
 =======
 Maksim Parfyonov is a Pediatric Epilepsy Fellow at the Cleveland Clinic in Cleveland, Ohio. His research interests include treatment-resistant epilepsy and genetic causes of pediatric epilepsy. 
 

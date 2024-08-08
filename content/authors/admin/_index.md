@@ -27,19 +27,24 @@ interests:
 
 education:
   courses:
-  - course: MSc (in progress)
+  - course: MSc, Biomedical & Health Informatics (in progress)
     institution: Case Western Reserve University
     year: 2023-present
-  - course: Epilepsy and Clinical Neurophysiology Fellowships 
+  - course: Clinical Neurophysiology Fellowship 
     institution: Cleveland Clinic
-    year: 2022-2024
+    year: 2023
+  - course: Epilepsy Fellowship 
+    institution: Cleveland Clinic
+    year: 2022  
   - course: Pediatric Neurology Residency 
     institution: British Columbia Children's Hospital
     year: 2017-2022
   - course: MD 
     institution: University of British Columbia
     year: 2013-2017
-
+  - course: BSc in Neuroscience & Biochemistry
+    institution: Simon Fraser University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,4 +76,6 @@ user_groups:
 - Visitors
 ---
 
-Maksim Parfyonov is a Pediatric Epileptologist at the Cleveland Clinic in Cleveland, Ohio. His research interests include epilepsy surgery and neuroimaging. His clinical interests mirror his research interests and include treatment-refractory epilepsy and surgical management of epilepsy.
+Maksim Parfyonov is a Pediatric Epilepsy Fellow at the Cleveland Clinic in Cleveland, Ohio. His research interests include treatment-resistant epilepsy and genetic causes of pediatric epilepsy. 
+
+He currently leads the EPBiome study , a multi-center trial investigating the role of the gut microbiome in the efficacy of ketogenic diet, which is supported by a grant from the [Weston Foundation](https://www.westonfoundation.org/our-mandate/). His clinical interests mirror his research interests and include treatment-refractory epilepsy, ketogenic diet, and surgical management of epilepsy.

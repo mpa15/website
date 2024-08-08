@@ -1,0 +1,9 @@
+.reveal .slide-logo {
+  height: 400px !important;
+  width: 400px !important;
+  top: 60%;
+  left: 81%;
+  max-width: unset !important;
+  max-height: unset !important;
+  opacity: 0.3;
+}

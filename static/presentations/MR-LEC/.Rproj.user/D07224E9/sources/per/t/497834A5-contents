@@ -1,0 +1,589 @@
+---
+title: "Neuroimaging in Pediatric Epilepsy"
+author: Maksim Parfyonov MD, FRCPC
+institute: Cleveland Clinic Epilepsy Center
+subtitle: "EEG Course 2024"
+date: 2024-08-09
+format: revealjs
+logo: logo.png
+css: logo.css
+bibliography: refs.bib
+csl: epilepsia.csl
+---
+
+## Discolosures
+
+None
+
+## Objectives
+
+1.  Imaging basics and modalities
+2.  Review indications for neuroimaging in pediatric epilepsy
+3.  Imaging guidelines suggested by ILAE
+4.  Overview of common and less common substrates for epilepsy
+
+## Neuroimaging basics
+
+![](planes.png)
+
+## What modalities are available?
+
+-   Structural: CT, MRI
+-   Functional: fMRI, PET, SPECT
+-   Advanced post-processing techniques (e.g. VBM), novel methodology (MRF)
+
+# HOW does it work?
+
+## What are we actually measuring?
+
+![](mr-physics1.jpg) [@broadhouse_2019]
+
+## "Relaxation"
+
+::: columns
+::: column
+![](mr-phys3.gif)[^1]
+:::
+
+::: column
+![](mr-phys4.gif)
+:::
+:::
+
+[^1]: Courtesy of Allen D. Elster, MRIquestions.com
+
+## T1 vs T2
+
+::: columns
+::: column
+![](mr-phys5.gif)
+:::
+
+::: column
+![](mr-phys6.gif)[^2]
+:::
+:::
+
+[^2]: Courtesy of Allen D. Elster, MRIquestions.com
+
+## Signal Detection
+
+![](mr-physics2.png)
+
+-   More than you ever wanted to know about [MRI physics](https://mriquestions.com/index.html)
+
+## T1 vs T2-weighted images
+
+![](t1_t2_flair.webp) 
+
+Courtesy of [Preston, 2016](https://case.edu/med/neurology/NR/MRI%20Basics.html)
+
+# WHY is imaging important in epilepsy?
+
+## Reasons for Neuroimaging 
+
+:::{.incremental}
+-   establish etiology
+-   prognosis
+-   identify an acute process, e.g. hydrocephalus, encephalitis
+-   subacute or chronic process that requires intervention e.g. tumor, or has other prognostic implications, e.g. leukodystrophy
+-   focal lesions may be potentially amenable to epilepsy surgery e.g. MCD
+-   understand anatomical relationship to nearby eloquent regions
+:::
+
+## Lesional vs Non-lesional epilepsy
+::: {.incremental}
+- Epilepsy surgery success is directly related to precise localization of EZ [@blume_1986]
+- Rate of success in lesional TLE 62-80% vs nonlesional 36% [@berkovic1995]
+- Meta-analysis of 40 articles and 697 NL and 2860 LE patients: SZ free odds increased with lesional 2.5 overall, 2.7 temporal and 2.9 extratemporal [@tellez-zenteno2010]
+:::
+
+## Finding a lesion may completely change your approach!
+
+![](flowchart.png){fig-align="center"}
+
+# WHEN should we image?
+
+## Indications for Structural Neuroimaging [@gaillard2009] {.smaller}
+
+| Imaging Indicated                                     | Imaging not indicated                                      |
+|----------------------------------------|--------------------------------|
+| Focal history, abnormal exam, focal EEG abnormalities | Childhood absence epilepsy                                 |
+| Developmental regression                              | Juvenile absence epilepsy                                  |
+| \<2 yrs old                                           | Juvenile myoclonic epilepsy                                |
+| Symptomatic generalized epilepsy syndrome             | SeLECTs (Self-limited epilepsy with centrotemporal spikes) |
+| Increased ICP                                         |                                                            |
+| Status epilepticus                                    |                                                            |
+| Atypical course of SeLECTs or IGE                     |                                                            |
+
+
+::: notes
+ILAE subcommittee for pediatric neuroimaging
+:::
+
+## What is the yield of imaging?
+
+::: {.incremental}
+-   New onset seizure and status epilepticus 64/177 children (36%) [@lyons2016]
+-   Community-based study in Conneticut of children with new onset epilepsy. 488/613 (79.6%) had imaging. Etiologically relevant findings in 62/488 (12.7%) [@berg2000]
+-   Abnormal exam or focal EEG increases odds of finding abnormality
+:::
+
+# HOW to perform MRI in patients with epilepsy?
+
+## Recommended protocol
+
+![](bernasconi.png)
+
+::: notes
+The Neuroimaging Task Force recommends use of the Harmonized Neuroimaging of Epilepsy Structural Sequences (HARNESS-MRI) protocol with isotropic, millimetric 3D T1 and FLAIR images, and high-resolution 2D submillimetric T2 images
+:::
+
+## HARNESS-MRI
+
+![](harness.jpg)
+[@bernasconi2019]
+
+::: notes
+3D MR images with isotropic voxel resolution and no interslice gap can be reformatted in any plane with equal resolution
+3 acquisitions - 
+each sequence takes abotu 7-10 minutes
+:::
+
+## HARNESS-MRI
+
+![](harness2.jpg)
+[@bernasconi2019]
+
+# Overview of imaging findings in pediatric epilepsy {.smaller}
+
+## 
+
+-   Malformations of Cortical Development
+-   Sequelae of perinatal insult
+-   Mesial temporal sclerosis
+-   Autoimmune encephalitis & Rasmussen Encephalitis
+-   Tumors
+-   Vascular malformations
+-   CNS infections
+-   Neurocutaneous syndromes
+
+# Malformations of Cortical Development
+
+## The human brain is a clonal mosaic
+
+![](brain_clonal.webp)[@bizzotto2022]
+
+::: notes
+After fertilization, the zygote divides to reach the eight-cell stage. Sublineages derived from these first eight progenitors of the human embryo differentiate into ectoderm and, subsequently, contribute asymmetrically to the brain, with some lineages contributing more (for example, red clone) and others contributing much less (for example, yellow and pink clones)
+:::
+
+## Timing is everything...
+
+![](spectrum_mosaic.webp){height=600}
+[@bizzotto2022]
+
+
+# Focal Cortical Dysplasia (FCD)
+
+## FCD Classification
+
+![](fcd_chart.png)
+
+[@baldassari2018]
+
+## Classification Update {.smaller}
+
+::: columns
+::: column
+- New terms
+  - mild malformations of cortical development (mMCD)
+  - mMCD with oligodendroglial hypertrophy (MOGHE)
+  - "no definite FCD on histopathology"
+- "Layers" of classification: histopathology, molecular/genetic, imaging (e.g. "MRI positive Focal Cortical Dysplasia IIb, FCD gene panel negative")
+:::
+::: column
+![](fcd_class.jpg){height=300px}
+:::
+:::
+
+## FCD Histology
+![](fcd_spectrum.jpeg){height=600px} 
+[@najm2022]
+
+::: notes
+Staining with neuronal nuclear antibodies (NeuN). B, FCDIa = abundant neuronal microcolumns with often small neurons vertically arrayed like parallel strings of pearls. C, FCDIb of the temporal lobe without any layered neocortical organization. Also note the dramatically thinned cortical diameter. D, FCDIIb of the frontal lobe is characterized by lack of any cortical layering. Instead, large dysmorphic neurons appear randomly placed throughout the cortical ribbon (arrow). Balloon cells are not visible in this NeuN immunohistochemistry. E, FCDIIIa in the temporal neocortex of a patient with hippocampal sclerosis. Note the neuronal cell loss in supragranular layers L2 and L3 (arrow). F, FCDIIIc in a patient with Sturge–Weber syndrome and a vascular malformation (VM), that is, meningeal angiomatosis. The adjacent neocortex is thin and shows abundant microcolumns (as in FCDIa). G, FCDIIId of the parietofrontal region in a patient with perinatal stroke. Note the patchy disruption of cortical layers (arrow). H, FCDIIId of the occipital region in a boy with perinatal hypoxemic injury. Note the loss of layer 4 neurons (arrow). Scale bar = 500 μm, applies to all images
+:::
+
+## FCD Imaging - General Features
+
+- blurring of the gray-white matter interface
+- signal change on T2-weighted and FLAIR images
+  - may indicate presence of balloon cells [@widdess-walsh2006]
+- abnormal thickness or gyration/sulcation patterns
+
+## Type 1 FCD {.smaller}
+- mild hyperintensity of WM on T2/FLAIR
+- loss of GW matter differentiation
+- often subtle
+- more common in temporal
+- may be associated with lobar hypoplasia, atrophy or cortical thickening [@widdess-walsh2006]
+
+## Type 1 FCD
+
+![](fcd1.jpg)
+[@widdess-walsh2006]
+
+::: notes
+Type 1 FCD: An abnormal gyral pattern with blurring of the gray-white junction is seen in the left occipital region on the T1 volume acquisition sequence (A, arrow). There is also increased FLAIR signal in the mesial aspect of the left occipital region (B, arrow).
+:::
+
+## Type 2 FCD {.smaller}
+- Range of changes from extremely subtle to obvious
+- more common in frontal
+- IIa - focal blurring of GW, may have abnormal gyration/sulcation pattern
+- IIb - similar to IIa, but often has signal abnormality; can have other signs
+- Up to 80% seizure freedom for FCD IIB [@widdess-walsh2005]
+
+## FCD2A
+
+![](fcd2.png)
+[@cendes2016]
+
+::: notes
+Magnetic resonance imaging (MRI) multiplanar reconstruction (MPR) in a patient with frontal-lobe seizures due to focal cortical dysplasia (FCD) who had previous MRIs considered as negative. Top row shows reconstructed volumetric coronal T1-weighted images, and bottom row shows reconstructed volumetric fluid-attenuated inversion recovery (FLAIR) images and an axial reconstructed T1-weighted image (all with 1-mm thickness). The area with FCD in the left frontal lobe presents with slightly thickened cortex associated with abnormal gyri and cortical dimple (arrows). The FLAIR images did not show a clearly abnormal signal, except for a slightly blurred cortical-subcortical transition. The postoperative histopathology showed classic signs of FCD type IIA.
+:::
+
+
+## Transmantle sign in FCD IIb {.smaller}
+![](transmantle.png){height=500px, fig-align="center"}
+
+Case courtesy of Andrew Lawson, Radiopaedia.org, rID: [26376](https://radiopaedia.org/cases/focal-cortical-dysplasia-taylor-type-iib)
+
+::: notes
+At the posterior aspect of the right superior frontal sulcus, is a moderate-sized area of poor grey-white matter differentiation with cortical thickening. FLAIR hyperintensity tapers toward the ventricle is consistent with a transmantle sign.
+:::
+
+## Type 3 FCD
+
+## Type 3 FCD
+
+![](fcd3.png)
+[@cendes2016]
+
+::: notes
+Fluid-attenuated inversion recovery (FLAIR) and T1-weighted images showing an area of gliosis (best seen in the FLAIR images) and ulegyria (best seen in the sagittal image) in the left occipital region in a patient with refractory occipital epilepsy. Postoperative histopathology showed an area of focal cortical dysplasia and a gliotic scar tissue.
+:::
+## Bottom of Sulcus Dysplasia
+
+
+
+## Black Line Sign in FCD IIB
+
+::: columns
+::: column
+![](blackline.large.jpg)
+:::
+
+::: column
+- Ultra-high-field 7T MRI - increased spatial resolution
+- intracortical hypointense band within FCD IIB
+- highly concordant with region of SEEG-defined seizure onset [@tang2022]
+- ?abnormal GM component within the FCD
+:::
+:::
+
+
+## Where is the lesion?
+
+![](owl.jpg){fig-align="center"}
+
+## Voxel-Based Morphometry
+
+::: columns
+
+::: column
+![](vbm-process.png){height="600px"}
+:::
+
+::: column
+- MRI post-processing method which gives us 3 volumetric statistical maps[@huppertz2005]:
+  - junction map 
+  - extension map
+  - thickness map
+- Enhances ability to visualize subtle lesions
+- Still requires human to look at the maps (for now...)
+
+:::
+:::
+
+# Hemimegalencephaly
+
+## Hemimegalencephaly
+
+- rare hamartomatous malformation of the brain with extreme asymmetry
+- classification: isolated, syndromic, and total
+- syndromic associations: epidermal nevus syndrome, Klippel-Trénaunay-Weber syndrome, Proteus syndrome, Hypomelanosis of Ito, Neurofibromatosis, Tuberous Sclerosis, and others 
+
+## Hemimegalencephaly - Imaging
+
+- increase in the volume of WM, thick cortex with poor gray-white differentiation 
+- May have elements of lissencephaly, pachygyria, polymicrogyria, schizencephaly
+- corpus callosum is usually asymmetric, but may be hypoplastic or absent
+
+
+::: notes
+isoalted = sporadic without associated body hypertrophy, or cutaneous/systemic involvement; total = there is also enlargement of the ipsilateral half of the brainstem and cerebellum (rarest)
+:::
+
+## Total Hemimegalencephaly
+![](hemimegalencephaly-3.jpg){height=300px}
+![](hemimegalencephaly-2.jpg){height=300px}
+![](hemimegalencephaly.jpg){height=300px}
+
+Case courtesy of Frank Gaillard, [Radiopaedia.org, rID: 6619](https://radiopaedia.org/cases/hemimegalencephaly#image-26368)
+
+
+
+
+
+# Other MCD
+
+## Polymicrogyria (PMG)
+- excessive small gyri and shallow sulci
+- may be associated with other lesions (e.g. callosal agenesis, PVNH)
+
+## Schizencephaly
+- cleft which connects the cortical surface with ventricular lumen
+- edges are often lined by abnormal cortical tissue
+- open lip vs closed-lip (edges are juxtaposed vs not) [@barkovich2012]
+
+## Periventricular nodular heterotopia (PVNH)
+
+- ectopic neurons/gray matter in the periventricular areas (subependymal)
+
+
+## Subcortical band heterotopia (double cortex)
+
+- band of laminar subcortical 
+
+
+
+
+
+# Perinatal Insults
+
+## A note about timing...
+::: columns
+::: column
+- important to consider timing of MRI
+- See [this article @Branson.2013](https://geiselmed.dartmouth.edu/radiology/wp-content/uploads/sites/47/2019/04/Normal-Myelination-2013-Branson.pdf) for nice pictorial review
+:::
+::: column
+![](myelination.gif)^[@gaha2016]
+:::
+:::
+
+# Mesial Temporal Sclerosis (MTS)
+
+## MTS Imaging {.smaller}
+::: columns
+::: column
+- common cause of TLE
+- typical story - remote insult e.g. encephalitis, infection or trauma in first 4-5 years of life [@mathern1995]
+- important to diagnose because surgery often successful (near 90%) [@engel1996]
+- Imaging: 
+  - atrophy of hippocampus on T1w images
+  - abnormal signal intensity on T2w images
+  - hypometabolism on FDG-PET
+- Can consider quantitative, especially when bilateral disease [@cendes2016]
+:::
+
+::: column
+![](mts.jpg)
+[@mitchell2003]
+:::
+:::
+
+::: notes
+
+10-year-old w/ meningitis @ 6 mo. and onset of TLE at age 3
+
+A, Coronal view fast spin-echo image (2975/98) shows typical LEFT hippocampal sclerosis, with loss of volume and increased signal intensity in the left hippocampus (arrow).
+
+B and C, Coronal view proton attenuation-weighted images (2975/17) show lack of anterior temporal gray-white matter definition (arrows) and atrophy compared with the normal right side.
+
+D, Coronal view fast spoiled gradient-recalled volume acquisition T1-weighted image shows subtle decreased signal intensity within the anterior temporal white matter compared with the left side, with no cortical thickening.
+:::
+
+## MTS
+
+![](mts2.png)
+[@cendes2016]
+
+::: notes
+Coronal T1 inversion recovery (A) and fluid-attenuated inversion recovery (FLAIR) axial (B) and coronal (C) magnetic resonance imaging (MRI) showing left hippocampal atrophy associated with changes in morphology and internal structure and hyperintense FLAIR signal (arrows) – all classic signs of hippocampal sclerosis on MRI that were confirmed on postoperative histopathology. Patient with left mesial temporal-lobe epilepsy and seizurefree after left amygdalohippocampectomy.
+:::
+
+
+## Adult vs Pediatric MTS
+
+- MTS found in only about 1% of children newly diagnosed with epilepsy [@king1998, @berg2000]
+- Pediatric temporal lobe epilepsy cases, diagnosed as MTS by MRI - often found to have other pathology after surgery [@sinclair2001]
+- Controversy whether febrile seizures cause MTS [@tarkka2003]
+
+# Autoimmune Encephalitis & Rasmussen Encephalitis
+
+## Rasmussen Encephalitis
+
+- Rare, progressive disorder characterized by treatment resistant epilepsy, often with neurologic decline and hemiparesis
+- Poorly understood etiology
+- MRI shows progressive atrophy of one hemisphere, often worst in opercular region
+- Increased signal on T2 and FLAIR
+
+## Rasmussen Criteria{.smaller}
+Adapted from Bien 2005[@bien2005]
+
+::: columns
+::: column
+| **Category**  | **Criteria**                                                                                             |
+|---------------|----------------------------------------------------------------------------------------------------------|
+| **Clinical**  | Focal seizures (+/− EPC) and unilateral cortical deficit(s)                                               |
+| **EEG**       | Unihemispheric slowing +/− ep.form activity and unilateral SZ onset                              |
+| **MRI**       | Unihemispheric focal cortical atrophy and $\geq$ 1 of:<br>- GM or WM T2/FLAIR hyperintense signal<br>- Hyperintense signal or atrophy of the ipsilateral caudate head |
+: Part A (Need 3/3)
+:::
+::: column
+| **Category**     | **Criteria**                                                                                                                        |
+|------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| **Clinical**     | EPC or prog've unilateral cortical deficit(s)                                                                                   |
+| **MRI**          | Prog've unihemispheric focal cortical atrophy                                                                                   |
+| **Histopathology** | T-cell–dominated encephalitis with activated microglial cells and reactive astrogliosis |
+: Part B (Need 2/3)
+:::
+:::
+
+
+## Rasmussen Encephalitis Imaging
+![](rasmussen.png){height=600px}
+
+::: notes
+Axial T2-weighted (A), coronal T1-weighted inversion recovery (B), fluid-attenuated inversion recovery (FLAIR), axial (C), and coronal (D) images from two patients with Rasmussen’s encephalitis (A, B and C, D respectively) involving the right hemisphere. The progressive atrophy usually involves initially the insular-opercular regions, as seen in these patients. Sometimes, multiple cortical and subcortical foci of hyperintense FLAIR signal may be present, even in the initial stages of the disease, as in the patient shown in (C) and (D).
+:::
+
+
+# Tumors & Tumor-like conditions
+
+## DNET
+
+![](dnet.png)
+[@cendes2016]
+
+::: notes
+(A–C) T1 postgadolinium, T2-weighted coronal and axial fluid-attenuated inversion recovery images showing a dysembryoplastic neuroepithelial tumor (DNT) associated with focal cortical dysplasia (confirmed in the postoperative histopathology) in the right temporal lobe in a 23-year-old patient with refractory partial seizures since the age of 9 years, who became seizure-free after lesionectomy. Note a small area of intratumoral contrast enhancement (A: arrow), and the classic heterogeneous aspect of the tumor in all magnetic resonance imaging (sequences, sometimes given the appearance of small microcysts inside the lesion. (D–F) Coronal T2-weighted and sagittal T1-weighted images showing a DNT in the left temporal lobe in a patient with seizures since childhood who became seizure-free after lesionectomy.
+:::
+
+## Oligodendroglioma
+
+![](oligo.png)
+[@cendes2016]
+
+::: notes
+Axial fluid-attenuated inversion recovery (FLAIR) (A) and T1-weighted (B) images and postgadolinium coronal T1-weighted image (with a slight peritumoral enhancement (C) in a patient with temporal-lobe epilepsy due to oligodendroglioma in the right temporal horn of the ventricle adjacent to the hippocampus. The area with hypointense signal on FLAIR (arrow) and T1 images corresponds to a small calcification seen on computed tomography scan.
+:::
+
+## Hypothalamic Hemartoma {.smaller}
+
+- Heterotopic developmental malformation - mixture of normal neurons and glial cells (ventral hypothalamus) [@cohen2021]
+- Clinical:
+  - endocrine (e.g. precocious puberty)
+  - psychiatric (mood, behavior, "rage attacks")
+  - neurological (ID, epilepsy, epileptic encephalopathy)
+- Seizures:
+  - onset usually first year
+  - gelastic, dialetpic, GTC
+
+## Delalande Classification of HH
+![](delalande.png)
+[@cohen2021]
+
+## Delalande - Imaging
+
+![](hh_cohen.jpeg)
+
+::: notes
+
+Share
+All panels show coronal T2-weighted MRI. HH lesion type is designated according to the proposed classification system of Delalande and Fohlen.44 (A) Type I HH: 2-year-old boy with mild developmental delay but otherwise asymptomatic. Note attachment of the HH lesion entirely below the floor of the third ventricle. (B) Type II HH: 5-year-old boy with a history of gelastic seizures since 12 months of age. Note attachment to the left side of the hypothalamus, entirely above the floor of the third ventricle. (C) Type III HH: 31-year-old woman with refractory epilepsy, including gelastic seizures since infancy. Note attachment of the HH lesion to the right side of the hypothalamus both above and below the floor of the third ventricle. (D) Type IV HH: 3-year-old girl with severe developmental delay, history of precocious puberty, and multiple daily gelastic seizures. Type IV is designated by Delalande and Fohlen as a “giant” HH, but criteria to distinguish between types III and IV were not offered. We (Barrow Neurologic Institute) currently use a volume measurement over 8 cm3 to designate type IV, measuring the maximal length of the lesion in the 3 major axes, then utilizing the formula for determining the volume of an ellipsoid (courtesy of John F. Kerrigan, MD, Barrow Neurologic Institute).
+:::
+
+## HH imaging
+
+![](hh.png){height=600px}
+[@cendes2016]
+
+::: notes
+Coronal fluid-attenuated inversion recovery and T1-weighted images showing a hypothalamic hamartoma (arrows) in a patient with gelastic seizures.
+:::
+
+
+# Vascular malformations
+
+# CNS Infections
+
+## Neurocutaneous syndromes
+
+-   Tuberous sclerosis complex
+-   Sturge Weber syndrome
+-   Less common - hypomelanosis of Ito, epidermal nevus syndrome, Wyburn-Mason syndrome, incontinentia pigmenti
+
+# TSC
+
+## Tuberous Sclerosis Complex {.smaller}
+
+-   Rare monogenic neurocutaneous syndrome due to mutations in *TSC1* or *TSC2*, tumor suppressor genes in the mTOR pathway
+-   Abnormalities on brain MRI in \>95% TSC patients[@russo2020]
+-   4 major TSC-related manifestations on neuroimaging:
+
+1.  cortical tubers
+2.  white matter lesions
+3.  sub-ependymal nodules
+4.  sub-ependymal giant cell astrocytomas
+
+-   More rarely, can have intra-parenchymal calcifications, hemimegalencephaly, cerebral or cerebellar malformations, intracranial aneurysms and occlusive vascular disorders.
+
+## Subcortical Tubers in TSC
+
+::: columns
+::: {.column width="60%"}
+-   Glioneuronal brain hemartomas
+-   disrupted 6-layer organization of the cortex
+-   usually frontal or parietal but can be spread in all lobes
+-   Can be *under-recognized* in first years of life due to similarity with adjacent unmyelinated WM
+:::
+
+::: {.column width="40%"}
+![](subcortical-tubers.jpg)[^6]
+:::
+:::
+
+[^6]: Case courtesy of Behrang Amini, Radiopaedia.org, rID: 35867
+
+## Different types of cortical tubers
+
+-   
+
+## Subependymal giant cell astrocytomas (SGCA)
+
+## Sturge Weber syndrome
+
+## Hypomelanosis of Ito
+
+## Objectives
+
+1.  Imaging basics and modalities
+2.  Review indications for neuroimaging in pediatric epilepsy
+3.  Imaging guidelines suggested by ILAE
+4.  Overview of common and less common substrates for epilepsy
+
+## References {.scrollable}

@@ -1,0 +1,180 @@
+---
+title: "Luka Dmitrovic"
+subtitle: "MRN 91152168"
+author: Maksim Parfyonov MD, FRCPC
+date: 2024-07-30
+format: revealjs
+logo: logo.png
+css: logo.css
+resources:
+  - test.wmv
+---
+
+
+## Seizure History
+- 16 year old RHD male
+- Onset at age 7 (2016) with episodes of behavioral arrest and staring, 3-4x/month
+- Formal diagnosis in Serbia - started on LEV; since has failed 7 ASMs
+- June 2023 seen by Dr. Achi in Abu Dhabi, workup including VEEG, MRI, PET, SPECT
+- Current frequency 8-9 per month
+
+## Seizure Semiology {.smaller}
+- **Aura -> Dialeptic/automotor seizure**
+  - feels "strange" a few seconds before. +/- deja vu sensation. 
+  - infrequently, will see "people" or unfamiliar faces in RIGHT visual field for few seconds; may  hear sounds
+  - sometimes can see a "train", but this is in the LEFT visual field. 
+  - mother feels that right visual field more common (80:20)
+- He may move his head to the left or sway if standing. 
+- If standing may fall forward and to the right.
+- Right hand can take on dystonic posture later in the seizure. Eyes may widen. Oral and hand automatisms (LEFT > right hand).
+- Duration: 25-30s
+
+## Outside EEG (Belgarde, 07/2019) {.smaller}
+
+- sharp waves in the right posterior temporal region
+- 3 seizures: Visual aura (flash or spark in the field of vision) -> Dialeptic seizure
+- onset of ictal activity in the right temporal-posterior-occipital region. 
+
+
+# Interictal
+
+## Interictal Findings 1
+!["Questionable low voltage spikes and paroxysmal fast activity at F3/Fz"](iic1.jpg)
+
+## Interictal Findings 2
+!["Rare sharply contoured slow in the left midline frontal region (F3/Fz)"](iic2.jpg)
+
+## Interictal Findings 3
+!["Rare sharp transients in the left mid-frontal region (F3 > Fz)"](iic3.jpg)
+
+## Interictal Findings 4
+!["Occasional, sleep activated high voltage spikes in the left frontal midline region (F3 > AF1, FC1, Fz) – more prominent on day 4 of recording"](iic4.jpg)
+
+
+# Ictal
+
+## SZ 2P
+{{< video sz2p.mp4 >}}
+
+## SZ 2P Onset
+![](luka-dmitrovic-sz2p-onset.png)
+## SZ 2P +15s
+![](luka-dmitrovic-sz2p+15s.png)
+
+## SZ 2P +30s
+![](luka-dmitrovic-sz2p+30s.png)
+
+## SZ 2P +45s
+![](luka-dmitrovic-sz2p+45s.png)
+
+## SZ 2P End
+![](luka-dmitrovic-sz2p-end.png)
+
+## SZ 3P (Ictal SPECT)
+{{< video sz3p.mp4 >}}
+
+## SZ 3P - One page before
+![](luka-dmitrovic-sz3p-one-page-before.png)
+
+## SZ 3P - Onset
+![](luka-dmitrovic-sz3p-onset.png)
+
+## SZ 3P - +15s
+![](luka-dmitrovic-sz3p+15s.png)
+
+## SZ 3P - +30s
+![](luka-dmitrovic-sz3p+30s.png)
+
+## SZ 3P - +45s
+![](luka-dmitrovic-sz3p+45s.png)
+
+## SZ 3P - +1min
+![](luka-dmitrovic-sz3p+1min.png)
+
+## SZ 3P - End
+![](luka-dmitrovic-sz3p-end.png)
+
+
+
+## MRI Brain
+![](mri.jpg)
+
+## VBM (03/22/2024)
+
+![ Multiple VBM foci with majority in the R frontal and temporo-occipital regions, shown on the GW junction file; no correlates seen on T2/FLAIR.](vbm.png)
+
+## FDG-PET
+!["There is evidence of delta in the right temporo-parietal lobe particularly posteriorly as imaged on SISCOM"](pet.jpg)
+
+## SPECT (01/11/2024)
+![injection - 18s, flush - 25s, "Strong Right temporo-occipital involvement"](spect.png)
+
+## SPECT (01/11/2024)
+![Left ACC](spect2.png)
+
+## Neuropsych
+
+- Normal per report from Serbia. 
+
+- per Dr Achi: "On my interviews, some mild psychomotor slow, confounded by language barrier and medications"
+
+## Autoimmune testing
+
+- Serum panel Mayo EPS - **negative**
+
+## PMC
+![](pmc.png)
+
+## Implantation Map
+![](luka-dmitrovic-map.png)
+
+
+# MEG
+
+## MEG (07/17/2024)
+![right posterior and superior temporal polyspike, no EEG correlate](meg.png){.r-stretch}
+
+## MEG (07/17/2024)
+
+Impression: 
+
+This 105-minute outpatient MEG with home-dose ASM consisted of 70% sleep captured **MEG unique** polyspikes which were localized to the **RIGHT posterior and superior temporal region** with loose clustering.  Of note, clear right or left epileptiform discharges on EEG described in the history were not captured during this MEG recording.
+
+# 7T 
+
+## 7T {.smaller}
+
+![](moon2.png)
+Doksu Moon: "is a difficult and subtle case.  I agree that this patient has diffuse subcortical band heterotopia.  It is very easy to miss even on the 7T scan and even more so on the 3T scan. I think we can see it the best on 7T T1 images."
+
+## 7T {.smaller}
+
+![](moon3.png)
+
+## Ruggieri 
+
+"He would appear to have diffuse, extensive, subtle band heterotopias that are most apparent on the last three series of the 7T study and most confluent in the right inferior parietal lobule and paracentral region.  While the configuration is atypical, the nonspecific finding in the left frontal lobe follows the signal intensity characteristics of gray matter extending from the ependymal surface of the left frontal horn, through the anterior body of the corpus callosum, to the callosal and cingulate sulci and the gyrus and sulcus anterior to this in the left frontal pole."
+
+
+## 7T MRI (07/18/2024)
+![](7t_cor.mp4)
+
+## 7T MRI (07/18/2024)
+![](7t_sag.mp4)
+
+
+## 7T MRI (07/18/2024)
+![](7t_ax.mp4)
+
+
+
+## 7T Impression
+
+"Unchanged nonspecific patchy foci of signal abnormality in the anterior corpus callosum.
+
+Bilateral right greater than left supratentorial ill-defined regions of T1 mildly hypointense signal in the subcortical white matter with subcortical U fibers sparing and most pronounced in the posterior right hemisphere, possibly reflecting a neuronal migrational abnormality.  No
+convincing heterotopia or polymicrogyria.
+
+Normal appearance of the hippocampi."
+
+

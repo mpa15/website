@@ -1,0 +1,2703 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1111/epi.17301",
+            "ISSN": "1528-1167",
+            "abstract": "Ongoing challenges in diagnosing focal cortical dysplasia (FCD) mandate continuous research and consensus agreement to improve disease definition and classification. An International League Against Epilepsy (ILAE) Task Force (TF) reviewed the FCD classification of 2011 to identify existing gaps and provide a timely update. The following methodology was applied to achieve this goal: a survey of published literature indexed with ((Focal Cortical Dysplasia) AND (epilepsy)) between 01/01/2012 and 06/30/2021 (n = 1349) in PubMed identified the knowledge gained since 2012 and new developments in the field. An online survey consulted the ILAE community about the current use of the FCD classification scheme with 367 people answering. The TF performed an iterative clinico-pathological and genetic agreement study to objectively measure the diagnostic gap in blood/brain samples from 22 patients suspicious for FCD and submitted to epilepsy surgery. The literature confirmed new molecular-genetic characterizations involving the mechanistic Target Of Rapamycin (mTOR) pathway in FCD type II (FCDII), and SLC35A2 in mild malformations of cortical development (mMCDs) with oligodendroglial hyperplasia (MOGHE). The electro-clinical-imaging phenotypes and surgical outcomes were better defined and validated for FCDII. Little new information was acquired on clinical, histopathological, or genetic characteristics of FCD type I (FCDI) and FCD type III (FCDIII). The survey identified mMCDs, FCDI, and genetic characterization as fields for improvement in an updated classification. Our iterative clinico-pathological and genetic agreement study confirmed the importance of immunohistochemical staining, neuroimaging, and genetic tests to improve the diagnostic yield. The TF proposes to include mMCDs, MOGHE, and “no definite FCD on histopathology” as new categories in the updated FCD classification. The histopathological classification can be further augmented by advanced neuroimaging and genetic studies to comprehensively diagnose FCD subtypes; these different levels should then be integrated into a multi-layered diagnostic scheme. This update may help to foster multidisciplinary efforts toward a better understanding of FCD and the development of novel targeted treatment options.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        26
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Najm",
+                    "given": "Imad"
+                },
+                {
+                    "family": "Lal",
+                    "given": "Dennis"
+                },
+                {
+                    "family": "Alonso Vanegas",
+                    "given": "Mario"
+                },
+                {
+                    "family": "Cendes",
+                    "given": "Fernando"
+                },
+                {
+                    "family": "Lopes-Cendes",
+                    "given": "Iscia"
+                },
+                {
+                    "family": "Palmini",
+                    "given": "Andre"
+                },
+                {
+                    "family": "Paglioli",
+                    "given": "Eliseu"
+                },
+                {
+                    "family": "Sarnat",
+                    "given": "Harvey B."
+                },
+                {
+                    "family": "Walsh",
+                    "given": "Christopher A."
+                },
+                {
+                    "family": "Wiebe",
+                    "given": "Samuel"
+                },
+                {
+                    "family": "Aronica",
+                    "given": "Eleonora"
+                },
+                {
+                    "family": "Baulac",
+                    "given": "Stéphanie"
+                },
+                {
+                    "family": "Coras",
+                    "given": "Roland"
+                },
+                {
+                    "family": "Kobow",
+                    "given": "Katja"
+                },
+                {
+                    "family": "Cross",
+                    "given": "J. Helen"
+                },
+                {
+                    "family": "Garbelli",
+                    "given": "Rita"
+                },
+                {
+                    "family": "Holthausen",
+                    "given": "Hans"
+                },
+                {
+                    "family": "Rössler",
+                    "given": "Karl"
+                },
+                {
+                    "family": "Thom",
+                    "given": "Maria"
+                },
+                {
+                    "family": "El-Osta",
+                    "given": "Assam"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Jeong Ho"
+                },
+                {
+                    "family": "Miyata",
+                    "given": "Hajime"
+                },
+                {
+                    "family": "Guerrini",
+                    "given": "Renzo"
+                },
+                {
+                    "family": "Piao",
+                    "given": "Yue-Shan"
+                },
+                {
+                    "family": "Zhou",
+                    "given": "Dong"
+                },
+                {
+                    "family": "Blümcke",
+                    "given": "Ingmar"
+                }
+            ],
+            "container-title": "Epilepsia",
+            "id": "najm2022",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "keyword": "brain,classification,epilepsy,focal cortical dysplasia,genes,seizure",
+            "language": "en-US",
+            "page": "1899-1919",
+            "title": "The ILAE consensus classification of focal cortical dysplasia: An update proposed by an ad hoc task force of the ILAE diagnostic methods commission",
+            "title-short": "The ILAE consensus classification of focal cortical dysplasia",
+            "type": "article-journal",
+            "volume": "63"
+        },
+        {
+            "DOI": "10.1111/epi.15612",
+            "ISSN": "0013-9580, 1528-1167",
+            "abstract": "Abstract Structural magnetic resonance imaging ( MRI ) is of fundamental importance to the diagnosis and treatment of epilepsy, particularly when surgery is being considered. Despite previous recommendations and guidelines, practices for the use of MRI are variable worldwide and may not harness the full potential of recent technological advances for the benefit of people with epilepsy. The International League Against Epilepsy Diagnostic Methods Commission has thus charged the 2013-2017 Neuroimaging Task Force to develop a set of recommendations addressing the following questions: (1) Who should have an MRI ? (2) What are the minimum requirements for an MRI epilepsy protocol? (3) How should magnetic resonance (MR) images be evaluated? (4) How to optimize lesion detection? These recommendations target clinicians in established epilepsy centers and neurologists in general/district hospitals. They endorse routine structural imaging in new onset generalized and focal epilepsy alike and describe the range of situations when detailed assessment is indicated. The Neuroimaging Task Force identified a set of sequences, with three-dimensional acquisitions at its core, the harmonized neuroimaging of epilepsy structural sequences— HARNESS - MRI protocol. As these sequences are available on most MR scanners, the HARNESS - MRI protocol is generalizable, regardless of the clinical setting and country. The Neuroimaging Task Force also endorses the use of computer-aided image postprocessing methods to provide an objective account of an individual’s brain anatomy and pathology. By discussing the breadth and depth of scope of MRI , this report emphasizes the unique role of this noninvasive investigation in the care of people with epilepsy.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        5
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Bernasconi",
+                    "given": "Andrea"
+                },
+                {
+                    "family": "Cendes",
+                    "given": "Fernando"
+                },
+                {
+                    "family": "Theodore",
+                    "given": "William H."
+                },
+                {
+                    "family": "Gill",
+                    "given": "Ravnoor S."
+                },
+                {
+                    "family": "Koepp",
+                    "given": "Matthias J."
+                },
+                {
+                    "family": "Hogan",
+                    "given": "Robert Edward"
+                },
+                {
+                    "family": "Jackson",
+                    "given": "Graeme D."
+                },
+                {
+                    "family": "Federico",
+                    "given": "Paolo"
+                },
+                {
+                    "family": "Labate",
+                    "given": "Angelo"
+                },
+                {
+                    "family": "Vaudano",
+                    "given": "Anna Elisabetta"
+                },
+                {
+                    "family": "Blümcke",
+                    "given": "Ingmar"
+                },
+                {
+                    "family": "Ryvlin",
+                    "given": "Philippe"
+                },
+                {
+                    "family": "Bernasconi",
+                    "given": "Neda"
+                }
+            ],
+            "container-title": "Epilepsia",
+            "id": "bernasconi2019",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        6
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "1054-1068",
+            "title": "Recommendations for the use of structural magnetic resonance imaging in the care of patients with epilepsy: A consensus report from the International League Against Epilepsy Neuroimaging Task Force",
+            "title-short": "Recommendations for the use of structural magnetic resonance imaging in the care of patients with epilepsy",
+            "type": "article-journal",
+            "volume": "60"
+        },
+        {
+            "DOI": "10.1148/rg.284075114",
+            "ISSN": "0271-5333",
+            "abstract": "Pediatric patients with intractable epilepsy represent a challenging clinical population. However, recent advances in neuroimaging with a multimodality imaging approach that combines fluorine 18 fluorodeoxyglucose positron emission tomography, magnetoencephalography, diffusion tensor imaging, and magnetic source imaging with conventional magnetic resonance imaging continue to improve diagnosis and treatment in affected patients. These advances are increasing the understanding of the underlying disease process and improving the ability to noninvasively detect epileptogenic foci that in the past went undetected and whose accurate localization is crucial for a good outcome following surgical resection. © RSNA, 2008",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        28
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Rastogi",
+                    "given": "Sachin"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Christopher"
+                },
+                {
+                    "family": "Salamon",
+                    "given": "Noriko"
+                }
+            ],
+            "container-title": "RadioGraphics",
+            "id": "rastogi2008",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008,
+                        7
+                    ]
+                ]
+            },
+            "page": "1079-1095",
+            "publisher": "Radiological Society of North America",
+            "title": "Neuroimaging in Pediatric Epilepsy: A Multimodality Approach",
+            "title-short": "Neuroimaging in Pediatric Epilepsy",
+            "type": "article-journal",
+            "volume": "28"
+        },
+        {
+            "ISBN": "978-1-61705-243-9",
+            "abstract": "Now in its fourth edition, Pellock’s Pediatric Epilepsy: Diagnosis and Therapy remains the gold standard for diagnosis, treatment, classification, and management of childhood epilepsies. With over 100 distinguished contributors from world-leading epilepsy programs, the long-awaited new edition maintains the breadth and scope the book is known for while significantly updating the science, practice, and therapeutic strategies that continue to move the field forward. At the center of this new edition is the totally reorganized and expanded section on age-related syndromes. There is a major emphasis on new genetic-based classifications and the clinical implications for identifying and managing the various subtypes. New chapters devoted exclusively to Panayiotopoulos syndrome, myoclonic status epilepticus, and autosomal dominant focal epilepsies, among others, cover even more ground than the last edition. Brand-new chapters in the drug and diet section cover perampanel, ezogabine, and lacosamide, while the existing chapters on major medical treatments have been comprehensively updated to reflect the latest trials and studies. Other sections contain new chapters on genetics, non-invasive functional mapping, sleep issues for pediatric epilepsy patients, and more. With more than 80 chapters, Pellock’s Pediatric Epilepsy now contains a full discussion of the spectrum of epilepsy disorders, not just seizures. From basic mechanisms and epidemiology, through diagnosis and therapy, to quality of life issues, the new edition of this established reference covers every aspect of childhood epilepsy and will continue to be the definitive core text for all professionals involved in the field. New to the Fourth Edition: Every chapter thoroughly reviewed, revised, and updated Section on age-related syndromes completely reconfigured to align with new ILAE terminology and organization in classifying seizures and forms of epilepsy Major update on disease mechanisms and all treatments for epilepsy, including drugs Increased attention to special populations, including a heavily-updated chapter on the female epilepsy patient New final section covers the epilepsy spectrum, with new chapters on epilepsy and sleep, co-morbidities of childhood, behavioral influence of AEDs, and transitioning to adulthood",
+            "author": [
+                {
+                    "family": "MD",
+                    "given": "Douglas R. Nordli",
+                    "suffix": "Jr"
+                },
+                {
+                    "family": "MD",
+                    "given": "John M. Pellock"
+                },
+                {
+                    "family": "PhD",
+                    "given": "Raman Sankar",
+                    "suffix": "MD"
+                },
+                {
+                    "family": "MD",
+                    "given": "James W. Wheless"
+                }
+            ],
+            "id": "md2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        8
+                    ]
+                ]
+            },
+            "keyword": "Medical / Neurology,Medical / Pediatrics",
+            "language": "en-US",
+            "publisher": "Springer Publishing Company",
+            "title": "Pellock’s Pediatric Epilepsy: Diagnosis and Therapy",
+            "title-short": "Pellock’s Pediatric Epilepsy",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1016/S1474-4422(15)00383-X",
+            "ISSN": "1474-4422, 1474-4465",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        16
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Duncan",
+                    "given": "John S."
+                },
+                {
+                    "family": "Winston",
+                    "given": "Gavin P."
+                },
+                {
+                    "family": "Koepp",
+                    "given": "Matthias J."
+                },
+                {
+                    "family": "Ourselin",
+                    "given": "Sebastien"
+                }
+            ],
+            "container-title": "The Lancet Neurology",
+            "id": "duncan2016",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        4
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "420-433",
+            "publisher": "Elsevier",
+            "title": "Brain imaging in the assessment for epilepsy surgery",
+            "type": "article-journal",
+            "volume": "15"
+        },
+        {
+            "DOI": "10.1542/peds.106.3.527",
+            "ISSN": "0031-4005",
+            "abstract": "Neuroimaging is generally considered a part of the evaluation of seizures and epilepsy. There is limited information about its current use in the initial evaluation of pediatric epilepsy and about its yield during the initial diagnosis of epilepsy. We describe the patterns in the use and yield of diagnostic imaging in children with newly diagnosed epilepsy in a community-based study.Children were recruited when first diagnosed with epilepsy by participating physicians in Connecticut (1993–1997). Definitions for etiology and underlying epilepsy syndromes are as published by the International League Against Epilepsy.Of 613 children, 488 (79.6%) had imaging: 388 (63.3%) magnetic resonance imaging, 197 (32.1%) computed tomography scans, and 97 (15.8%) both. Half of children with idiopathic generalized epilepsy had imaging studies compared with 70% to 100% of children with other forms of epilepsy, depending on the specific type. Etiologically relevant abnormalities were found in 62 (12.7% of those imaged). Fourteen of these children had otherwise completely normal presentations and histories. Their abnormalities included tuberous sclerosis (N = 4), tumors (N = 2), an arteriovenous malformation later diagnosed as a tumor, a cavernous angioma, cerebral malformations (N = 3), and other abnormalities (N = 3). Thirteen of the 14 had partial seizures and 12 had focal electroencephalographic (EEG) findings. Only 1 had neither.In children with newly diagnosed epilepsy, neuroimaging reveals a small but significant number of serious abnormalities not previously suspected. Most of these children have partial seizures or focal EEG abnormalities. Neuroimaging should be considered during the evaluation of children with newly diagnosed epilepsy, especially for those with neurologic deficits or partial seizures or focal EEG abnormalities that are not part of an idiopathic localization-related epilepsy syndrome.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        16
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Berg",
+                    "given": "Anne T."
+                },
+                {
+                    "family": "Testa",
+                    "given": "Francine M."
+                },
+                {
+                    "family": "Levy",
+                    "given": "Susan R."
+                },
+                {
+                    "family": "Shinnar",
+                    "given": "Shlomo"
+                }
+            ],
+            "container-title": "Pediatrics",
+            "id": "berg2000",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000,
+                        9
+                    ]
+                ]
+            },
+            "page": "527-532",
+            "title": "Neuroimaging in Children With Newly Diagnosed Epilepsy: A Community-Based Study",
+            "title-short": "Neuroimaging in Children With Newly Diagnosed Epilepsy",
+            "type": "article-journal",
+            "volume": "106"
+        },
+        {
+            "DOI": "10.1542/peds.2018-0672",
+            "ISSN": "0031-4005",
+            "abstract": "We assessed the adherence to neuroimaging guidelines and the diagnostically relevant yield of neuroimaging in newly presenting early life epilepsy (ELE).There were 775 children with a new diagnosis of epilepsy (&lt;3 years old at onset) who were recruited through the ELE study at 17 US pediatric epilepsy centers (2012–2015) and managed prospectively for 1 year. The data were analyzed to assess the proportion of children who underwent neuroimaging, the type of neuroimaging, and abnormalities.Of 725 children (93.5%) with neuroimaging, 714 had an MRI (87% with seizure protocols) and 11 had computed tomography or ultrasound only. Etiologically relevant abnormalities were present in 290 individuals (40%) and included: an acquired injury in 97 (13.4%), malformations of cortical development in 56 (7.7%), and other diffuse disorders of brain development in 51 (7.0%). Neuroimaging was abnormal in 160 of 262 (61%) children with abnormal development at diagnosis versus 113 of 463 (24%) children with typical development. Neuroimaging abnormalities were most common in association with focal seizure semiology (40%), spasms (47%), or unclear semiology (42%). In children without spasms or focal semiology with typical development, 29 of 185 (16%) had imaging abnormalities. Pathogenic genetic variants were identified in 53 of 121 (44%) children with abnormal neuroimaging in whom genetic testing was performed.Structural abnormalities occur commonly in ELE, and adherence to neuroimaging guidelines is high at US pediatric epilepsy centers. These data support the universal adoption of imaging guidelines because the yield is substantially high, even in the lowest risk group.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        16
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Coryell",
+                    "given": "Jason"
+                },
+                {
+                    "family": "Gaillard",
+                    "given": "William D."
+                },
+                {
+                    "family": "Shellhaas",
+                    "given": "Renée A."
+                },
+                {
+                    "family": "Grinspan",
+                    "given": "Zachary M."
+                },
+                {
+                    "family": "Wirrell",
+                    "given": "Elaine C."
+                },
+                {
+                    "family": "Knupp",
+                    "given": "Kelly G."
+                },
+                {
+                    "family": "Wusthoff",
+                    "given": "Courtney J."
+                },
+                {
+                    "family": "Keator",
+                    "given": "Cynthia"
+                },
+                {
+                    "family": "Sullivan",
+                    "given": "Joseph E."
+                },
+                {
+                    "family": "Loddenkemper",
+                    "given": "Tobias"
+                },
+                {
+                    "family": "Patel",
+                    "given": "Anup"
+                },
+                {
+                    "family": "Chu",
+                    "given": "Catherine J."
+                },
+                {
+                    "family": "Massey",
+                    "given": "Shavonne"
+                },
+                {
+                    "family": "Novotny",
+                    "given": "Edward J.",
+                    "suffix": "Jr"
+                },
+                {
+                    "family": "Saneto",
+                    "given": "Russel P."
+                },
+                {
+                    "family": "Berg",
+                    "given": "Anne T."
+                }
+            ],
+            "container-title": "Pediatrics",
+            "id": "coryell2018",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        9
+                    ]
+                ]
+            },
+            "page": "e20180672",
+            "title": "Neuroimaging of Early Life Epilepsy",
+            "type": "article-journal",
+            "volume": "142"
+        },
+        {
+            "DOI": "10.3390/children6030043",
+            "ISSN": "2227-9067",
+            "abstract": "The etiology of epilepsy is variable and sometimes multifactorial. Clinical course and response to treatment largely depend on the precise etiology of the seizures. Along with the electroencephalogram (EEG), neuroimaging techniques, in particular, magnetic resonance imaging (MRI), are the most important tools for determining the possible etiology of epilepsy. Over the last few years, there have been many developments in data acquisition and analysis for both morphological and functional neuroimaging of people suffering from this condition. These innovations have increased the detection of underlying structural pathologies, which have till recently been classified as “cryptogenic” epilepsy. Cryptogenic epilepsy is often refractory to anti-epileptic drug treatment. In drug-resistant patients with structural or consistent functional lesions related to the epilepsy syndrome, surgery is the only treatment that can offer a seizure-free outcome. The pre-operative detection of the underlying structural condition increases the odds of successful surgical treatment of pharmacoresistant epilepsy. This article provides a comprehensive overview of neuroimaging techniques in epilepsy, highlighting recent advances and innovations and summarizes frequent etiologies of epilepsy in order to improve the diagnosis and management of patients suffering from seizures, especially young patients and children.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        16
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Fitsiori",
+                    "given": "Aikaterini"
+                },
+                {
+                    "family": "Hiremath",
+                    "given": "Shivaprakash Basavanthaiah"
+                },
+                {
+                    "family": "Boto",
+                    "given": "José"
+                },
+                {
+                    "family": "Garibotto",
+                    "given": "Valentina"
+                },
+                {
+                    "family": "Vargas",
+                    "given": "Maria Isabel"
+                }
+            ],
+            "container-title": "Children",
+            "id": "fitsiori2019",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        3
+                    ]
+                ]
+            },
+            "keyword": "cortical malformations,diffusion tensor imaging,epilepsy,hippocampal sclerosis,magnetic resonance imaging (MRI),positron emission topography-computed tomography (PET-CT),single positron emission computed tomography (SPECT),spectroscopy",
+            "language": "en-US",
+            "page": "43",
+            "publisher": "Multidisciplinary Digital Publishing Institute",
+            "title": "Morphological and Advanced Imaging of Epilepsy: Beyond the Basics",
+            "title-short": "Morphological and Advanced Imaging of Epilepsy",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "DOI": "10.1111/j.1528-1167.2009.02075.x",
+            "ISSN": "1528-1167",
+            "abstract": "The International League Against Epilepsy (ILAE) Subcommittee for Pediatric Neuroimaging examined the usefulness of, and indications for, neuroimaging in the evaluation of children with newly diagnosed epilepsy. The retrospective and prospective published series with n \\geq30 utilizing computed tomography (CT) and magnetic resonance imaging (MRI) (1.5 T) that evaluated children with new-onset seizure(s) were reviewed. Nearly 50% of individual imaging studies in children with localization-related new-onset seizure(s) were reported to be abnormal; 15–20% of imaging studies provided useful information on etiology or and seizure focus, and 2–4% provided information that potentially altered immediate medical management. A significant imaging abnormality in the absence of a history of a localization-related seizure, abnormal neurologic examination, or focal electroencephalography (EEG) is rare. Imaging studies in childhood absence epilepsy, juvenile absence epilepsy, juvenile myoclonic epilepsy, and benign childhood epilepsy with centrotemporal spikes (BECTS) do not identify significant structural abnormalities. Imaging provides important contributions to establishing etiology, providing prognostic information, and directing treatment in children with recently diagnosed epilepsy. Imaging is recommended when localization-related epilepsy is known or suspected, when the epilepsy classification is in doubt, or when an epilepsy syndrome with remote symptomatic cause is suspected. When available, MRI is preferred to CT because of its superior resolution, versatility, and lack of radiation.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Gaillard",
+                    "given": "William D."
+                },
+                {
+                    "family": "Chiron",
+                    "given": "Catherine"
+                },
+                {
+                    "family": "Helen Cross",
+                    "given": "J."
+                },
+                {
+                    "family": "Simon Harvey",
+                    "given": "A."
+                },
+                {
+                    "family": "Kuzniecky",
+                    "given": "Ruben"
+                },
+                {
+                    "family": "Hertz-Pannier",
+                    "given": "Lucie"
+                },
+                {
+                    "family": "Gilbert Vezina",
+                    "given": "L."
+                }
+            ],
+            "container-title": "Epilepsia",
+            "id": "gaillard2009",
+            "issue": "9",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "keyword": "Children,Epilepsy,Imaging,Infants",
+            "language": "en-US",
+            "page": "2147-2153",
+            "title": "Guidelines for imaging infants and children with recent-onset epilepsy",
+            "type": "article-journal",
+            "volume": "50"
+        },
+        {
+            "DOI": "10.1016/j.seizure.2015.12.009",
+            "ISSN": "10591311",
+            "abstract": "Purpose: To determine the yield of emergent neuroimaging among children with new-onset seizures presenting with status epilepticus. Method: We performed a cross-sectional study of children seen at a single ED between 1995 and 2012 with new-onset seizure presenting with status epilepticus. We defined status epilepticus as a single seizure or multiple seizures without regaining consciousness lasting 30 min or longer. Our primary outcome was urgent or emergent intracranial pathology identified on neuroimaging. We categorized neuroimaging results as emergent if they would have changed acute management as assessed by a blinded neuroradiologist and neurologist. To ensure abnormalities were not missed, we review neuroimaging results for 30 days following the initial episode of SE. Results: We included 177 children presenting with new-onset seizure with status epilepticus, of whom 170 (96%) had neuroimaging performed. Abnormal findings were identified on neuroimaging in 64/177 (36%, 95% confidence interval 29–43%) children with 15 (8.5%, 95% confidence interval 5.2–14%) children having urgent or emergent pathology. Four (27%) of the 15 children with urgent or emergent findings had a normal non-contrast computed tomography scan and a subsequently abnormal magnetic resonance image. Longer seizure duration and older age were associated with urgent or emergent intracranial pathology. Conclusion: A substantial minority of children with new-onset seizures presenting with status epilepticus have urgent or emergent intracranial pathology identified on neuroimaging. Clinicians should strongly consider emergent neuroimaging in these children. Magnetic resonance imaging is the preferred imaging modality when available and safe.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Lyons",
+                    "given": "Todd W."
+                },
+                {
+                    "family": "Johnson",
+                    "given": "Kara B."
+                },
+                {
+                    "family": "Michelson",
+                    "given": "Kenneth A."
+                },
+                {
+                    "family": "Nigrovic",
+                    "given": "Lise E."
+                },
+                {
+                    "family": "Loddenkemper",
+                    "given": "Tobias"
+                },
+                {
+                    "family": "Prabhu",
+                    "given": "Sanjay P."
+                },
+                {
+                    "family": "Kimia",
+                    "given": "Amir A."
+                }
+            ],
+            "container-title": "Seizure",
+            "id": "lyons2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        2
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "4-10",
+            "title": "Yield of emergent neuroimaging in children with new-onset seizure and status epilepticus",
+            "type": "article-journal",
+            "volume": "35"
+        },
+        {
+            "DOI": "10.1111/j.1552-6569.2006.00025.x",
+            "ISSN": "1552-6569",
+            "abstract": "Focal cortical dysplasia (FCD) is a common cause of pharmacoresistant epilepsy that is amenable to surgical resective treatment. The identification of structural FCD by magnetic resonance imaging (MRI) can contribute to the detection of the epileptogenic zone and improve the outcome of epilepsy surgery. MR epilepsy protocols that include specific T1 and T2 weighted, and fluid-attenuated inversion recovery (FLAIR) sequences give complementary information about the characteristic imaging features of FCD; focal cortical thickening, blurring of the gray-white junction, high FLAIR signal, and gyral anatomical abnormalities. Novel imaging techniques such as magnetic resonance spectroscopy (MRS), magnetization transfer imaging (MTI), and diffusion tensor imaging (DTI) can improve the sensitivity of MR to localize the anatomical lesion. Functional/metabolic techniques such as positron emission tomography (PET), ictal subtraction single photon emission computed tomography (SPECT), functional MRI (fMRI), and magnetic source imaging (MSI) have the potential to visualize the metabolic, vascular, and epileptogenic properties of the FCD lesion, respectively. Identification of eloquent areas of cortex, to assist in the surgical resection plan, can be obtained non-invasively through the use of fMRI and MSI. Although a significant number of FCD lesions remain unidentified using current neuroimaging techniques, future advances should result in the identification of an increasing number of these cortical malformations.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Widdess-Walsh",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Diehl",
+                    "given": "Beate"
+                },
+                {
+                    "family": "Najm",
+                    "given": "Imad"
+                }
+            ],
+            "container-title": "Journal of Neuroimaging",
+            "id": "widdess-walsh2006",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006
+                    ]
+                ]
+            },
+            "keyword": "diffusion imaging,Focal cortical dysplasia,functional HRI,MRI,MRS,PET,SPECT",
+            "language": "en-US",
+            "page": "185-196",
+            "title": "Neuroimaging of Focal Cortical Dysplasia",
+            "type": "article-journal",
+            "volume": "16"
+        },
+        {
+            "abstract": "Our ability to interpret and process information and regulate emotion is determined by the structure and chemical makeup of our brains. A change to the structure or biochemical makeup of our brains can affect our mental health, the way we cope with the normal stresses of life, our productivity, and our overall well-being. Scientists interested in studying the brain and mental health disorders (called neuroscientists) seek to understand how the architecture and biochemical makeup of the brain differs in health and disease. To do this, we use a technique called magnetic resonance imaging (MRI) to image inside the living brain, to examine its function and structure. This article explains the physics of MRI and how we use it to generate images of our brains in order to investigate how the mind works.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        22
+                    ]
+                ]
+            },
+            "container-title": "Frontiers for Young Minds",
+            "id": "zotero-7292",
+            "language": "en-US",
+            "publisher": "https://kids.frontiersin.org/articles/10.3389/frym.2019.00023",
+            "title": "The Physics of MRI and How We Use It to Reveal the Mysteries of the Mind",
+            "type": ""
+        },
+        {
+            "DOI": "10.1016/j.eplepsyres.2010.02.007",
+            "ISSN": "0920-1211",
+            "abstract": "Purposes To provide evidence-based quantitative summary estimates of seizure outcomes in patients with non-lesional and lesional epilepsy treated with surgery, and to assess the consistency of results among published studies. Methods An exhaustive literature search identified articles published since 1995, describing outcomes according to lesional status in patients of any age who underwent resective epilepsy surgery. Two reviewers independently assessed study eligibility and extracted the data. Disagreements were resolved through discussion. Random effects meta-analyses were used after assessing the dataset for heterogeneity. Results Forty articles fulfilled eligibility criteria and described outcomes in 697 patients with non-lesional epilepsy and 2860 patients with lesional epilepsy. Overall, the odds of being seizure-free after surgery were 2.5 times higher in patients with lesions on MRI or histopathology (OR 2.5, 95%CI 2.1, 3.0, p<0.001). In patients with temporal lobe epilepsy surgery the odds were 2.7 times higher in those with lesions (OR 2.7, 95%CI 2.1, 3.5, p<0.001). In patients with extratemporal epilepsy surgery the odds were 2.9 higher in those with lesions (OR 2.9, 95%CI 1.6, 5.1, p<0.001). Outcomes were similar in children, adults, and studies that used MRI or histopathology to identify lesions. Discussion Overall, the odds of seizure freedom after surgery are two to three times higher in the presence of a lesion on histopathology or MRI. The results are clinically and statistically significant, consistent across various subgroups, and quite homogeneous across studies.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        23
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Téllez-Zenteno",
+                    "given": "José F."
+                },
+                {
+                    "family": "Ronquillo",
+                    "given": "Lizbeth Hernández"
+                },
+                {
+                    "family": "Moien-Afshari",
+                    "given": "Farzad"
+                },
+                {
+                    "family": "Wiebe",
+                    "given": "Samuel"
+                }
+            ],
+            "container-title": "Epilepsy Research",
+            "id": "tellez-zenteno2010",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010,
+                        5
+                    ]
+                ]
+            },
+            "keyword": "Epilepsy surgery,Histopathology,MRI,Non-lesional epilepsy,Surgical outcomes",
+            "page": "310-318",
+            "title": "Surgical outcomes in lesional and non-lesional epilepsy: A systematic review and meta-analysis",
+            "title-short": "Surgical outcomes in lesional and non-lesional epilepsy",
+            "type": "article-journal",
+            "volume": "89"
+        },
+        {
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        23
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Broadhouse",
+                    "given": "KM"
+                }
+            ],
+            "id": "broadhouse",
+            "publisher": "https://kids.frontiersin.org/articles/10.3389/frym.2019.00023",
+            "title": "The Physics of MRI and How We Use It to Reveal the Mysteries of the Mind \\cdot Frontiers for Young Minds",
+            "type": ""
+        },
+        {
+            "abstract": "Brain somatic variants are increasingly recognized as important causes of neurodevelopmental diseases, particularly in the pathogenesis of malformations of cortical development (MCDs), such as focal cortical dysplasia (FCD) and hemimegalencephaly. Therefore, the capability to detect such variants is critical to make genetic diagnosis in MCDs cases. Thanks to recent genomic technical improvements, multiple studies have implicated mTOR pathway brain somatic variants in various MCDs. The present review will show the main current approaches adopted to detect brain somatic variants, the role of mTOR signaling cascade in the pathogenesis of epilepsy with FCD and the therapeutic choices available at this time.",
+            "author": [
+                {
+                    "family": "Baldassari",
+                    "given": "Sara"
+                },
+                {
+                    "family": "Baulac",
+                    "given": "Stéphanie"
+                }
+            ],
+            "id": "baldassari2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "Somatic Mosaicism in Epilepsy with Focal Cortical Dysplasia",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1038/s41583-022-00572-x",
+            "ISSN": "1471-0048",
+            "abstract": "Genetic mosaicism is the result of the accumulation of somatic mutations in the human genome starting from the first postzygotic cell generation and continuing throughout the whole life of an individual. The rapid development of next-generation and single-cell sequencing technologies is now allowing the study of genetic mosaicism in normal tissues, revealing unprecedented insights into their clonal architecture and physiology. The somatic variant repertoire of an adult human neuron is the result of somatic mutations that accumulate in the brain by different mechanisms and at different rates during development and ageing. Non-pathogenic developmental mutations function as natural barcodes that once identified in deep bulk or single-cell sequencing can be used to retrospectively reconstruct human lineages. This approach has revealed novel insights into the clonal structure of the human brain, which is a mosaic of clones traceable to the early embryo that contribute differentially to the brain and distinct areas of the cortex. Some of the mutations happening during development, however, have a pathogenic effect and can contribute to some epileptic malformations of cortical development and autism spectrum disorder. In this Review, we discuss recent findings in the context of genetic mosaicism and their implications for brain development and disease.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        23
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Bizzotto",
+                    "given": "Sara"
+                },
+                {
+                    "family": "Walsh",
+                    "given": "Christopher A."
+                }
+            ],
+            "container-title": "Nature Reviews Neuroscience",
+            "id": "bizzotto2022",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        5
+                    ]
+                ]
+            },
+            "keyword": "Cell fate and cell lineage,Developmental neurogenesis,Epilepsy,Genetics of the nervous system,Neurodevelopmental disorders",
+            "language": "en-US",
+            "page": "275-286",
+            "publisher": "Nature Publishing Group",
+            "title": "Genetic mosaicism in the human brain: From lineage tracing to neuropsychiatric disorders",
+            "title-short": "Genetic mosaicism in the human brain",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "DOI": "10.1177/088307380201700512",
+            "ISSN": "0883-0738",
+            "PMID": "12150586",
+            "abstract": "Hemimegalencephaly is a rare hamartomatous malformation of the brain, remarkable for its extreme asymmetry. It can be isolated or associated with several neurocutaneous syndromes; less frequently, it also involves the brain stem and cerebellum. Traditionally, hemimegalencephaly has been considered a primary neuroblast migratory disturbance. At present, genetic theories of pathogenesis and modern histopathology provide a basis for this complex malformation as a primary disturbance in cellular lineage, differentiation, and proliferation, interacting with a disturbance in gene expression of body symmetry, with earlier onset than radial neuroblast migration. From my personal experience with 10 patients with hemimegalencephaly and review of the literature, I have found the same clinical neurologic, neuroimaging, and neuropathologic features in isolated and syndromic hemimegalencephaly. Magnetic resonance imaging (MRI) reveals abnormal gyration, ventriculomegaly, colpocephaly, an \"occipital sign\" (displacement of the occipital lobe across the midline), and increased volume and T2 signal of white matter, in addition to the overall increased size of the involved hemisphere. Mild, moderate, and severe grades of severity can be recognized, providing a functional neurologic prognosis and therapeutic plan. Early diagnosis is crucial because despite neuroimaging and pathologic evidence, hemimegalencephaly sometimes still is unrecognized. Also, misdiagnosis of obstructive hydrocephalus or cerebral neoplasm can lead to unnecessary surgical procedures. Although hemispherectomy has a high morbidity, it is recommended early for patients with severe, intractable epilepsy. The mildest forms of hemimegalencephaly are infrequent and the least recognized.",
+            "author": [
+                {
+                    "family": "Flores-Sarnat",
+                    "given": "Laura"
+                }
+            ],
+            "container-title": "Journal of Child Neurology",
+            "id": "flores-sarnat2002",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2002,
+                        5
+                    ]
+                ]
+            },
+            "keyword": "Brain,Brain Diseases,Child Preschool,Electroencephalography,Epilepsy,Evoked Potentials,Female,Functional Laterality,Hamartoma,Humans,Magnetic Resonance Imaging,Male,Neurosurgical Procedures,Severity of Illness Index,Syndrome,Tomography Emission-Computed,Tomography X-Ray Computed",
+            "language": "en-US",
+            "page": "373-384; discussion 384",
+            "title": "Hemimegalencephaly: Part 1. Genetic, clinical, and imaging aspects",
+            "title-short": "Hemimegalencephaly",
+            "type": "article-journal",
+            "volume": "17"
+        },
+        {
+            "DOI": "10.1093/brain/awh415",
+            "ISSN": "0006-8950",
+            "abstract": "Rasmussen encephalitis (RE) is a rare but severe immune-mediated brain disorder leading to unilateral hemispheric atrophy, associated progressive neurological dysfunction and intractable seizures. Recent data on the pathogenesis of the disease, its clinical and paraclinical presentation, and therapeutic approaches are summarized. Based on these data, we propose formal diagnostic criteria and a therapeutic pathway for the management of RE patients.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        25
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Bien",
+                    "given": "C. G."
+                },
+                {
+                    "family": "Granata",
+                    "given": "T."
+                },
+                {
+                    "family": "Antozzi",
+                    "given": "C."
+                },
+                {
+                    "family": "Cross",
+                    "given": "J. H."
+                },
+                {
+                    "family": "Dulac",
+                    "given": "O."
+                },
+                {
+                    "family": "Kurthen",
+                    "given": "M."
+                },
+                {
+                    "family": "Lassmann",
+                    "given": "H."
+                },
+                {
+                    "family": "Mantegazza",
+                    "given": "R."
+                },
+                {
+                    "family": "Villemure",
+                    "given": "J.-G."
+                },
+                {
+                    "family": "Spreafico",
+                    "given": "R."
+                },
+                {
+                    "family": "Elger",
+                    "given": "C. E."
+                }
+            ],
+            "container-title": "Brain",
+            "id": "bien2005a",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005,
+                        3
+                    ]
+                ]
+            },
+            "page": "454-471",
+            "title": "Pathogenesis, diagnosis and treatment of Rasmussen encephalitis: A European consensus statement",
+            "title-short": "Pathogenesis, diagnosis and treatment of Rasmussen encephalitis",
+            "type": "article-journal",
+            "volume": "128"
+        },
+        {
+            "DOI": "10.1111/epi.12334",
+            "ISSN": "1528-1167",
+            "abstract": "Purpose The 2005 diagnostic criteria for Rasmussen encephalitis (RE) are based on seizures, clinical deficits, electroencephalography (EEG), neuroimaging, and pathology (Brain, 128, 2005, 451). We applied these criteria to patients evaluated for RE and epilepsy surgery controls to determine the sensitivity, specificity, and positive and negative predictive values (PPVs, NPVs) using pathology as the gold standard. Methods We identified patients evaluated for RE based on medical records from 1993 to 2011. Fifty-two control patients with refractory epilepsy, unilateral magnetic resonance imaging (MRI) changes, and biopsies were selected from an epilepsy surgery database from matching years. Patients meeting all three of group A and/or two of three group B criteria were classified as meeting full criteria (positive). Patients not meeting full criteria were classified as negative. When available, pathology findings were re-reviewed with neuropathologists, and MRI imaging was re-reviewed with a neuroradiologist. Key Findings RE was considered in the differential diagnosis for 82 patients, of whom 35 had biopsies. Twenty patients met full criteria (positive) without another explanation, including seven for whom biopsy was required to meet criteria and one in whom another etiology was identified. Two patients met full criteria but had another explanation. Thirty-five met partial criteria (negative), of whom 14 had another etiology identified. Twenty-five met no criteria (negative). The diagnostic criteria had a sensitivity of 81% with four false negatives (criteria-negative, biopsy-positive) when compared to pathology as a gold standard. Five false positives (criteria positive, biopsy negative) had identifiable alternate diagnoses. Significance The 2005 Bien clinical diagnostic criteria for RE have reasonably high sensitivity and specificity and good clinical-pathologic correlation in most cases. We suggest modification of the criteria to allow inclusion of cases with well-described but less common features. Specifically we suggest making the diagnosis in the absence of epilepsia partialis continua (EPC) or clear progression of focal cortical deficits or MRI findings if biopsy is positive and two of the A criteria are met (B3 plus two of three A criteria). This would improve the sensitivity of the criteria.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        25
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Olson",
+                    "given": "Heather E."
+                },
+                {
+                    "family": "Lechpammer",
+                    "given": "Mirna"
+                },
+                {
+                    "family": "Prabhu",
+                    "given": "Sanjay P."
+                },
+                {
+                    "family": "Ciarlini",
+                    "given": "Pedro D. S. C."
+                },
+                {
+                    "family": "Poduri",
+                    "given": "Annapurna"
+                },
+                {
+                    "family": "Gooty",
+                    "given": "Vasu D."
+                },
+                {
+                    "family": "Anjum",
+                    "given": "Muhammad W."
+                },
+                {
+                    "family": "Gorman",
+                    "given": "Mark P."
+                },
+                {
+                    "family": "Loddenkemper",
+                    "given": "Tobias"
+                }
+            ],
+            "container-title": "Epilepsia",
+            "id": "olson2013",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "keyword": "Encephalitis,Epilepsia partialis continua,Epilepsy,Focal seizures,Inflammation,Rasmussen encephalitis",
+            "language": "en-US",
+            "page": "1753-1760",
+            "title": "Clinical application and evaluation of the Bien diagnostic criteria for Rasmussen encephalitis",
+            "type": "article-journal",
+            "volume": "54"
+        },
+        {
+            "DOI": "10.1016/B978-0-444-53486-6.00051-X",
+            "ISSN": "0072-9752",
+            "PMCID": "PMC5256664",
+            "PMID": "27430454",
+            "abstract": "Imaging is pivotal in the evaluation and management of patients with seizure disorders. Elegant structural neuroimaging with magnetic resonance imaging (MRI) may assist in determining the etiology of focal epilepsy and demonstrating the anatomical changes associated with seizure activity. The high diagnostic yield of MRI to identify the common pathological findings in individuals with focal seizures including mesial temporal sclerosis, vascular anomalies, low-grade glial neoplasms and malformations of cortical development has been demonstrated. Positron emission tomography (PET) is the most commonly performed interictal functional neuroimaging technique that may reveal a focal hypometabolic region concordant with seizure onset. Single photon emission computed tomography (SPECT) studies may assist performance of ictal neuroimaging in patients with pharmacoresistant focal epilepsy being considered for neurosurgical treatment. This chapter highlights neuroimaging developments and innovations, and provides a comprehensive overview of the imaging strategies used to improve the care and management of people with epilepsy.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        25
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Cendes",
+                    "given": "Fernando"
+                },
+                {
+                    "family": "Theodore",
+                    "given": "William H."
+                },
+                {
+                    "family": "Brinkmann",
+                    "given": "Benjamin H."
+                },
+                {
+                    "family": "Sulc",
+                    "given": "Vlastimil"
+                },
+                {
+                    "family": "Cascino",
+                    "given": "Gregory D."
+                }
+            ],
+            "container-title": "Handbook of clinical neurology",
+            "id": "cendes2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "985-1014",
+            "title": "Neuroimaging of epilepsy",
+            "type": "article-journal",
+            "volume": "136"
+        },
+        {
+            "DOI": "10.1053/j.ro.2022.11.002",
+            "ISSN": "0037198X",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        25
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Senger",
+                    "given": "Krishna Pratap Singh"
+                },
+                {
+                    "family": "Kesavadas",
+                    "given": "C."
+                }
+            ],
+            "container-title": "Seminars in Roentgenology",
+            "id": "senger2023",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        1
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "28-46",
+            "title": "Imaging in Pediatric Epilepsy",
+            "type": "article-journal",
+            "volume": "58"
+        },
+        {
+            "abstract": "Poster: \"ECR 2016 / C-1486 / Normal myelination: a practical pictorial review \" by: \"<u>M. Gaha</u>, N. Mama, N. Arifa, H. Jemni, K. Tlili; Sousse/TN\"",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        25
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Gaha",
+                    "given": "M."
+                },
+                {
+                    "family": "Mama",
+                    "given": "N."
+                },
+                {
+                    "family": "Arifa",
+                    "given": "N."
+                },
+                {
+                    "family": "Jemni",
+                    "given": "H."
+                },
+                {
+                    "family": "Tlili",
+                    "given": "K."
+                }
+            ],
+            "container-title": "ECR 2016 EPOS",
+            "genre": "Text",
+            "id": "gaha2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        3
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "https://epos.myesr.org/poster/esr/ecr2016/C-1486; European Congress of Radiology - ECR 2016",
+            "title": "Normal myelination: A practical pictorial review",
+            "title-short": "Normal myelination",
+            "type": ""
+        },
+        {
+            "DOI": "10.1016/j.nic.2012.12.001",
+            "ISSN": "10525149",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        25
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Branson",
+                    "given": "Helen M."
+                }
+            ],
+            "container-title": "Neuroimaging Clinics of North America",
+            "id": "branson2013",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        5
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "183-195",
+            "title": "Normal Myelination",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "DOI": "10.1007/s00247-010-1620-z",
+            "ISSN": "1432-1998",
+            "abstract": "MRI is invaluable in assessing the neonatal brain following suspected perinatal injury. Good quality imaging requires adaptations to both the hardware and the sequences used for adults or older children. The perinatal and postnatal details often predict the pattern of lesions sustained and should be available to aid interpretation of the imaging findings. Perinatal lesions, the pattern of which can predict neurodevelopmental outcome, are at their most obvious on conventional imaging between 1 and 2 weeks from birth. Very early imaging during the first week may be useful to make management decisions in ventilated neonates but brain abnormalities may still be subtle using conventional sequences. Diffusion-weighted imaging (DWI) is very useful for the early identification of ischaemic tissue in the neonatal brain but may underestimate the final extent of injury, particularly basal ganglia and thalamic lesions. MR imaging is an excellent predictor of outcome following perinatal brain injury and can therefore be used as a biomarker in interventional trials designed to reduce injury and improve neurodevelopmental outcome.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        25
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Rutherford",
+                    "given": "Mary"
+                },
+                {
+                    "family": "Biarge",
+                    "given": "Miriam Martinez"
+                },
+                {
+                    "family": "Allsop",
+                    "given": "Joanna"
+                },
+                {
+                    "family": "Counsell",
+                    "given": "Serena"
+                },
+                {
+                    "family": "Cowan",
+                    "given": "Frances"
+                }
+            ],
+            "container-title": "Pediatric Radiology",
+            "id": "rutherford2010",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010,
+                        6
+                    ]
+                ]
+            },
+            "keyword": "Brain,Ischaemia,MRI,Neonate",
+            "language": "en-US",
+            "page": "819-833",
+            "title": "MRI of perinatal brain injury",
+            "type": "article-journal",
+            "volume": "40"
+        },
+        {
+            "DOI": "10.1212/WNL.0000000000012773",
+            "ISSN": "1526-632X",
+            "PMCID": "PMC8610628",
+            "PMID": "34607926",
+            "abstract": "Hypothalamic hamartomas (HH) are rare, basilar developmental lesions with widespread comorbidities often associated with refractory epilepsy and encephalopathy. Imaging advances allow for early, even prenatal, detection. Genetic studies suggest mutations in GLI3 and other patterning genes are involved in HH pathogenesis. About 50%-80% of children with HH have severe rage and aggression and a majority of patients exhibit externalizing disorders. Behavioral disruption and intellectual disability may predate epilepsy. Neuropsychological, sleep, and endocrine disorders are typical. The purpose of this article is to provide a summary of the current understanding of HH and to highlight opportunities for future research.",
+            "author": [
+                {
+                    "family": "Cohen",
+                    "given": "Nathan T."
+                },
+                {
+                    "family": "Cross",
+                    "given": "J. Helen"
+                },
+                {
+                    "family": "Arzimanoglou",
+                    "given": "Alexis"
+                },
+                {
+                    "family": "Berkovic",
+                    "given": "Samuel F."
+                },
+                {
+                    "family": "Kerrigan",
+                    "given": "John F."
+                },
+                {
+                    "family": "Miller",
+                    "given": "Ilene Penn"
+                },
+                {
+                    "family": "Webster",
+                    "given": "Erica"
+                },
+                {
+                    "family": "Soeby",
+                    "given": "Lisa"
+                },
+                {
+                    "family": "Cukiert",
+                    "given": "Arthur"
+                },
+                {
+                    "family": "Hesdorffer",
+                    "given": "Dale K."
+                },
+                {
+                    "family": "Kroner",
+                    "given": "Barbara L."
+                },
+                {
+                    "family": "Saper",
+                    "given": "Clifford B."
+                },
+                {
+                    "family": "Schulze-Bonhage",
+                    "given": "Andreas"
+                },
+                {
+                    "family": "Gaillard",
+                    "given": "William D."
+                },
+                {
+                    "literal": "Hypothalamic Hamartoma Writing Group"
+                }
+            ],
+            "container-title": "Neurology",
+            "id": "cohen2021",
+            "issue": "18",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        11
+                    ]
+                ]
+            },
+            "keyword": "Child,Comorbidity,Epilepsy,Hamartoma,Humans,Hypothalamic Diseases",
+            "language": "en-US",
+            "page": "864-873",
+            "title": "Hypothalamic Hamartomas: Evolving Understanding and Management",
+            "title-short": "Hypothalamic Hamartomas",
+            "type": "article-journal",
+            "volume": "97"
+        },
+        {
+            "DOI": "10.1212/01.WNL.0000037482.55894.B1",
+            "abstract": "Objective: To determine whether febrile seizures cause mesial temporal sclerosis (MTS), the occurrence of MTS was evaluated in an unselected series of patients with febrile seizures.Methods: Twenty-four patients with a prolonged first febrile seizure, 8 with an unprovoked seizure after the first febrile seizure, and 32 age-, sex-, and handedness-matched control subjects with a single simple febrile seizure without later unprovoked seizures were selected from 329 febrile seizure patients followed up prospectively. The occurrence of MTS was evaluated after a mean follow-up time of 12.3 years by MR volumetry of amygdala and hippocampal formation and qualitative analysis of mesial temporal structures.Results: None of the patients had MTS. The mean total volumes of the right and left hippocampal formations and amygdala did not differ significantly between any of the three groups. The qualitative analysis revealed no sclerotic changes in the mesial temporal area. The patients with a prolonged initial febrile seizure had a lower mean right–left volume difference in hippocampal formations than the control subjects, but this had no effect on the outcome.Conclusion: The occurrence of MTS following even prolonged febrile seizures is an uncommon event, confirming the good clinical outcome of febrile seizures.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        29
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Tarkka",
+                    "given": "R."
+                },
+                {
+                    "family": "Pääkkö",
+                    "given": "E."
+                },
+                {
+                    "family": "Pyhtinen",
+                    "given": "J."
+                },
+                {
+                    "family": "Uhari",
+                    "given": "M."
+                },
+                {
+                    "family": "Rantala",
+                    "given": "H."
+                }
+            ],
+            "container-title": "Neurology",
+            "id": "tarkka2003",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2003,
+                        1
+                    ]
+                ]
+            },
+            "page": "215-218",
+            "publisher": "Wolters Kluwer",
+            "title": "Febrile seizures and mesial temporal sclerosis",
+            "type": "article-journal",
+            "volume": "60"
+        },
+        {
+            "DOI": "10.1016/S0140-6736(98)03543-0",
+            "ISSN": "0140-6736, 1474-547X",
+            "PMID": "9759742",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        29
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "King",
+                    "given": "Mark A."
+                },
+                {
+                    "family": "Newton",
+                    "given": "Mark R."
+                },
+                {
+                    "family": "Jackson",
+                    "given": "Graeme D."
+                },
+                {
+                    "family": "Fitt",
+                    "given": "Gregory J."
+                },
+                {
+                    "family": "Mitchell",
+                    "given": "L. Anne"
+                },
+                {
+                    "family": "Silvapulle",
+                    "given": "Mervyn J."
+                },
+                {
+                    "family": "Berkovic",
+                    "given": "Samuel F."
+                }
+            ],
+            "container-title": "The Lancet",
+            "id": "king1998",
+            "issue": "9133",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998,
+                        9
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "1007-1011",
+            "publisher": "Elsevier",
+            "title": "Epileptology of the first-seizure presentation: A clinical, electroencephalographic, and magnetic resonance imaging study of 300 consecutive patients",
+            "title-short": "Epileptology of the first-seizure presentation",
+            "type": "article-journal",
+            "volume": "352"
+        },
+        {
+            "DOI": "10.1056/NEJM199603073341008",
+            "ISSN": "0028-4793",
+            "abstract": "Of the approximately 2 million Americans with a diagnosis of epilepsy who are treated with antiepileptic drugs, 20 percent continue to have seizures1; this group of patients accounts for over 75 percent of the cost of epilepsy in the United States.2 For many of those with medically refractory epilepsy, their disability can be completely eliminated by surgical intervention. Only a small percentage of potential surgical candidates, however, are currently referred to epilepsy-surgery centers.3 Overview The classic 1886 paper of Victor Horsley4 heralded the modern era of epilepsy surgery, and the introduction of electroencephalography (EEG) in the first half of . . .",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        29
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Engel",
+                    "given": "Jerome"
+                }
+            ],
+            "container-title": "New England Journal of Medicine",
+            "id": "engel1996",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        1996,
+                        3
+                    ]
+                ]
+            },
+            "page": "647-653",
+            "publisher": "Massachusetts Medical Society",
+            "title": "Surgery for Seizures",
+            "type": "article-journal",
+            "volume": "334"
+        },
+        {
+            "DOI": "10.1093/brain/118.1.105",
+            "ISSN": "0006-8950",
+            "abstract": "A retrospective study was carried out to determine whether a prior cerebral injury or medical illness was associated with hippocampal sclerosis in intractable, surgically treated temporal lobe epilepsy (TLE), or whether there was evidence for progressive hippocampal neuron damage from repeated seizures. Temporal lobe epilepsy patients (n = 162) from one epilepsy centre were retrospectively and blindly catalogued into groups based on the presence or absence of an initial precipitating injury (IPI) and whether, when an IPI was present, it had involved seizures (independent variables). Patients were catalogued into four groups: (i) non-seizure IPIs (Group A; n = 54); (ii) IPIs with a prolonged seizure (Group B; n = 66); (iii) IPIs with repetitive non-prolonged seizures (Group C; n = 20); (iv) or no IPIs and idiopathic TLE (Group D; n = 22). The dependent variables were: the differences in the time course of clinical seizures, and quantified hippocampal neuron counts and seizure outcomes. Statistically significant (ANOVA at least P &lt; 0.05) results showed the following. (i) Patients with IPIs (Groups A, B and C) had hippocampal sclerosis, while those with idiopathic TLE (Group D) showed fewer neuron losses and worse post-resection seizure relief.(ii) Patients with non-seizure IPIs (Group A) were on average older at injury; had a longer latent period; showed less neuron losses in Ammon’s horn, CAI and prosubiculum than seizure associated IPIs (Groups B and/or C). (iii) Initial precipitating injury patients with repetitive non-prolonged seizures (Group C) showed the shortest latent period, earliest age of TLE onset, and less CA2 damage than the other IPI groups. Other findings that were statistically significant by analysis of covariance along with the IPI category included the following. (i) CAI (P = 0.0097) and prosubiculum (P = 0.0089) neuron losses were greater in patients when their TLE was longer than 22 years. (ii) IPIs after age 4 years were associated with latent periods shorter than 10 years compared with variable and longer latent periods of IPIs before age 4 years (P = 0.015). These results indicate that in surgically treated TLE, hippocampal sclerosis and good seizure outcomes are associated with IPIs. Most of the hippocampal damage found at surgery and the clinical time course of the habitual TLE are influenced by the pathogenic IPI mechanism. However, some secondary neuron losses were associated with longer TLE seizure histories. This supports the hypothesis that the aetiology of hippocampal sclerosis is an acquired injury to the hippocampus and that the pathogenesis is a combination of acute, subacute, and progressive changes following the initial injury.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        29
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Mathern",
+                    "given": "Gary W."
+                },
+                {
+                    "family": "Babb",
+                    "given": "Thomas L."
+                },
+                {
+                    "family": "Vickrey",
+                    "given": "Barbara G."
+                },
+                {
+                    "family": "Melendez",
+                    "given": "Maria"
+                },
+                {
+                    "family": "Pretorius",
+                    "given": "James K."
+                }
+            ],
+            "container-title": "Brain",
+            "id": "mathern1995",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1995,
+                        2
+                    ]
+                ]
+            },
+            "page": "105-118",
+            "title": "The clinical-pathogenic mechanisms of hippocampal neuron loss and surgical outcomes in temporal lobe epilepsy",
+            "type": "article-journal",
+            "volume": "118"
+        },
+        {
+            "DOI": "10.1159/000050429",
+            "ISSN": "1016-2291, 1423-0305",
+            "abstract": "<i>Objectives:</i> Firstly, to study the pathology at surgery in children undergoing temporal lobectomy for intractable partial epilepsy. Secondly, to compare neuroimaging techniques (CT, MRI) in the preoperative detection of pathology. Lastly, to examine the surgical outcome in children. <i>Methods:</i> Forty-two pediatric patients undergoing temporal lobectomy for intractable epilepsy at the Comprehensive Epilepsy Program at the University of Alberta Hospital between the years 1988–1998 were studied. Patients had extensive preoperative investigations including CT and MRI. The pathology at surgery was reviewed and compared to preoperative neuroimaging. Charts were reviewed to determine surgical outcome. <i>Results:</i> Brain tumors were the most common pathology, found in 13/42 patients. Mesial temporal sclerosis (MTS) was found in 8 patients and dual pathology in an additional 5. Focal cortical dysplasia (FCD) was seen in 4 patients, 1 patient had a porencephalic cyst and 4 patients had tubers of tuberous sclerosis. Seven patients had no specific pathology detected. MRI was clearly more sensitive than CT in the detection of pathology. MRI was abnormal in 27/42 cases (64%), while CT scan was found to be abnormal in only 12/39 (31%). Surgical outcome was excellent, with 34/42 patients (80%) having an Engel class I outcome. One patient had significant improvement with an Engel class II outcome, 3 (7%) had little improvement (Engel class III) and 4 (10%) were unchanged (Engel class IV). Three patients (7%) had surgical complications. <i>Conclusions:</i> A wide variety of developmental pathology is seen following temporal lobectomy for intractable epilepsy of childhood. Brain tumors, FCD and MTS are common. MRI is superior to CT in the detection of pathology, which may be subtle in children. Surgical outcome is excellent, with most children being seizure free and few complications being seen.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        29
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Sinclair",
+                    "given": "D. B."
+                },
+                {
+                    "family": "Wheatley",
+                    "given": "M."
+                },
+                {
+                    "family": "Aronyk",
+                    "given": "K."
+                },
+                {
+                    "family": "Hao",
+                    "given": "C."
+                },
+                {
+                    "family": "Snyder",
+                    "given": "T."
+                },
+                {
+                    "family": "Colmers",
+                    "given": "W."
+                },
+                {
+                    "family": "McKean",
+                    "given": "J. D. S."
+                }
+            ],
+            "container-title": "Pediatric Neurosurgery",
+            "id": "sinclair2001",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "239-246",
+            "title": "Pathology and Neuroimaging in Pediatric Temporal Lobectomy for Intractable Epilepsy",
+            "type": "article-journal",
+            "volume": "35"
+        },
+        {
+            "ISSN": "0195-6108",
+            "PMCID": "PMC7973983",
+            "PMID": "13679290",
+            "abstract": "BACKGROUND AND PURPOSE: Ipsilateral loss of anterior temporal gray-white matter definition, due mainly to white matter signal intensity abnormality, is frequently seen on MR images of patients with hippocampal sclerosis. Our aim was to determine the prevalence and clinical correlations of these anterior temporal changes in pediatric cases of hippocampal sclerosis and to determine whether cumulative damage from seizures is important for their development., METHODS: We reviewed the MR images and clinical details of 54 children (age range, 1.5–19 years) with typical hippocampal sclerosis. Specific imaging features noted included hippocampal sclerosis, anterior temporal changes, anterior temporal atrophy, and extra-hippocampal abnormality., RESULTS: Thirty-one (57%) of 54 children with hippocampal sclerosis had associated ipsilateral anterior temporal changes. Ipsilateral anterior temporal atrophy was associated with anterior temporal changes (P < .03). Children whose images showed anterior temporal changes were younger at onset of epilepsy (P < .01) and younger at antecedent cerebral insult (P < .03) than those with normal anterior temporal lobes. Most (84%) children whose images showed anterior temporal changes had experienced the onset of epilepsy or antecedent cerebral insult before the age of 2 years (P < .0009). Eighty-one percent of children with anterior temporal changes shown on their images experienced seizures at the time of antecedent insult., CONCLUSION: Ipsilateral anterior temporal changes identical to those observed in adult cases are seen on the MR images of young children with hippocampal sclerosis, with a similar prevalence, and are associated with either epilepsy onset or seizure-related cerebral insult before the age of 2 years. We suggest that the loss of gray-white matter definition may represent a persistent immature appearance, including an abnormality of myelin or myelination, possibly a result of seizures occurring during maturation of the temporal pole.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        29
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Mitchell",
+                    "given": "L. Anne"
+                },
+                {
+                    "family": "Harvey",
+                    "given": "A. Simon"
+                },
+                {
+                    "family": "Coleman",
+                    "given": "Lee T."
+                },
+                {
+                    "family": "Mandelstam",
+                    "given": "Simone A."
+                },
+                {
+                    "family": "Jackson",
+                    "given": "Graeme D."
+                }
+            ],
+            "container-title": "AJNR: American Journal of Neuroradiology",
+            "id": "mitchell2003",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2003,
+                        9
+                    ]
+                ]
+            },
+            "page": "1670-1677",
+            "title": "Anterior Temporal Changes on MR Images of Children with Hippocampal Sclerosis: An Effect of Seizures on the Immature Brain?",
+            "title-short": "Anterior Temporal Changes on MR Images of Children with Hippocampal Sclerosis",
+            "type": "article-journal",
+            "volume": "24"
+        },
+        {
+            "DOI": "10.3174/ajnr.A6298",
+            "ISSN": "0195-6108, 1936-959X",
+            "PMID": "31727747",
+            "abstract": "BACKGROUND AND PURPOSE: Conventional MR imaging has limitations in detecting focal cortical dysplasia. We assessed the added value of 7T in patients with histologically proved focal cortical dysplasia to highlight correlations between neuropathology and ultra-high-field imaging. MATERIALS AND METHODS: Between 2013 and 2019, we performed a standardized 7T MR imaging protocol in patients with drug-resistant focal epilepsy. We focused on 12 patients in whom postsurgical histopathology revealed focal cortical dysplasia and explored the diagnostic yield of preoperative 7T versus 1.5/3T MR imaging and the correlations of imaging findings with histopathology. We also assessed the relationship between epilepsy surgery outcome and the completeness of surgical removal of the MR imaging–visible structural abnormality. RESULTS: We observed clear abnormalities in 10/12 patients using 7T versus 9/12 revealed by 1.5/3T MR imaging. In patients with focal cortical dysplasia I, 7T MR imaging did not disclose morphologic abnormalities (n = 0/2). In patients with focal cortical dysplasia II, 7T uncovered morphologic signs that were not visible on clinical imaging in 1 patient with focal cortical dysplasia IIa (n = 1/4) and in all those with focal cortical dysplasia IIb (n = 6/6). T2*WI provided the highest added value, disclosing a peculiar intracortical hypointense band (black line) in 5/6 patients with focal cortical dysplasia IIb. The complete removal of the black line was associated with good postsurgical outcome (n = 4/5), while its incomplete removal yielded unsatisfactory results (n = 1/5). CONCLUSIONS: The high sensitivity of 7T T2*-weighted images provides an additional tool in defining potential morphologic markers of high epileptogenicity within the dysplastic tissue of focal cortical dysplasia IIb and will likely help to more precisely plan epilepsy surgery and explain surgical failures.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        31
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Bartolini",
+                    "given": "E."
+                },
+                {
+                    "family": "Cosottini",
+                    "given": "M."
+                },
+                {
+                    "family": "Costagli",
+                    "given": "M."
+                },
+                {
+                    "family": "Barba",
+                    "given": "C."
+                },
+                {
+                    "family": "Tassi",
+                    "given": "L."
+                },
+                {
+                    "family": "Spreafico",
+                    "given": "R."
+                },
+                {
+                    "family": "Garbelli",
+                    "given": "R."
+                },
+                {
+                    "family": "Biagi",
+                    "given": "L."
+                },
+                {
+                    "family": "Buccoliero",
+                    "given": "A."
+                },
+                {
+                    "family": "Giordano",
+                    "given": "F."
+                },
+                {
+                    "family": "Guerrini",
+                    "given": "R."
+                }
+            ],
+            "chapter-number": "Pediatrics",
+            "container-title": "American Journal of Neuroradiology",
+            "id": "bartolini2019",
+            "issue": "12",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        12
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "2137-2142",
+            "publisher": "American Journal of Neuroradiology",
+            "title": "Ultra-High-Field Targeted Imaging of Focal Cortical Dysplasia: The Intracortical Black Line Sign in Type IIb",
+            "title-short": "Ultra-High-Field Targeted Imaging of Focal Cortical Dysplasia",
+            "type": "article-journal",
+            "volume": "40"
+        },
+        {
+            "DOI": "10.1007/s00381-006-0132-5",
+            "ISSN": "0256-7040, 1433-0350",
+            "abstract": "Introduction Epilepsy surgery rests heavily upon magnetic resonance imaging (MRI). Technical developments have brought significantly improved efficacy of MR imaging in detecting and assessing surgical epileptogenic lesions, while more clinical experience has brought better definition of the pathological groups.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Raybaud",
+                    "given": "Charles"
+                },
+                {
+                    "family": "Shroff",
+                    "given": "Manohar"
+                },
+                {
+                    "family": "Rutka",
+                    "given": "James T."
+                },
+                {
+                    "family": "Chuang",
+                    "given": "Sylvester H."
+                }
+            ],
+            "container-title": "Child’s Nervous System",
+            "id": "raybaud2006",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        8
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "786-809",
+            "title": "Imaging surgical epilepsy in children",
+            "type": "article-journal",
+            "volume": "22"
+        },
+        {
+            "DOI": "10.1148/radiographics.21.6.g01nv051533",
+            "ISSN": "0271-5333",
+            "PMID": "11706224",
+            "abstract": "Glial neoplasms that are peripherally located and involve the cortical gray matter are noteworthy because of their predilection to serve as a seizure locus, their amenability to surgical resection, their generally favorable prognosis, and their characteristic imaging features, which facilitate diagnosis before surgery. The smaller lesions include ganglioglioma and dysembryoplastic neuroepithelial tumor. Gangliogliomas contain both neuronal and glial components and occur most commonly in the temporal lobe. Variant forms of gangliogliomas may occur and are related to the different compositions of the underlying cellular population. Gangliocytomas lack glial cells and are located both in the cerebral hemispheres and the cerebellum. Lhermitte-Duclos disease represents a specific type of cerebellar gangliocytoma with dysplastic features and is characterized by a laminar pattern at imaging. Dysembryoplastic neuroepithelial tumors occur predominantly in children and young adults with partial seizures and most commonly arise in the temporal lobe, frequently in combination with cortical dysplasia. Surrounding vasogenic edema is conspicuously absent in both gangliogliomas and dysembryoplastic neuroepithelial tumors. The larger masses in this group include desmoplastic infantile ganglioglioma and pleomorphic xanthoastrocytoma and tend to involve the leptomeninges and cortical territory. Both invoke an intense desmoplastic reaction, which appears as an enhancing soft-tissue component at imaging.",
+            "author": [
+                {
+                    "family": "Koeller",
+                    "given": "K. K."
+                },
+                {
+                    "family": "Henry",
+                    "given": "J. M."
+                }
+            ],
+            "container-title": "Radiographics: A Review Publication of the Radiological Society of North America, Inc",
+            "id": "koeller2001",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001
+                    ]
+                ]
+            },
+            "keyword": "Adolescent,Adult,Astrocytoma,Brain Neoplasms,Child,Female,Ganglioglioma,Ganglioneuroma,Glioma,Humans,Infant,Male,Middle Aged,Radiography",
+            "language": "en-US",
+            "page": "1533-1556",
+            "title": "From the archives of the AFIP: Superficial gliomas: Radiologic-pathologic correlation. Armed Forces Institute of Pathology",
+            "title-short": "From the archives of the AFIP",
+            "type": "article-journal",
+            "volume": "21"
+        },
+        {
+            "DOI": "10.2214/AJR.07.2928",
+            "ISSN": "0361-803X",
+            "abstract": "OBJECTIVE. The purpose of this article is to present neuroimaging findings in tuberous sclerosis complex, including recently developed imaging techniques that have demonstrated clinical benefit to this patient population. CONCLUSION. Neuroimaging advances have improved the diagnosis of tuberous sclerosis complex and the treatment of children with this condition. Superimposition of functional information from PET onto MRI allows accurate and noninvasive identification of epileptogenic tubers, improving surgical cure rates. Magnetic source imaging can also be used to localize epileptiform activity arising from tubers.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Kalantari",
+                    "given": "Babak N."
+                },
+                {
+                    "family": "Salamon",
+                    "given": "Noriko"
+                }
+            ],
+            "container-title": "American Journal of Roentgenology",
+            "id": "kalantari2008",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008,
+                        5
+                    ]
+                ]
+            },
+            "page": "W304-W309",
+            "publisher": "American Roentgen Ray Society",
+            "title": "Neuroimaging of Tuberous Sclerosis: Spectrum of Pathologic Findings and Frontiers in Imaging",
+            "title-short": "Neuroimaging of Tuberous Sclerosis",
+            "type": "article-journal",
+            "volume": "190"
+        },
+        {
+            "DOI": "10.1007/s00381-020-04705-4",
+            "ISSN": "1433-0350",
+            "abstract": "Tuberous sclerosis complex (TSC) is a rare autosomal dominant disorder affecting multiple systems, due to inactivating mutations of TSC1 or TSC2 mTOR pathway genes. Neurological manifestations are observed in about 95% cases, representing the most frequent cause of morbidity and one of the most common causes of mortality.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Russo",
+                    "given": "Camilla"
+                },
+                {
+                    "family": "Nastro",
+                    "given": "Anna"
+                },
+                {
+                    "family": "Cicala",
+                    "given": "Domenico"
+                },
+                {
+                    "family": "De Liso",
+                    "given": "Maria"
+                },
+                {
+                    "family": "Covelli",
+                    "given": "Eugenio Maria"
+                },
+                {
+                    "family": "Cinalli",
+                    "given": "Giuseppe"
+                }
+            ],
+            "container-title": "Child’s Nervous System",
+            "id": "russo2020",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        10
+                    ]
+                ]
+            },
+            "keyword": "Autism,Central nervous system,Epilepsy,Magnetic resonance imaging,Sub-ependymal giant cell astrocytoma,Tuberous sclerosis complex",
+            "language": "en-US",
+            "page": "2497-2509",
+            "title": "Neuroimaging in tuberous sclerosis complex",
+            "type": "article-journal",
+            "volume": "36"
+        },
+        {
+            "DOI": "10.1186/s13052-023-01490-z",
+            "ISSN": "1824-7288",
+            "abstract": "Tuberous sclerosis complex (TSC) is an autosomal dominant disorder with different initial symptoms and complex clinical manifestations. A 14-year-old female patient presented with persistent fever and severe headache. Medical imaging examinations revealed multiple abnormal intracranial lesions. The patient had previously been misdiagnosed with “encephalitis and acute disseminated encephalomyelitis” after visiting numerous hospitals. Eventually, by combing the characteristics of the case and genetic testing results, the patient was diagnosed with TSC accompanied by Mycoplasma pneumoniae infection. The purpose of this case report and literature review is to improve understanding of the clinical diagnosis and treatment of TSC so as to avoid misdiagnosis, missed diagnosis, and overtreatment.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Li",
+                    "given": "Yanlin"
+                },
+                {
+                    "family": "Si",
+                    "given": "Zhihua"
+                },
+                {
+                    "family": "Zhao",
+                    "given": "Wei"
+                },
+                {
+                    "family": "Xie",
+                    "given": "Cong"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Xu"
+                },
+                {
+                    "family": "Liu",
+                    "given": "Ju"
+                },
+                {
+                    "family": "Liu",
+                    "given": "Jinzhi"
+                },
+                {
+                    "family": "Xia",
+                    "given": "Zhangyong"
+                }
+            ],
+            "container-title": "Italian Journal of Pediatrics",
+            "id": "li2023",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        9
+                    ]
+                ]
+            },
+            "keyword": "Case report,Clinical manifestations,Misdiagnosis and overtreatment,Neuroimaging manifestations,Tuberous sclerosis complex",
+            "language": "en-US",
+            "page": "116",
+            "title": "Tuberous sclerosis complex: A case report and literature review",
+            "title-short": "Tuberous sclerosis complex",
+            "type": "article-journal",
+            "volume": "49"
+        },
+        {
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "id": "zotero-7434",
+            "publisher": "https://onlinelibrary.wiley.com/doi/10.1111/epi.16978",
+            "title": "Early-life epilepsy after acute symptomatic neonatal seizures: A prospective multicenter study - Shellhaas - 2021 - Epilepsia - Wiley Online Library",
+            "title-short": "Early-life epilepsy after acute symptomatic neonatal seizures",
+            "type": ""
+        },
+        {
+            "DOI": "10.1093/pch/pxy028",
+            "ISSN": "1205-7088, 1918-1485",
+            "abstract": "Therapeutic hypothermia is a standard of care for infants \\geq36 weeks gestational age (GA) with moderate-to-severe hypoxic-ischemic encephalopathy. Because some studies included infants born at 35 weeks GA, hypothermia should be considered if they meet other criteria. Cooling for infants <35 weeks GA is not recommended. Passive cooling should be started promptly in community centres, in consultation with a tertiary care centre neonatologist, while closely monitoring the infant’s temperature. Best evidence suggests that maintaining core body temperature between 33^\\circC and 34^\\circC for 72 hours, followed by a period of rewarming of 6 to 12 hours, is optimal. Antiepileptic medications should be used when clinical or electrographic seizures are present. Maintaining serum electrolytes and glucose within normal ranges, and avoiding hypo- or hypercarbia and hyperoxia, are important adjunct treatments. A brain magnetic resonance image (MRI) is advised shortly after rewarming and, in cases where earlier findings do not match the clinical picture, a repeat MRI after 10 days of life is suggested. Multidisciplinary neurodevelopmental follow-up is recommended.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Lemyre",
+                    "given": "Brigitte"
+                },
+                {
+                    "family": "Chau",
+                    "given": "Vann"
+                }
+            ],
+            "container-title": "Paediatrics & Child Health",
+            "id": "lemyre2018",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        6
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "285-291",
+            "title": "Hypothermia for newborns with hypoxic-ischemic encephalopathy",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "DOI": "10.4102/sajr.v24i1.1915",
+            "ISSN": "1027-202X",
+            "PMCID": "PMC7670012",
+            "PMID": "33240541",
+            "abstract": "This article provides a correlation of the pathophysiology and magnetic resonance imaging (MRI) patterns identified on imaging of children with hypoxic ischemic brain injury (HIBI). The purpose of this pictorial review is to empower the reading radiologist with a simplified classification of the patterns of cerebral injury matched to images of patients demonstrating each subtype. A background narrative literature review was undertaken of the regional, continental and international databases looking at specific patterns of cerebral injury related to perinatal HIBI. In addition, a database of MRI studies accumulated over a decade (including a total of 314 studies) was analysed and subclassified into the various patterns of cerebral injury. Selected cases were annotated to highlight the areas involved and for ease of identification of the affected substrate in daily practice.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Misser",
+                    "given": "Shalendra K."
+                },
+                {
+                    "family": "Barkovich",
+                    "given": "Anthony J."
+                },
+                {
+                    "family": "Lotz",
+                    "given": "Jan W."
+                },
+                {
+                    "family": "Archary",
+                    "given": "Moherndran"
+                }
+            ],
+            "container-title": "SA Journal of Radiology",
+            "id": "misser2020",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        10
+                    ]
+                ]
+            },
+            "page": "1915",
+            "title": "A pictorial review of the pathophysiology and classification of the magnetic resonance imaging patterns of perinatal term hypoxic ischemic brain injury – What the radiologist needs to know…",
+            "type": "article-journal",
+            "volume": "24"
+        },
+        {
+            "DOI": "10.1186/s12887-019-1777-z",
+            "ISSN": "1471-2431",
+            "abstract": "Identification of early signs of hypoxic ischemic encephalopathy (HIE) with magnetic resonance imaging (MRI) has proven of prognostic significance. Yet, the importance of intracranial hemorrhage (ICH), being present concomitantly had not been investigated yet, despite the known influence of hypothermia on hemostasis. We aimed to determine whether presence of ICH on MRI alongside the signs of HIE have an impact on prognosis in neonates with the clinical diagnosis of HIE.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Lakatos",
+                    "given": "Andrea"
+                },
+                {
+                    "family": "Kolossváry",
+                    "given": "Márton"
+                },
+                {
+                    "family": "Szabó",
+                    "given": "Miklós"
+                },
+                {
+                    "family": "Jermendy",
+                    "given": "Ágnes"
+                },
+                {
+                    "family": "Barta",
+                    "given": "Hajnalka"
+                },
+                {
+                    "family": "Gyebnár",
+                    "given": "Gyula"
+                },
+                {
+                    "family": "Rudas",
+                    "given": "Gábor"
+                },
+                {
+                    "family": "Kozák",
+                    "given": "Lajos R."
+                }
+            ],
+            "container-title": "BMC Pediatrics",
+            "id": "lakatos2019",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        11
+                    ]
+                ]
+            },
+            "keyword": "Asphyxia neonatorum,Brain hemorrhage,Brain hypoxia ischemia,Magnetic resonance imaging infant development",
+            "page": "430",
+            "title": "Neurodevelopmental effect of intracranial hemorrhage observed in hypoxic ischemic brain injury in hypothermia-treated asphyxiated neonates - an MRI study",
+            "type": "article-journal",
+            "volume": "19"
+        },
+        {
+            "DOI": "10.1186/s13244-020-00857-8",
+            "ISSN": "1869-4101",
+            "PMCID": "PMC7105592",
+            "PMID": "32232679",
+            "abstract": "The inter-arterial watershed zone in neonates is a geographic area without discernible anatomic boundaries and difficult to demarcate and usually not featured in atlases. Schematics currently used to depict the areas are not based on any prior anatomic mapping, compared to adults., Magnetic resonance imaging (MRI) of neonates in the acute to subacute phase with suspected hypoxic-ischaemic injury (HII) can demonstrate signal abnormality and restricted diffusion in the cortical and subcortical parenchyma of the watershed regions., In the chronic stage of partial-prolonged hypoxic-ischaemic injury, atrophy and ulegyria can make the watershed zone more conspicuous as a region. Our aim is to use images extracted from a sizable medicolegal database (approximately 2000 cases), of delayed MRI scans in children with cerebral palsy, to demonstrate the watershed region., To achieve this, we have selected cases diagnosed on imaging as having sustained a term pattern of partial-prolonged HII affecting the hemispheric cortex, based on the presence of bilateral, symmetric atrophy with ulegyria. From these, we have identified those patients demonstrating injury along the whole watershed continuum as well as those demonstrating selective anterior or posterior watershed predominant injury for demonstration., Recognition of this zone is essential for diagnosing partial-prolonged hypoxic-ischaemic injury sustained in term neonates. The images presented in this pictorial review provide a template for identifying the cortical watershed distribution when there is milder regional (anterior, parasagittal, peri-Sylvian and posterior) watershed injury and for more severe injury where multiple regions are injured in combination or as a continuum.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Chacko",
+                    "given": "Anith"
+                },
+                {
+                    "family": "Andronikou",
+                    "given": "Savvas"
+                },
+                {
+                    "family": "Mian",
+                    "given": "Ali"
+                },
+                {
+                    "family": "Gonçalves",
+                    "given": "Fabrício Guimarães"
+                },
+                {
+                    "family": "Vedajallam",
+                    "given": "Schadie"
+                },
+                {
+                    "family": "Thai",
+                    "given": "Ngoc Jade"
+                }
+            ],
+            "container-title": "Insights into Imaging",
+            "id": "chacko2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        3
+                    ]
+                ]
+            },
+            "page": "53",
+            "title": "Cortical ischaemic patterns in term partial-prolonged hypoxic-ischaemic injury—the inter-arterial watershed demonstrated through atrophy, ulegyria and signal change on delayed MRI scans in children with cerebral palsy",
+            "type": "article-journal",
+            "volume": "11"
+        },
+        {
+            "DOI": "10.1212/WNL.0000000000209361",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Zhao",
+                    "given": "Wei"
+                },
+                {
+                    "family": "Paixao",
+                    "given": "Luis"
+                },
+                {
+                    "family": "Shimony",
+                    "given": "Joshua S."
+                },
+                {
+                    "family": "Nascimento",
+                    "given": "Fábio A."
+                }
+            ],
+            "container-title": "Neurology",
+            "id": "zhao2024",
+            "issue": "9",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        5
+                    ]
+                ]
+            },
+            "page": "e209361",
+            "publisher": "Wolters Kluwer",
+            "title": "Teaching Video NeuroImage: Severe Facioglossal Weakness and Dysarthria Due to Bilateral Perisylvian Polymicrogyria",
+            "title-short": "Teaching Video NeuroImage",
+            "type": "article-journal",
+            "volume": "102"
+        },
+        {
+            "DOI": "10.1093/braincomms/fcad213",
+            "ISSN": "2632-1297",
+            "PMCID": "PMC10443657",
+            "PMID": "37614989",
+            "abstract": "Polymicrogyria is estimated to be one of the most common brain malformations, accounting for \\sim16% of malformations of cortical development. However, the prevalence and incidence of polymicrogyria is unknown. Our aim was to estimate the prevalence, incidence rate, neuroimaging diversity, aetiology, and clinical phenotype of polymicrogyria in a population-based paediatric cohort. We performed a systematic search of MRI scans at neuroradiology department databases in Stockholm using the keyword polymicrogyria. The study population included all children living in the Stockholm region born from January 2004 to June 2021 with polymicrogyria. Information on the number of children living in the region during 2004–21 was collected from records from Statistics Sweden, whereas the number of births for each year during the study period was collected from the Swedish Medical Birth Register. All MRI scans were re-evaluated, and malformations were classified by a senior paediatric neuroradiologist. The prevalence and yearly incidence were estimated. Clinical data were collected from medical records. A total of 109 patients with polymicrogyria were included in the study. The overall polymicrogyria prevalence in Stockholm was 2.3 per 10 000 children, and the overall estimated yearly incidence between 2004 and 2020 was 1.9 per 10 000 person-years. The most common polymicrogyria distribution was in the frontal lobe (71%), followed by the parietal lobe (37%). Polymicrogyria in the peri-sylvian region was observed in 53%. Genetic testing was performed in 90 patients revealing pathogenic variants in 32%. Additionally, 12% had variants of uncertain significance. Five patients had a confirmed congenital infection, and in six individuals, the cause of polymicrogyria was assumed to be vascular. Epilepsy was diagnosed in 54%. Seizure onset during the first year of life was observed in 44%. The most common seizure types were focal seizures with impaired awareness, followed by epileptic spasms. Thirty-three of 59 patients with epilepsy (56%) were treated with more than two anti-seizure medications, indicating that pharmacoresistant epilepsy is common in polymicrogyria patients. Neurodevelopmental symptoms were observed in 94% of the individuals. This is the first population-based study on polymicrogyria prevalence and incidence. Confirmed genetic aetiology was present in one-third of individuals with polymicrogyria. Epilepsy was common in this patient group, and the majority had pharmacoresistant epilepsy. These findings increase our knowledge about polymicrogyria and will help in counselling patients and their families., Kolbjer et al. report a polymicrogyria prevalence in a population-based paediatric cohort of 2.3 per 10 000 children and an overall yearly incidence rate at 1.88. The genetic cause was revealed in one-third of individuals. The most common polymicrogyria distribution was in the frontal lobe, and epilepsy occurred in 54%., Graphical Abstract",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Kolbjer",
+                    "given": "Sintia"
+                },
+                {
+                    "family": "Martín Muñoz",
+                    "given": "Daniel A"
+                },
+                {
+                    "family": "Örtqvist",
+                    "given": "Anne K"
+                },
+                {
+                    "family": "Pettersson",
+                    "given": "Maria"
+                },
+                {
+                    "family": "Hammarsjö",
+                    "given": "Anna"
+                },
+                {
+                    "family": "Anderlid",
+                    "given": "Britt-Marie"
+                },
+                {
+                    "family": "Dahlin",
+                    "given": "Maria"
+                }
+            ],
+            "container-title": "Brain Communications",
+            "id": "kolbjer2023",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        8
+                    ]
+                ]
+            },
+            "page": "fcad213",
+            "title": "Polymicrogyria: Epidemiology, imaging, and clinical aspects in a population-based cohort",
+            "title-short": "Polymicrogyria",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "PMID": "20301364",
+            "abstract": "DCX-related disorders include the neuronal migration disorders:",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Hehr",
+                    "given": "Ute"
+                },
+                {
+                    "family": "Uyanik",
+                    "given": "Gökhan"
+                },
+                {
+                    "family": "Aigner",
+                    "given": "Ludwig"
+                },
+                {
+                    "family": "Couillard-Despres",
+                    "given": "Sebastien"
+                },
+                {
+                    "family": "Winkler",
+                    "given": "Jürgen"
+                }
+            ],
+            "container-title": "GeneReviews [Internet]",
+            "id": "hehr2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        2
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "University of Washington, Seattle",
+            "title": "DCX-Related Disorders",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.3174/ajnr.A3312",
+            "ISSN": "0195-6108, 1936-959X",
+            "abstract": "BACKGROUND AND PURPOSE: Periventricular nodular heterotopia are common malformations of cortical development that are associated with many clinical syndromes and with many different neuroimaging phenotypes. The purpose of this study was to determine whether specific malformation phenotypes may be related to location, side, or number of PNH as assessed by MR imaging. MATERIALS AND METHODS: MR images of 200 patients previously diagnosed with PNH were retrospectively analyzed. PNH were classified according to their location along the ventricles (anterior, posterior, or diffuse), side (unilateral or bilateral), and number of nodules (Ͻ5, 6 –10, or Ͼ10). The cerebrum, brain stem and cerebellum were analyzed to assess associated anomalies. Associations between PNH location and the presence of other anomalies were tested by using Fisher exact test and ␹2 test. RESULTS: Posterior PNH were significantly associated with malformations of the cerebral cortex, diminished white matter volume, and mid-/hindbrain anomalies. Diffuse PNH were associated with diminished white matter volume, callosal “anomalies,” and the presence of megacisterna magna. Unilateral PNH were strongly associated with cortical malformations. CONCLUSIONS: Certain malformation complexes are associated with PNH in specific locations: posterior PNH with cerebral cortical and mid-/hindbrain malformations and diffuse PNH with callosal anomalies and megacisterna magna. Knowledge of these associations should allow more directed analyses of brain MR imaging in patients with PNH. In addition, knowledge of these associations may help to direct studies to elucidate the causes of these malformation complexes.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "González",
+                    "given": "G."
+                },
+                {
+                    "family": "Vedolin",
+                    "given": "L."
+                },
+                {
+                    "family": "Barry",
+                    "given": "B."
+                },
+                {
+                    "family": "Poduri",
+                    "given": "A."
+                },
+                {
+                    "family": "Walsh",
+                    "given": "C."
+                },
+                {
+                    "family": "Barkovich",
+                    "given": "A. J."
+                }
+            ],
+            "container-title": "American Journal of Neuroradiology",
+            "id": "gonzalez2013",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        4
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "877-883",
+            "title": "Location of Periventricular Nodular Heterotopia Is Related to the Malformation Phenotype on MRI",
+            "type": "article-journal",
+            "volume": "34"
+        },
+        {
+            "DOI": "10.1007/BF03405915",
+            "ISSN": "1476-5438",
+            "abstract": "We report here that some patients affected by schizencephaly are heterozygous for mutations in EMX2, a homeobox gene implicated in the patterning of the developing forebrain. Schizencephaly is a very rare human congenital disorder characterized by a full-thickness cleft within the cerebral hemispheres. Large portions of these may be absent and replaced by cerebrospinal fluid. We previously reported the presence of EMX2 mutations in 7 out of 8 sporadic cases of schizencephaly. We now extend this analysis to 10 additional patients, including 2 brothers. Six patients were found to be heterozygous for de novo mutations in EMX2. In particular, the 2 brothers show the same mutation affecting the splicing of the first intron, while this mutation is absent in their parents and in the 2 unaffected siblings.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Faiella",
+                    "given": "Antonio"
+                },
+                {
+                    "family": "Brunelli",
+                    "given": "Silvia"
+                },
+                {
+                    "family": "Granata",
+                    "given": "Tiziana"
+                },
+                {
+                    "family": "D’Incerti",
+                    "given": "Ludovico"
+                },
+                {
+                    "family": "Cardini",
+                    "given": "Roldano"
+                },
+                {
+                    "family": "Lenti",
+                    "given": "Carlo"
+                },
+                {
+                    "family": "Battaglia",
+                    "given": "Giorgio"
+                },
+                {
+                    "family": "Boncinelli",
+                    "given": "Edoardo"
+                }
+            ],
+            "container-title": "European Journal of Human Genetics",
+            "id": "faiella1997",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1997,
+                        7
+                    ]
+                ]
+            },
+            "keyword": "Bioinformatics,Biomedicine,Cytogenetics,Gene Expression,general,Human Genetics",
+            "language": "en-US",
+            "page": "186-190",
+            "publisher": "Nature Publishing Group",
+            "title": "A Number of Schizencephaly Patients Including 2 Brothers Are Heterozygous for Germline Mutations in the Homeobox Gene EMX2",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "DOI": "10.1055/s-0032-1306382",
+            "ISSN": "0271-8235, 1098-9021",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Welker",
+                    "given": "Kirk"
+                },
+                {
+                    "family": "Patton",
+                    "given": "Alice"
+                }
+            ],
+            "container-title": "Seminars in Neurology",
+            "id": "welker2012",
+            "issue": "01",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012,
+                        2
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "015-028",
+            "title": "Assessment of Normal Myelination with Magnetic Resonance Imaging",
+            "type": "article-journal",
+            "volume": "32"
+        },
+        {
+            "DOI": "10.1212/CON.0000000000000391",
+            "ISSN": "1538-6899, 1080-2371",
+            "abstract": "Purpose of Review: In neuroradiology, highly sophisticated methods such as MRI are implemented to investigate different entities of the central nervous system and to acquire miscellaneous images where tissues display varying degrees of characteristic signal intensity or brightness. Compared to x-ray, CT, and ultrasound, MRI produces clearer images of tissues, body fluids, and fat. The basics of MRI may be unknown to neurologists; this article introduces MRI physics, techniques, and interpretation guidelines.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Radue",
+                    "given": "Ernst-Wilhelm"
+                },
+                {
+                    "family": "Weigel",
+                    "given": "Matthias"
+                },
+                {
+                    "family": "Wiest",
+                    "given": "Roland"
+                },
+                {
+                    "family": "Urbach",
+                    "given": "Horst"
+                }
+            ],
+            "container-title": "CONTINUUM: Lifelong Learning in Neurology",
+            "id": "radue2016",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        10
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "1379-1398",
+            "title": "Introduction to Magnetic Resonance Imaging for Neurologists",
+            "type": "article-journal",
+            "volume": "22"
+        },
+        {
+            "ISSN": "0008-543X",
+            "PMID": "10223246",
+            "abstract": "BACKGROUND: Pleomorphic xanthoastrocytomas (PXA) may recur and demonstrate aggressive clinical behavior with a mortality rate between 15% and 20%. To the authors’ knowledge, no histopathologic features currently are known to reliably predict recurrence or tumor progression. METHODS: The study was based on 71 cases with available information regarding clinical and therapeutic data and follow-up. Diagnostic features included cellular pleomorphism, giant and/or xanthic cells, eosinophilic granular bodies, desmoplasia, and leptomeningeal involvement. The mitotic index (MI), the presence of necrosis, and endothelial proliferation were recorded in all primary resection specimens. RESULTS: The study included 35 females and 36 males, age 26+/-16 years (mean +/- standard deviation). Approximately 98% of tumors were supratentorial, with 49% in the temporal lobe. Seizures were the presenting symptoms in 71% of patients. Extent of tumor removal was macroscopic total resection in 68% of cases and subtotal resection (STR) in 32% of cases. Postoperative radiotherapy, alone or with chemotherapy, was administered in 29% and 12.5% of cases, respectively. The recurrence free survival rates (RFS) were 72% at 5 years and 61% at 10 years, whereas overall survivals rates (OS) were 81% at 5 years and 70% at 10 years. In univariate analysis, the extent of resection was the single factor associated most strongly with RFS (P=0.003), followed by MI (P=0.007) and atypical mitoses (P=0.04). Necrosis was not found to be significant. The extent of resection and MI were confirmed as independent predictors of RFS by multivariate analysis. MI (P=0.001), atypical mitoses (P=0.02), and necrosis (P=0.04) were associated with OS by univariate analysis. In multivariate analysis, only MI was an independent predictor of survival. Information regarding MIB-1 labeling index and the use of adjuvant therapy was too limited to explore their prognostic significance confidently. CONCLUSIONS: The study confirms that PXA is an astrocytic tumor with a relatively favorable prognosis. MI and extent of resection appear to be the main predictors of RFS and OS. Given the slow growth of the tumor, more studied cases and longer periods of follow-up will be essential to confirm our findings regarding prognostic factors affecting this unusual tumor.",
+            "author": [
+                {
+                    "family": "Giannini",
+                    "given": "C."
+                },
+                {
+                    "family": "Scheithauer",
+                    "given": "B. W."
+                },
+                {
+                    "family": "Burger",
+                    "given": "P. C."
+                },
+                {
+                    "family": "Brat",
+                    "given": "D. J."
+                },
+                {
+                    "family": "Wollan",
+                    "given": "P. C."
+                },
+                {
+                    "family": "Lach",
+                    "given": "B."
+                },
+                {
+                    "family": "O’Neill",
+                    "given": "B. P."
+                }
+            ],
+            "container-title": "Cancer",
+            "id": "giannini1999",
+            "issue": "9",
+            "issued": {
+                "date-parts": [
+                    [
+                        1999,
+                        5
+                    ]
+                ]
+            },
+            "keyword": "Adolescent,Adult,Aged,Aged 80 and over,Astrocytoma,Brain Neoplasms,Child,Child Preschool,Disease Progression,Disease-Free Survival,Female,Humans,Male,Middle Aged,Prognosis,Retrospective Studies,Supratentorial Neoplasms,Survival Rate",
+            "language": "en-US",
+            "page": "2033-2045",
+            "title": "Pleomorphic xanthoastrocytoma: What do we really know about it?",
+            "title-short": "Pleomorphic xanthoastrocytoma",
+            "type": "article-journal",
+            "volume": "85"
+        },
+        {
+            "ISSN": "0150-9861",
+            "PMID": "11924137",
+            "abstract": "PURPOSE: To evaluate CT and MRI features and long term imaging follow-up of a large series of dysembryoplastic neuroepithelial tumors (DNTS). PATIENTS AND METHODS: We retrospectively analyzed CT (100%) and MR imaging (83%) findings of 53 patients with complex (n = 14), simple (n = 6) or non specific histological forms (n = 33) of DNTS. All patients underwent epilepsy surgery for the treatment of drug resistant partial seizures. Preoperative radiological follow-up from two to 10 years (81%) and a post-operative follow-up from one to 13 years (92%) were available. RESULTS: DNTs are intracortical tumors with no mass effect and no peritumoral edema. An associated deformity of the overlying skull was observed in 44% of the 34 patients with a cortical lesion of the convexity. We found a contrast enhancement of the lesion in 21% of cases, a calcic hyperdensity in 36% of cases and a cystic part in 7.5% of cases. DNTs were hypodense (82%) on CT examinations and had a decreased signal on the T1 Weighted Images (95%) and a hypersignal in T2 Weighted Images (100%) on MR imaging. Eighty-one percent of patients had a mean preoperative radiological follow-up of four years and the tumor was stable in size in all cases; 92% of patients had a mean post-operative radiological follow-up of 4.5 years and no recurrence was seen. CONCLUSION: Three radiological features of DNTs are helpful for the diagnosis: cortical location, absence of mass effect and no surrounding edema. Clinical, radiological and histopathological findings have to be considered together in order to assess the diagnosis and to differentiate DNTs, which are stable lesions from gliomas.",
+            "author": [
+                {
+                    "family": "Stanescu Cosson",
+                    "given": "R."
+                },
+                {
+                    "family": "Varlet",
+                    "given": "P."
+                },
+                {
+                    "family": "Beuvon",
+                    "given": "F."
+                },
+                {
+                    "family": "Daumas Duport",
+                    "given": "C."
+                },
+                {
+                    "family": "Devaux",
+                    "given": "B."
+                },
+                {
+                    "family": "Chassoux",
+                    "given": "F."
+                },
+                {
+                    "family": "Frédy",
+                    "given": "D."
+                },
+                {
+                    "family": "Meder",
+                    "given": "J. F."
+                }
+            ],
+            "container-title": "Journal of Neuroradiology = Journal De Neuroradiologie",
+            "id": "stanescucosson2001",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001,
+                        12
+                    ]
+                ]
+            },
+            "keyword": "Adult,Brain Neoplasms,Female,Follow-Up Studies,Humans,Magnetic Resonance Imaging,Male,Neoplasms Neuroepithelial,Retrospective Studies,Time Factors,Tomography X-Ray Computed",
+            "language": "en-US",
+            "page": "230-240",
+            "title": "Dysembryoplastic neuroepithelial tumors: CT, MR findings and imaging follow-up: A study of 53 cases",
+            "title-short": "Dysembryoplastic neuroepithelial tumors",
+            "type": "article-journal",
+            "volume": "28"
+        }
+    ],
+    "project_biblios": []
+}

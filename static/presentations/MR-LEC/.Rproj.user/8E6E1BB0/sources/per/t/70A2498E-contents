@@ -1,0 +1,137 @@
+---
+title: "Luka Dmitrovic"
+subtitle: "MRN 91152168"
+author: Maksim Parfyonov MD, FRCPC
+date: 2024-07-24
+format: revealjs
+logo: logo.png
+css: logo.css
+resources:
+  - test.wmv
+---
+
+
+## Seizure History
+- 16 year old RHD male
+- Onset at age 7 (2016) with episodes of behavioral arrest and staring, 3-4x/month
+- Formal diagnosis in Serbia - started on LEV; since has failed 7 ASMs
+- June 2023 seen by Dr. Achi in Abu Dhabi, workup including VEEG, MRI, PET, SPECT
+- Current frequency 8-9 per month
+
+## Seizure Semiology {.smaller}
+- feels "strange" a few seconds before. +/- deja vu sensation. 
+- In 2023, while on Lacosamide these feelings would be accompanied by visions of trains or people. He could also experience black spots in his vision, no clear laterality or pattern in terms of visual field. Since stopping Lacosamide, visions have stopped. 
+- He may move his head to the left or sway if standing. 
+- If standing may fall forward and to the right.
+- Right hand can take on dystonic posture later in the seizure. Eyes may widen. Oral and hand automatisms (left > right hand).
+- Duration: 25-30s
+
+## Outside EEG (Belgarde, 07/2019) {.smaller}
+
+- sharp waves in the right posterior temporal region
+- 3 seizures: Visual aura (flash or spark in the field of vision) -> Dialeptic seizure
+- onset of ictal activity in the right temporal-posterior-occipital region. 
+
+
+# Interictal
+
+## Interictal Findings 1
+!["Questionable low voltage spikes and paroxysmal fast activity at F3/Fz"](iic1.jpg)
+
+## Interictal Findings 2
+!["Rare sharply contoured slow in the left midline frontal region (F3/Fz)"](iic2.jpg)
+
+## Interictal Findings 3
+!["Rare sharp transients in the left mid-frontal region (F3 > Fz)"](iic3.jpg)
+
+## Interictal Findings 4
+!["Occasional, sleep activated high voltage spikes in the left frontal midline region (F3 > AF1, FC1, Fz) – more prominent on day 4 of recording"](iic4.jpg)
+
+
+# Ictal
+
+## SZ 2P
+{{< video sz2p.mp4 >}}
+
+## SZ 2P EEG
+![](sz2p-onset.png){height=550px}
+
+## SZ 2P Evolution
+![](sz2p+15s.png){height=550px}
+
+## SZ 3P EEG
+![](sz3p-onset.jpg)
+
+## SZ 3P Evolution
+![](sz3p-evol.jpg)
+
+## SZ 4P EEG
+![](sz4p-onset.jpg)
+
+## SZ 5P EEG
+![](sz5p-onset.jpg)
+
+## MRI Brain
+![](mri.jpg)
+
+## VBM (03/22/2024)
+
+![ Multiple VBM foci with majority in the R frontal and temporo-occipital regions, shown on the GW junction file; no correlates seen on T2/FLAIR.](vbm.png)
+
+## FDG-PET
+!["There is evidence of delta in the right temporo-parietal lobe particularly posteriorly as imaged on SISCOM"](pet.jpg)
+
+## SPECT (01/11/2024)
+![injection - 18s, flush - 25s, "Strong Right temporo-occipital involvement"](spect.png)
+
+## SPECT (01/11/2024)
+![Left ACC](spect2.png)
+
+## Neuropsych
+
+- Normal per report from Serbia. 
+
+- per Dr Achi: "On my interviews, some mild psychomotor slow, confounded by language barrier and medications"
+
+## Autoimmune testing
+
+- Serum panel Mayo EPS - **negative**
+
+## PMC
+![](pmc.png)
+
+# MEG
+
+## MEG (07/17/2024)
+![](meg.png){.r-stretch}
+
+## MEG (07/17/2024)
+
+Impression: 
+
+This 105-minute outpatient MEG with home-dose ASM consisted of 70% sleep captured **MEG unique** polyspikes which were localized to the **RIGHT posterior and superior temporal region** with loose clustering.  Of note, clear right or left epileptiform discharges on EEG described in the history were not captured during this MEG recording.
+
+# 7T 
+
+## 7T MRI (07/18/2024)
+![](7t_cor.mp4)
+
+## 7T MRI (07/18/2024)
+![](7t_sag.mp4)
+
+
+## 7T MRI (07/18/2024)
+![](7t_ax.mp4)
+
+
+
+## 7T Impression
+
+"Unchanged nonspecific patchy foci of signal abnormality in the anterior corpus callosum.
+
+Bilateral right greater than left supratentorial ill-defined regions of T1 mildly hypointense signal in the subcortical white matter with subcortical U fibers sparing and most pronounced in the posterior right hemisphere, possibly reflecting a neuronal migrational abnormality.  No
+convincing heterotopia or polymicrogyria.
+
+Normal appearance of the hippocampi."
+
+

@@ -1,0 +1,31 @@
+{
+    "id": "2F220C5C",
+    "path": "~/R/MR-LEC/MR-LEC-RevealJS.qmd",
+    "project_path": "MR-LEC-RevealJS.qmd",
+    "type": "quarto_markdown",
+    "hash": "2364631975",
+    "contents": "",
+    "dirty": false,
+    "created": 1721329172831.0,
+    "source_on_save": true,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "237,264",
+        "scrollLine": "233",
+        "rmdVisualModeLocation": "237:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1722454236,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1722454236,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,681 @@
+{
+    "sources": [
+        {
+            "ISBN": "978-1-61705-243-9",
+            "abstract": "Now in its fourth edition, Pellock’s Pediatric Epilepsy: Diagnosis and Therapy remains the gold standard for diagnosis, treatment, classification, and management of childhood epilepsies. With over 100 distinguished contributors from world-leading epilepsy programs, the long-awaited new edition maintains the breadth and scope the book is known for while significantly updating the science, practice, and therapeutic strategies that continue to move the field forward. At the center of this new edition is the totally reorganized and expanded section on age-related syndromes. There is a major emphasis on new genetic-based classifications and the clinical implications for identifying and managing the various subtypes. New chapters devoted exclusively to Panayiotopoulos syndrome, myoclonic status epilepticus, and autosomal dominant focal epilepsies, among others, cover even more ground than the last edition. Brand-new chapters in the drug and diet section cover perampanel, ezogabine, and lacosamide, while the existing chapters on major medical treatments have been comprehensively updated to reflect the latest trials and studies. Other sections contain new chapters on genetics, non-invasive functional mapping, sleep issues for pediatric epilepsy patients, and more. With more than 80 chapters, Pellock’s Pediatric Epilepsy now contains a full discussion of the spectrum of epilepsy disorders, not just seizures. From basic mechanisms and epidemiology, through diagnosis and therapy, to quality of life issues, the new edition of this established reference covers every aspect of childhood epilepsy and will continue to be the definitive core text for all professionals involved in the field. New to the Fourth Edition: Every chapter thoroughly reviewed, revised, and updated Section on age-related syndromes completely reconfigured to align with new ILAE terminology and organization in classifying seizures and forms of epilepsy Major update on disease mechanisms and all treatments for epilepsy, including drugs Increased attention to special populations, including a heavily-updated chapter on the female epilepsy patient New final section covers the epilepsy spectrum, with new chapters on epilepsy and sleep, co-morbidities of childhood, behavioral influence of AEDs, and transitioning to adulthood",
+            "author": [
+                {
+                    "family": "MD",
+                    "given": "Douglas R. Nordli",
+                    "suffix": "Jr"
+                },
+                {
+                    "family": "MD",
+                    "given": "John M. Pellock"
+                },
+                {
+                    "family": "PhD",
+                    "given": "Raman Sankar",
+                    "suffix": "MD"
+                },
+                {
+                    "family": "MD",
+                    "given": "James W. Wheless"
+                }
+            ],
+            "id": "md_pellocks_2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        8
+                    ]
+                ]
+            },
+            "keyword": "Medical / Neurology, Medical / Pediatrics",
+            "note": "Google-Books-ID: 1CkODAAAQBAJ",
+            "publisher": "Springer Publishing Company",
+            "title": "Pellock’s Pediatric Epilepsy: Diagnosis and Therapy",
+            "title-short": "Pellock’s Pediatric Epilepsy",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1016/S1474-4422(15)00383-X",
+            "ISSN": "1474-4422, 1474-4465",
+            "URL": "https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(15)00383-X/abstract",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        16
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Duncan",
+                    "given": "John S."
+                },
+                {
+                    "family": "Winston",
+                    "given": "Gavin P."
+                },
+                {
+                    "family": "Koepp",
+                    "given": "Matthias J."
+                },
+                {
+                    "family": "Ourselin",
+                    "given": "Sebastien"
+                }
+            ],
+            "container-title": "The Lancet Neurology",
+            "id": "duncan_brain_2016",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        4
+                    ]
+                ]
+            },
+            "note": "Publisher: Elsevier",
+            "page": "420-433",
+            "title": "Brain imaging in the assessment for epilepsy surgery",
+            "type": "article-journal",
+            "volume": "15"
+        },
+        {
+            "DOI": "10.1542/peds.106.3.527",
+            "ISSN": "0031-4005",
+            "URL": "https://doi.org/10.1542/peds.106.3.527",
+            "abstract": "Neuroimaging is generally considered a part of the evaluation of seizures and epilepsy. There is limited information about its current use in the initial evaluation of pediatric epilepsy and about its yield during the initial diagnosis of epilepsy. We describe the patterns in the use and yield of diagnostic imaging in children with newly diagnosed epilepsy in a community-based study.Children were recruited when first diagnosed with epilepsy by participating physicians in Connecticut (1993–1997). Definitions for etiology and underlying epilepsy syndromes are as published by the International League Against Epilepsy.Of 613 children, 488 (79.6%) had imaging: 388 (63.3%) magnetic resonance imaging, 197 (32.1%) computed tomography scans, and 97 (15.8%) both. Half of children with idiopathic generalized epilepsy had imaging studies compared with 70% to 100% of children with other forms of epilepsy, depending on the specific type. Etiologically relevant abnormalities were found in 62 (12.7% of those imaged). Fourteen of these children had otherwise completely normal presentations and histories. Their abnormalities included tuberous sclerosis (N = 4), tumors (N = 2), an arteriovenous malformation later diagnosed as a tumor, a cavernous angioma, cerebral malformations (N = 3), and other abnormalities (N = 3). Thirteen of the 14 had partial seizures and 12 had focal electroencephalographic (EEG) findings. Only 1 had neither.In children with newly diagnosed epilepsy, neuroimaging reveals a small but significant number of serious abnormalities not previously suspected. Most of these children have partial seizures or focal EEG abnormalities. Neuroimaging should be considered during the evaluation of children with newly diagnosed epilepsy, especially for those with neurologic deficits or partial seizures or focal EEG abnormalities that are not part of an idiopathic localization-related epilepsy syndrome.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        16
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Berg",
+                    "given": "Anne T."
+                },
+                {
+                    "family": "Testa",
+                    "given": "Francine M."
+                },
+                {
+                    "family": "Levy",
+                    "given": "Susan R."
+                },
+                {
+                    "family": "Shinnar",
+                    "given": "Shlomo"
+                }
+            ],
+            "container-title": "Pediatrics",
+            "id": "berg_etal2000",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000,
+                        9
+                    ]
+                ]
+            },
+            "page": "527-532",
+            "title": "Neuroimaging in Children With Newly Diagnosed Epilepsy: A Community-Based Study",
+            "title-short": "Neuroimaging in Children With Newly Diagnosed Epilepsy",
+            "type": "article-journal",
+            "volume": "106"
+        },
+        {
+            "DOI": "10.1542/peds.2018-0672",
+            "ISSN": "0031-4005",
+            "URL": "https://doi.org/10.1542/peds.2018-0672",
+            "abstract": "We assessed the adherence to neuroimaging guidelines and the diagnostically relevant yield of neuroimaging in newly presenting early life epilepsy (ELE).There were 775 children with a new diagnosis of epilepsy (&lt;3 years old at onset) who were recruited through the ELE study at 17 US pediatric epilepsy centers (2012–2015) and managed prospectively for 1 year. The data were analyzed to assess the proportion of children who underwent neuroimaging, the type of neuroimaging, and abnormalities.Of 725 children (93.5%) with neuroimaging, 714 had an MRI (87% with seizure protocols) and 11 had computed tomography or ultrasound only. Etiologically relevant abnormalities were present in 290 individuals (40%) and included: an acquired injury in 97 (13.4%), malformations of cortical development in 56 (7.7%), and other diffuse disorders of brain development in 51 (7.0%). Neuroimaging was abnormal in 160 of 262 (61%) children with abnormal development at diagnosis versus 113 of 463 (24%) children with typical development. Neuroimaging abnormalities were most common in association with focal seizure semiology (40%), spasms (47%), or unclear semiology (42%). In children without spasms or focal semiology with typical development, 29 of 185 (16%) had imaging abnormalities. Pathogenic genetic variants were identified in 53 of 121 (44%) children with abnormal neuroimaging in whom genetic testing was performed.Structural abnormalities occur commonly in ELE, and adherence to neuroimaging guidelines is high at US pediatric epilepsy centers. These data support the universal adoption of imaging guidelines because the yield is substantially high, even in the lowest risk group.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        16
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Coryell",
+                    "given": "Jason"
+                },
+                {
+                    "family": "Gaillard",
+                    "given": "William D."
+                },
+                {
+                    "family": "Shellhaas",
+                    "given": "Renée A."
+                },
+                {
+                    "family": "Grinspan",
+                    "given": "Zachary M."
+                },
+                {
+                    "family": "Wirrell",
+                    "given": "Elaine C."
+                },
+                {
+                    "family": "Knupp",
+                    "given": "Kelly G."
+                },
+                {
+                    "family": "Wusthoff",
+                    "given": "Courtney J."
+                },
+                {
+                    "family": "Keator",
+                    "given": "Cynthia"
+                },
+                {
+                    "family": "Sullivan",
+                    "given": "Joseph E."
+                },
+                {
+                    "family": "Loddenkemper",
+                    "given": "Tobias"
+                },
+                {
+                    "family": "Patel",
+                    "given": "Anup"
+                },
+                {
+                    "family": "Chu",
+                    "given": "Catherine J."
+                },
+                {
+                    "family": "Massey",
+                    "given": "Shavonne"
+                },
+                {
+                    "family": "Novotny",
+                    "given": "Edward J.",
+                    "suffix": "Jr"
+                },
+                {
+                    "family": "Saneto",
+                    "given": "Russel P."
+                },
+                {
+                    "family": "Berg",
+                    "given": "Anne T."
+                }
+            ],
+            "container-title": "Pediatrics",
+            "id": "coryell_neuroimaging_2018",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        9
+                    ]
+                ]
+            },
+            "page": "e20180672",
+            "title": "Neuroimaging of Early Life Epilepsy",
+            "type": "article-journal",
+            "volume": "142"
+        },
+        {
+            "DOI": "10.3390/children6030043",
+            "ISSN": "2227-9067",
+            "URL": "https://www.mdpi.com/2227-9067/6/3/43",
+            "abstract": "The etiology of epilepsy is variable and sometimes multifactorial. Clinical course and response to treatment largely depend on the precise etiology of the seizures. Along with the electroencephalogram (EEG), neuroimaging techniques, in particular, magnetic resonance imaging (MRI), are the most important tools for determining the possible etiology of epilepsy. Over the last few years, there have been many developments in data acquisition and analysis for both morphological and functional neuroimaging of people suffering from this condition. These innovations have increased the detection of underlying structural pathologies, which have till recently been classified as “cryptogenic” epilepsy. Cryptogenic epilepsy is often refractory to anti-epileptic drug treatment. In drug-resistant patients with structural or consistent functional lesions related to the epilepsy syndrome, surgery is the only treatment that can offer a seizure-free outcome. The pre-operative detection of the underlying structural condition increases the odds of successful surgical treatment of pharmacoresistant epilepsy. This article provides a comprehensive overview of neuroimaging techniques in epilepsy, highlighting recent advances and innovations and summarizes frequent etiologies of epilepsy in order to improve the diagnosis and management of patients suffering from seizures, especially young patients and children.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        16
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Fitsiori",
+                    "given": "Aikaterini"
+                },
+                {
+                    "family": "Hiremath",
+                    "given": "Shivaprakash Basavanthaiah"
+                },
+                {
+                    "family": "Boto",
+                    "given": "José"
+                },
+                {
+                    "family": "Garibotto",
+                    "given": "Valentina"
+                },
+                {
+                    "family": "Vargas",
+                    "given": "Maria Isabel"
+                }
+            ],
+            "container-title": "Children",
+            "id": "fitsiori_morphological_2019",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        3
+                    ]
+                ]
+            },
+            "keyword": "epilepsy, cortical malformations, diffusion tensor imaging, hippocampal sclerosis, magnetic resonance imaging (MRI), positron emission topography-computed tomography (PET-CT), single positron emission computed tomography (SPECT), spectroscopy",
+            "note": "Number: 3 Publisher: Multidisciplinary Digital Publishing Institute",
+            "page": "43",
+            "title": "Morphological and Advanced Imaging of Epilepsy: Beyond the Basics",
+            "title-short": "Morphological and Advanced Imaging of Epilepsy",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "DOI": "10.1016/B978-0-444-53486-6.00051-X",
+            "ISSN": "0072-9752",
+            "PMCID": "PMC5256664",
+            "PMID": "27430454",
+            "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5256664/",
+            "abstract": "Imaging is pivotal in the evaluation and management of patients with seizure disorders. Elegant structural neuroimaging with magnetic resonance imaging (MRI) may assist in determining the etiology of focal epilepsy and demonstrating the anatomical changes associated with seizure activity. The high diagnostic yield of MRI to identify the common pathological findings in individuals with focal seizures including mesial temporal sclerosis, vascular anomalies, low-grade glial neoplasms and malformations of cortical development has been demonstrated. Positron emission tomography (PET) is the most commonly performed interictal functional neuroimaging technique that may reveal a focal hypometabolic region concordant with seizure onset. Single photon emission computed tomography (SPECT) studies may assist performance of ictal neuroimaging in patients with pharmacoresistant focal epilepsy being considered for neurosurgical treatment. This chapter highlights neuroimaging developments and innovations, and provides a comprehensive overview of the imaging strategies used to improve the care and management of people with epilepsy.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        16
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Cendes",
+                    "given": "Fernando"
+                },
+                {
+                    "family": "Theodore",
+                    "given": "William H."
+                },
+                {
+                    "family": "Brinkmann",
+                    "given": "Benjamin H."
+                },
+                {
+                    "family": "Sulc",
+                    "given": "Vlastimil"
+                },
+                {
+                    "family": "Cascino",
+                    "given": "Gregory D."
+                }
+            ],
+            "container-title": "Handbook of clinical neurology",
+            "id": "cendesetal_2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "985-1014",
+            "title": "Neuroimaging of epilepsy",
+            "type": "article-journal",
+            "volume": "136"
+        },
+        {
+            "DOI": "10.1053/j.ro.2022.11.002",
+            "ISSN": "0037-198X",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0037198X22000682",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        16
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Senger",
+                    "given": "Krishna Pratap Singh"
+                },
+                {
+                    "family": "Kesavadas",
+                    "given": "C."
+                }
+            ],
+            "collection-title": "Newer Developments in Pediatric Neuroimaging",
+            "container-title": "Seminars in Roentgenology",
+            "id": "senger_imaging_2023",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        1
+                    ]
+                ]
+            },
+            "page": "28-46",
+            "title": "Imaging in Pediatric Epilepsy",
+            "type": "article-journal",
+            "volume": "58"
+        },
+        {
+            "DOI": "10.1148/rg.284075114",
+            "ISSN": "0271-5333",
+            "URL": "https://pubs.rsna.org/doi/10.1148/rg.284075114",
+            "abstract": "Pediatric patients with intractable epilepsy represent a challenging clinical population. However, recent advances in neuroimaging with a multimodality imaging approach that combines fluorine 18 fluorodeoxyglucose positron emission tomography, magnetoencephalography, diffusion tensor imaging, and magnetic source imaging with conventional magnetic resonance imaging continue to improve diagnosis and treatment in affected patients. These advances are increasing the understanding of the underlying disease process and improving the ability to noninvasively detect epileptogenic foci that in the past went undetected and whose accurate localization is crucial for a good outcome following surgical resection.© RSNA, 2008",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        28
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Rastogi",
+                    "given": "Sachin"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Christopher"
+                },
+                {
+                    "family": "Salamon",
+                    "given": "Noriko"
+                }
+            ],
+            "container-title": "RadioGraphics",
+            "id": "rastogi_neuroimaging_2008",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008,
+                        7
+                    ]
+                ]
+            },
+            "note": "Publisher: Radiological Society of North America",
+            "page": "1079-1095",
+            "title": "Neuroimaging in Pediatric Epilepsy: A Multimodality Approach",
+            "title-short": "Neuroimaging in Pediatric Epilepsy",
+            "type": "article-journal",
+            "volume": "28"
+        },
+        {
+            "DOI": "10.1111/epi.15612",
+            "ISSN": "0013-9580, 1528-1167",
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/epi.15612",
+            "abstract": "AbstractStructural magnetic resonance imaging ( MRI ) is of fundamental importance to the diagnosis and treatment of epilepsy, particularly when surgery is being considered. Despite previous recommendations and guidelines, practices for the use of MRI are variable worldwide and may not harness the full potential of recent technological advances for the benefit of people with epilepsy. The International League Against Epilepsy Diagnostic Methods Commission has thus charged the 2013‐2017 Neuroimaging Task Force to develop a set of recommendations addressing the following questions: (1) Who should have an MRI ? (2) What are the minimum requirements for an MRI epilepsy protocol? (3) How should magnetic resonance (MR) images be evaluated? (4) How to optimize lesion detection? These recommendations target clinicians in established epilepsy centers and neurologists in general/district hospitals. They endorse routine structural imaging in new onset generalized and focal epilepsy alike and describe the range of situations when detailed assessment is indicated. The Neuroimaging Task Force identified a set of sequences, with three‐dimensional acquisitions at its core, the harmonized neuroimaging of epilepsy structural sequences— HARNESS ‐ MRI protocol. As these sequences are available on most MR scanners, the HARNESS ‐ MRI protocol is generalizable, regardless of the clinical setting and country. The Neuroimaging Task Force also endorses the use of computer‐aided image postprocessing methods to provide an objective account of an individual’s brain anatomy and pathology. By discussing the breadth and depth of scope of MRI , this report emphasizes the unique role of this noninvasive investigation in the care of people with epilepsy.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        5
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Bernasconi",
+                    "given": "Andrea"
+                },
+                {
+                    "family": "Cendes",
+                    "given": "Fernando"
+                },
+                {
+                    "family": "Theodore",
+                    "given": "William H."
+                },
+                {
+                    "family": "Gill",
+                    "given": "Ravnoor S."
+                },
+                {
+                    "family": "Koepp",
+                    "given": "Matthias J."
+                },
+                {
+                    "family": "Hogan",
+                    "given": "Robert Edward"
+                },
+                {
+                    "family": "Jackson",
+                    "given": "Graeme D."
+                },
+                {
+                    "family": "Federico",
+                    "given": "Paolo"
+                },
+                {
+                    "family": "Labate",
+                    "given": "Angelo"
+                },
+                {
+                    "family": "Vaudano",
+                    "given": "Anna Elisabetta"
+                },
+                {
+                    "family": "Blümcke",
+                    "given": "Ingmar"
+                },
+                {
+                    "family": "Ryvlin",
+                    "given": "Philippe"
+                },
+                {
+                    "family": "Bernasconi",
+                    "given": "Neda"
+                }
+            ],
+            "container-title": "Epilepsia",
+            "id": "bernasconi_etal2019",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        6
+                    ]
+                ]
+            },
+            "page": "1054-1068",
+            "title": "Recommendations for the use of structural magnetic resonance imaging in the care of patients with epilepsy: A consensus report from the International League Against Epilepsy Neuroimaging Task Force",
+            "title-short": "Recommendations for the use of structural magnetic resonance imaging in the care of patients with epilepsy",
+            "type": "article-journal",
+            "volume": "60"
+        },
+        {
+            "DOI": "10.1111/j.1552-6569.2006.00025.x",
+            "ISSN": "1552-6569",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1552-6569.2006.00025.x",
+            "abstract": "Focal cortical dysplasia (FCD) is a common cause of pharmacoresistant epilepsy that is amenable to surgical resective treatment. The identification of structural FCD by magnetic resonance imaging (MRI) can contribute to the detection of the epileptogenic zone and improve the outcome of epilepsy surgery. MR epilepsy protocols that include specific T1 and T2 weighted, and fluid-attenuated inversion recovery (FLAIR) sequences give complementary information about the characteristic imaging features of FCD; focal cortical thickening, blurring of the gray-white junction, high FLAIR signal, and gyral anatomical abnormalities. Novel imaging techniques such as magnetic resonance spectroscopy (MRS), magnetization transfer imaging (MTI), and diffusion tensor imaging (DTI) can improve the sensitivity of MR to localize the anatomical lesion. Functional/metabolic techniques such as positron emission tomography (PET), ictal subtraction single photon emission computed tomography (SPECT), functional MRI (fMRI), and magnetic source imaging (MSI) have the potential to visualize the metabolic, vascular, and epileptogenic properties of the FCD lesion, respectively. Identification of eloquent areas of cortex, to assist in the surgical resection plan, can be obtained non-invasively through the use of fMRI and MSI. Although a significant number of FCD lesions remain unidentified using current neuroimaging techniques, future advances should result in the identification of an increasing number of these cortical malformations.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Widdess-Walsh",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Diehl",
+                    "given": "Beate"
+                },
+                {
+                    "family": "Najm",
+                    "given": "Imad"
+                }
+            ],
+            "container-title": "Journal of Neuroimaging",
+            "id": "widdess-walsh_neuroimaging_2006",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006
+                    ]
+                ]
+            },
+            "keyword": "diffusion imaging, Focal cortical dysplasia, functional HRI, MRI, MRS, PET, SPECT",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1552-6569.2006.00025.x",
+            "page": "185-196",
+            "title": "Neuroimaging of Focal Cortical Dysplasia",
+            "type": "article-journal",
+            "volume": "16"
+        },
+        {
+            "DOI": "10.1016/j.seizure.2015.12.009",
+            "ISSN": "10591311",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1059131115002903",
+            "abstract": "Purpose: To determine the yield of emergent neuroimaging among children with new-onset seizures presenting with status epilepticus. Method: We performed a cross-sectional study of children seen at a single ED between 1995 and 2012 with new-onset seizure presenting with status epilepticus. We deﬁned status epilepticus as a single seizure or multiple seizures without regaining consciousness lasting 30 min or longer. Our primary outcome was urgent or emergent intracranial pathology identiﬁed on neuroimaging. We categorized neuroimaging results as emergent if they would have changed acute management as assessed by a blinded neuroradiologist and neurologist. To ensure abnormalities were not missed, we review neuroimaging results for 30 days following the initial episode of SE. Results: We included 177 children presenting with new-onset seizure with status epilepticus, of whom 170 (96%) had neuroimaging performed. Abnormal ﬁndings were identiﬁed on neuroimaging in 64/177 (36%, 95% conﬁdence interval 29–43%) children with 15 (8.5%, 95% conﬁdence interval 5.2–14%) children having urgent or emergent pathology. Four (27%) of the 15 children with urgent or emergent ﬁndings had a normal non-contrast computed tomography scan and a subsequently abnormal magnetic resonance image. Longer seizure duration and older age were associated with urgent or emergent intracranial pathology. Conclusion: A substantial minority of children with new-onset seizures presenting with status epilepticus have urgent or emergent intracranial pathology identiﬁed on neuroimaging. Clinicians should strongly consider emergent neuroimaging in these children. Magnetic resonance imaging is the preferred imaging modality when available and safe.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Lyons",
+                    "given": "Todd W."
+                },
+                {
+                    "family": "Johnson",
+                    "given": "Kara B."
+                },
+                {
+                    "family": "Michelson",
+                    "given": "Kenneth A."
+                },
+                {
+                    "family": "Nigrovic",
+                    "given": "Lise E."
+                },
+                {
+                    "family": "Loddenkemper",
+                    "given": "Tobias"
+                },
+                {
+                    "family": "Prabhu",
+                    "given": "Sanjay P."
+                },
+                {
+                    "family": "Kimia",
+                    "given": "Amir A."
+                }
+            ],
+            "container-title": "Seizure",
+            "id": "lyons_etal2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        2
+                    ]
+                ]
+            },
+            "page": "4-10",
+            "title": "Yield of emergent neuroimaging in children with new-onset seizure and status epilepticus",
+            "type": "article-journal",
+            "volume": "35"
+        },
+        {
+            "DOI": "10.1111/j.1528-1167.2009.02075.x",
+            "ISSN": "1528-1167",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1528-1167.2009.02075.x",
+            "abstract": "The International League Against Epilepsy (ILAE) Subcommittee for Pediatric Neuroimaging examined the usefulness of, and indications for, neuroimaging in the evaluation of children with newly diagnosed epilepsy. The retrospective and prospective published series with n ≥30 utilizing computed tomography (CT) and magnetic resonance imaging (MRI) (1.5 T) that evaluated children with new-onset seizure(s) were reviewed. Nearly 50% of individual imaging studies in children with localization-related new-onset seizure(s) were reported to be abnormal; 15–20% of imaging studies provided useful information on etiology or and seizure focus, and 2–4% provided information that potentially altered immediate medical management. A significant imaging abnormality in the absence of a history of a localization-related seizure, abnormal neurologic examination, or focal electroencephalography (EEG) is rare. Imaging studies in childhood absence epilepsy, juvenile absence epilepsy, juvenile myoclonic epilepsy, and benign childhood epilepsy with centrotemporal spikes (BECTS) do not identify significant structural abnormalities. Imaging provides important contributions to establishing etiology, providing prognostic information, and directing treatment in children with recently diagnosed epilepsy. Imaging is recommended when localization-related epilepsy is known or suspected, when the epilepsy classification is in doubt, or when an epilepsy syndrome with remote symptomatic cause is suspected. When available, MRI is preferred to CT because of its superior resolution, versatility, and lack of radiation.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Gaillard",
+                    "given": "William D."
+                },
+                {
+                    "family": "Chiron",
+                    "given": "Catherine"
+                },
+                {
+                    "family": "Helen Cross",
+                    "given": "J."
+                },
+                {
+                    "family": "Simon Harvey",
+                    "given": "A."
+                },
+                {
+                    "family": "Kuzniecky",
+                    "given": "Ruben"
+                },
+                {
+                    "family": "Hertz-Pannier",
+                    "given": "Lucie"
+                },
+                {
+                    "family": "Gilbert Vezina",
+                    "given": "L."
+                }
+            ],
+            "container-title": "Epilepsia",
+            "id": "gaillard_etal2009",
+            "issue": "9",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "keyword": "Children, Epilepsy, Imaging, Infants",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1528-1167.2009.02075.x",
+            "page": "2147-2153",
+            "title": "Guidelines for imaging infants and children with recent-onset epilepsy",
+            "type": "article-journal",
+            "volume": "50"
+        }
+    ],
+    "project_biblios": []
+}

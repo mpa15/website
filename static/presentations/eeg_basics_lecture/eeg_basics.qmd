@@ -1,0 +1,124 @@
+---
+title: "EEG Basics"
+author: Maksim Parfyonov MD, FRCPC
+institute: Cleveland Clinic Epilepsy Center
+subtitle: "EEG Course 2024"
+date: last-modified
+format:
+  revealjs: 
+    theme: default
+#logo: logo.png
+#css: logo.css
+#bibliography: refs.bib
+#csl: epilepsia.csl
+---
+
+## History of EEG
+
+![](hans-berger.png)
+
+Hans Berger, considered the father of EEG, was the first to record EEG in humans while working as a professor of psychiatry at the University of Jena in Germany.
+
+# Terminology
+
+## Frequency
+
+Frequencies are quoted either in cycles per second (cps) or in Hertz (Hz)
+
+| Band Name | Frequency Range |
+|:--------- | :-------------- |
+| alpha | 0 - <4 Hz |
+| theta | 4 - <8 Hz |
+| delta | 8 - 13 Hz | 
+| beta | >13 Hz | 
+
+## Fourier Theorem
+
+- Important to "deconstruct" EEG waves to their component frequencies. 
+
+- Joseph Fourier
+- mathematical theorem: no matter how simple/complex, any waveform can be described by sum of sufficient number of simple sine waves
+
+## Fourier Example
+
+![](fourier_all.png)
+
+## Fourier Example
+
+![](fourier_1.png)
+
+## Fourier Example
+
+![](fourier_2.png)
+
+## Fourier Example
+
+![](fourier_3.png)
+
+## Fourier Example
+
+![](fourier_4.png)
+
+# Electrode Location
+
+## 10-20 System
+
+![](10-20-measures.webp)
+
+## 10-20 Names
+
+::: columns
+
+::: column
+
+![](10-20-original.png)
+:::
+
+::: column
+
+![](10-20-modified.png)
+
+:::
+:::
+
+## The differential amplifier
+
+![](cmra-ex.png)
+
+## EEG Channel as a Voltmeter
+
+![](eeg-pen.png)
+
+## Voltage convention
+
+- Convention: up is negative
+- Height of waveform corresponds to voltage 
+
+## Montages
+
+Two categories:
+
+- Bipolar
+  - 
+- Referrential 
+
+## Phase Reversals on Bipolar Montages
+
+![](neg-phase-reversal-example.png)
+
+## Phase Reversals on Bipolar Montages
+
+![](neg-phase-reversal-example2.png)
+
+## Isoelectric Phase Reversal
+
+![](isoelectric-phase-reversal.png)
+
+
+
+
+
+
+
+
+

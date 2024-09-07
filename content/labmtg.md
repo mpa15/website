@@ -6,13 +6,13 @@ draft = false
 
 Neuroimaging  
 
-[2024-08-29](/labmtgs/prelim-presentation-2024-08-29.html)
+- [2024-08-29](/labmtgs/prelim-presentation-2024-08-29.html)
 
-[2024-08-26](/labmtgs/prelim-presentation-2024-08-26.html)   
+- [2024-08-26](/labmtgs/prelim-presentation-2024-08-26.html)   
 
-[2024-08-02](/labmtgs/lab-mtg-2024-08-02.html)
+- [2024-08-02](/labmtgs/lab-mtg-2024-08-02.html)
 
 FAIL-SEEG
 
-[2024-09-07](/labmtgs/2024-08-26-manuscript-figs-tables.html)
+- [2024-09-07](/labmtgs/2024-08-26-manuscript-figs-tables.html)
 

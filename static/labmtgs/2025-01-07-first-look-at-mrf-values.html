@@ -10,7 +10,7 @@
 <link href="2025-01-07-first-look-at-mrf-values_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.4.555">
 
-  <meta name="dcterms.date" content="2025-01-07">
+  <meta name="dcterms.date" content="2025-01-10">
   <title>First look at Extracted MRF Values</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -320,9 +320,7 @@
       margin-right: 0; 
     }
   </style>
-  <script src="2025-01-07-first-look-at-mrf-values_files/libs/kePrint-0.0.1/kePrint.js"></script>
-
-  <link href="2025-01-07-first-look-at-mrf-values_files/libs/lightable-0.0.1/lightable.css" rel="stylesheet">
+  <link href="2025-01-07-first-look-at-mrf-values_files/libs/table1-1.0/table1_defaults.css" rel="stylesheet">
 
 </head>
 <body class="quarto-light">
@@ -335,1140 +333,8 @@
 <div class="quarto-title-authors">
 </div>
 
-  <p class="date">2025-01-07</p>
+  <p class="date">2025-01-10</p>
 </section>
-<section>
-<section id="recap" class="title-slide slide level1 center">
-<h1>Recap</h1>
-
-</section>
-<section id="inclusion" class="slide level2">
-<h2>Inclusion</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-1-1.png" width="960" class="r-stretch"></section>
-<section id="electrodecontact-totals-for-n13-clean-group" class="slide level2">
-<h2>Electrode/Contact Totals for N=13 “Clean” group</h2>
-<p>There are 226 electrodes, with 100 in the left hemisphere and 126 in the right hemisphere.</p>
-<p>Total number of contacts is 2639.</p>
-<p>Total number <em>without</em> WM, CSF, or OUT contacts is 1858</p>
-</section>
-<section id="contacts-by-region" class="slide level2">
-<h2>Contacts By Region</h2>
-<div class="cell">
-<div class="cell-output-display">
-<table class="table lightable-paper lightable-hover caption-top" data-quarto-postprocess="true" style="font-size: 16px; margin-left: auto; margin-right: auto; font-family: &quot;Arial Narrow&quot;, arial, helvetica, sans-serif; width: auto !important; margin-left: auto; margin-right: auto;">
-<thead>
-<tr class="header">
-<th style="text-align: left;" data-quarto-table-cell-role="th">&nbsp;</th>
-<th style="text-align: left;" data-quarto-table-cell-role="th">left</th>
-<th style="text-align: left;" data-quarto-table-cell-role="th">right</th>
-<th style="text-align: left;" data-quarto-table-cell-role="th">Overall</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"></td>
-<td style="text-align: left;">(N=828)</td>
-<td style="text-align: left;">(N=1030)</td>
-<td style="text-align: left;">(N=1858)</td>
-</tr>
-<tr class="even" data-grouplength="8">
-<td colspan="4" style="text-align: left; border-bottom: 1px solid;"><strong>fel_maj</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Cingulate</td>
-<td style="text-align: left;">33 (4.0%)</td>
-<td style="text-align: left;">53 (5.1%)</td>
-<td style="text-align: left;">86 (4.6%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Deep Gray</td>
-<td style="text-align: left;">2 (0.2%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">2 (0.1%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Frontal</td>
-<td style="text-align: left;">282 (34.1%)</td>
-<td style="text-align: left;">328 (31.8%)</td>
-<td style="text-align: left;">610 (32.8%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Insula</td>
-<td style="text-align: left;">60 (7.2%)</td>
-<td style="text-align: left;">69 (6.7%)</td>
-<td style="text-align: left;">129 (6.9%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">NA</td>
-<td style="text-align: left;">6 (0.7%)</td>
-<td style="text-align: left;">30 (2.9%)</td>
-<td style="text-align: left;">36 (1.9%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Occipital</td>
-<td style="text-align: left;">36 (4.3%)</td>
-<td style="text-align: left;">27 (2.6%)</td>
-<td style="text-align: left;">63 (3.4%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Parietal</td>
-<td style="text-align: left;">149 (18.0%)</td>
-<td style="text-align: left;">205 (19.9%)</td>
-<td style="text-align: left;">354 (19.1%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Temporal</td>
-<td style="text-align: left;">260 (31.4%)</td>
-<td style="text-align: left;">318 (30.9%)</td>
-<td style="text-align: left;">578 (31.1%)</td>
-</tr>
-</tbody>
-</table>
-
-
-</div>
-</div>
-</section>
-<section id="contacts-by-specific-region" class="slide level2">
-<h2>Contacts by Specific Region</h2>
-<div class="cell">
-<div class="cell-output-display">
-<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:500px; ">
-<table class="table lightable-paper lightable-hover caption-top" data-quarto-postprocess="true" style="font-size: 16px; margin-left: auto; margin-right: auto; font-family: &quot;Arial Narrow&quot;, arial, helvetica, sans-serif; width: auto !important; margin-left: auto; margin-right: auto;">
-<thead>
-<tr class="header">
-<th data-quarto-table-cell-role="th" style="text-align: left; position: sticky; top: 0; background-color: #FFFFFF;">&nbsp;</th>
-<th data-quarto-table-cell-role="th" style="text-align: left; position: sticky; top: 0; background-color: #FFFFFF;">Cingulate</th>
-<th data-quarto-table-cell-role="th" style="text-align: left; position: sticky; top: 0; background-color: #FFFFFF;">Deep Gray</th>
-<th data-quarto-table-cell-role="th" style="text-align: left; position: sticky; top: 0; background-color: #FFFFFF;">Frontal</th>
-<th data-quarto-table-cell-role="th" style="text-align: left; position: sticky; top: 0; background-color: #FFFFFF;">Insula</th>
-<th data-quarto-table-cell-role="th" style="text-align: left; position: sticky; top: 0; background-color: #FFFFFF;">NA</th>
-<th data-quarto-table-cell-role="th" style="text-align: left; position: sticky; top: 0; background-color: #FFFFFF;">Occipital</th>
-<th data-quarto-table-cell-role="th" style="text-align: left; position: sticky; top: 0; background-color: #FFFFFF;">Parietal</th>
-<th data-quarto-table-cell-role="th" style="text-align: left; position: sticky; top: 0; background-color: #FFFFFF;">Temporal</th>
-<th data-quarto-table-cell-role="th" style="text-align: left; position: sticky; top: 0; background-color: #FFFFFF;">Overall</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"></td>
-<td style="text-align: left;">(N=86)</td>
-<td style="text-align: left;">(N=2)</td>
-<td style="text-align: left;">(N=610)</td>
-<td style="text-align: left;">(N=129)</td>
-<td style="text-align: left;">(N=36)</td>
-<td style="text-align: left;">(N=63)</td>
-<td style="text-align: left;">(N=354)</td>
-<td style="text-align: left;">(N=578)</td>
-<td style="text-align: left;">(N=1858)</td>
-</tr>
-<tr class="even" data-grouplength="83">
-<td colspan="10" style="text-align: left; border-bottom: 1px solid;"><strong>Specific</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Ant Cing</td>
-<td style="text-align: left;">25 (29.1%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">25 (1.3%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Cing Gyr</td>
-<td style="text-align: left;">2 (2.3%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">2 (0.1%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Cing Sulc</td>
-<td style="text-align: left;">35 (40.7%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">35 (1.9%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Mid Cing</td>
-<td style="text-align: left;">8 (9.3%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">8 (0.4%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Post Cing</td>
-<td style="text-align: left;">16 (18.6%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">16 (0.9%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Basal Ganglia</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">1 (50.0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">1 (0.1%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Caudate</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">1 (50.0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">1 (0.1%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Cent Oper</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">14 (2.3%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">14 (0.8%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Cent Sulc</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">28 (4.6%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">28 (1.5%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">FP</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">10 (1.6%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">10 (0.5%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Fr Oper</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">47 (7.7%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">47 (2.5%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Gyr Rect</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">24 (3.9%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">24 (1.3%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">IFG</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">22 (3.6%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">22 (1.2%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">IFS</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">52 (8.5%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">52 (2.8%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Lat Orb Gyr</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">17 (2.8%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">17 (0.9%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Marg Sulc</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">8 (1.3%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">8 (0.4%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Med Orb Gyr</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">29 (4.8%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">29 (1.6%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Mes Fr</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">1 (0.2%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">1 (0.1%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">MFG</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">78 (12.8%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">78 (4.2%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">OFC</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">37 (6.1%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">37 (2.0%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Olf Sulc</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">4 (0.7%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">4 (0.2%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">ParaC Lobule</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">19 (3.1%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">19 (1.0%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Pars Oper</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">28 (4.6%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">28 (1.5%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Pars Orb</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">6 (1.0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">6 (0.3%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Pars Triang</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">22 (3.6%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">22 (1.2%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Post Orb Gyr</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">8 (1.3%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">8 (0.4%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">PreC Gyr</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">38 (6.2%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">38 (2.0%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">PreC Sulc</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">30 (4.9%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">30 (1.6%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">PreSMA</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">6 (1.0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">6 (0.3%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">SFG</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">24 (3.9%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">24 (1.3%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">SFS</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">44 (7.2%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">44 (2.4%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">SMA</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">14 (2.3%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">14 (0.8%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Ant Ins</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">45 (34.9%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">45 (2.4%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Cent Sulc Ins</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">4 (3.1%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">4 (0.2%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Circ Sulc</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">26 (20.2%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">26 (1.4%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Ins</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">3 (2.3%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">3 (0.2%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Post Ins</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">51 (39.5%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">51 (2.7%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Lesion</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">36 (100%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">36 (1.9%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Calc Fiss</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">4 (6.3%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">4 (0.2%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Cuneus</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">14 (22.2%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">14 (0.8%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Inf Ling Gyr</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">1 (1.6%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">1 (0.1%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Inf Occ Gyr</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">3 (4.8%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">3 (0.2%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Inf Occ Sulc</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">2 (3.2%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">2 (0.1%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Lat Occ Sulc</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">7 (11.1%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">7 (0.4%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Ling Gyr</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">10 (15.9%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">10 (0.5%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">LOTS</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">14 (22.2%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">14 (0.8%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Occ Gyr</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">4 (6.3%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">4 (0.2%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Sup Occ Sulc</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">2 (3.2%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">2 (0.1%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Transv Occ Sulc</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">2 (3.2%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">2 (0.1%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Ang Gyr</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">39 (11.0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">39 (2.1%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Inf Par Lob</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">1 (0.3%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">1 (0.1%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">IPS</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">58 (16.4%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">58 (3.1%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Par Oper</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">49 (13.8%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">49 (2.6%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">PO Sulc</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">19 (5.4%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">19 (1.0%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">PostC Gyr</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">30 (8.5%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">30 (1.6%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">PostC Sulc</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">24 (6.8%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">24 (1.3%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Precun</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">49 (13.8%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">49 (2.6%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">SS2</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">3 (0.8%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">3 (0.2%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Sup Par Gyr</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">3 (0.8%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">3 (0.2%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Sup Par Lob</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">27 (7.6%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">27 (1.5%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Sup Par Sulc</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">4 (1.1%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">4 (0.2%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">SupraM Gyr</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">45 (12.7%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">45 (2.4%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Transv Par Sulc</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">3 (0.8%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">3 (0.2%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Amg</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">51 (8.8%)</td>
-<td style="text-align: left;">51 (2.7%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Collat Sulc</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">15 (2.6%)</td>
-<td style="text-align: left;">15 (0.8%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">EntoRhn</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">4 (0.7%)</td>
-<td style="text-align: left;">4 (0.2%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Fus Gyr</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">14 (2.4%)</td>
-<td style="text-align: left;">14 (0.8%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Hcamp</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">22 (3.8%)</td>
-<td style="text-align: left;">22 (1.2%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Hcamp Head</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">25 (4.3%)</td>
-<td style="text-align: left;">25 (1.3%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Hcamp Tail</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">18 (3.1%)</td>
-<td style="text-align: left;">18 (1.0%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Heschl Gyr</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">33 (5.7%)</td>
-<td style="text-align: left;">33 (1.8%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">ITG</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">21 (3.6%)</td>
-<td style="text-align: left;">21 (1.1%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">ITS</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">22 (3.8%)</td>
-<td style="text-align: left;">22 (1.2%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Mes Temp</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">2 (0.3%)</td>
-<td style="text-align: left;">2 (0.1%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">MTG</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">94 (16.3%)</td>
-<td style="text-align: left;">94 (5.1%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">ParaHcamp</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">12 (2.1%)</td>
-<td style="text-align: left;">12 (0.6%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Plnm Pol</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">8 (1.4%)</td>
-<td style="text-align: left;">8 (0.4%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Plnm Temp</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">22 (3.8%)</td>
-<td style="text-align: left;">22 (1.2%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">STG</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">60 (10.4%)</td>
-<td style="text-align: left;">60 (3.2%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">STS</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">85 (14.7%)</td>
-<td style="text-align: left;">85 (4.6%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Sylv Fiss</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">20 (3.5%)</td>
-<td style="text-align: left;">20 (1.1%)</td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">Temp Oper</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">5 (0.9%)</td>
-<td style="text-align: left;">5 (0.3%)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">TP</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">45 (7.8%)</td>
-<td style="text-align: left;">45 (2.4%)</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-</div>
-</div>
-</section></section>
 <section>
 <section id="new" class="title-slide slide level1 center">
 <h1>New</h1>
@@ -1493,242 +359,218 @@
 <section id="t1-mrf-values" class="slide level2">
 <h2>T1 MRF Values</h2>
 
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-7-1.png" width="960" class="r-stretch"></section>
+<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-1-1.png" width="960" class="r-stretch"></section>
 <section id="t2-mrf-values" class="slide level2">
 <h2>T2 MRF Values</h2>
 
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-8-1.png" width="960" class="r-stretch"></section>
+<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-2-1.png" width="960" class="r-stretch"></section>
 <section id="by-zone-t1-overall" class="slide level2">
 <h2>By Zone, T1 Overall</h2>
 
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-9-1.png" width="960" class="r-stretch"></section>
+<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-3-1.png" width="960" class="r-stretch"></section>
 <section id="by-zone-t1-gm" class="slide level2">
 <h2>By Zone, T1 GM</h2>
 
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-10-1.png" width="960" class="r-stretch"></section>
+<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-4-1.png" width="960" class="r-stretch"></section>
 <section id="by-zone-t1-wm" class="slide level2">
 <h2>By Zone, T1 WM</h2>
 
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-11-1.png" width="960" class="r-stretch"></section>
-<section id="lesional-vs-non-lesional" class="slide level2">
-<h2>Lesional vs Non-lesional</h2>
+<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-5-1.png" width="960" class="r-stretch"></section></section>
+<section>
+<section id="lesional-vs-non-lesional-at-group-level" class="title-slide slide level1 center">
+<h1>Lesional vs Non-Lesional at Group Level</h1>
 
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-12-1.png" width="960" class="r-stretch"></section>
+</section>
+<section id="lesional-vs-non-lesional---mean_t1" class="slide level2">
+<h2>Lesional vs Non-lesional - mean_T1</h2>
+
+<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-6-1.png" width="960" class="r-stretch"></section>
+<section id="lesional-vs-non-lesional---mean_t1_gm" class="slide level2">
+<h2>Lesional vs Non-lesional - mean_T1_gm</h2>
+
+<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-7-1.png" width="960" class="r-stretch"></section>
+<section id="lesional-vs-non-lesional---mean_t1_wm" class="slide level2">
+<h2>Lesional vs Non-lesional - mean_T1_wm</h2>
+
+<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-8-1.png" width="960" class="r-stretch"></section>
+<section id="lesional-vs-non-lesional---mean_t2" class="slide level2">
+<h2>Lesional vs Non-lesional - mean_T2</h2>
+
+<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-9-1.png" width="960" class="r-stretch"></section>
+<section id="lesional-vs-non-lesional---mean_t2_gm" class="slide level2">
+<h2>Lesional vs Non-lesional - mean_T2_gm</h2>
+
+<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-10-1.png" width="960" class="r-stretch"></section>
+<section id="lesional-vs-non-lesional---mean_t2_wm" class="slide level2">
+<h2>Lesional vs Non-lesional - mean_T2_wm</h2>
+
+<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-11-1.png" width="960" class="r-stretch"></section>
 <section id="number-of-contacts-by-lobezone" class="slide level2">
 <h2>Number of Contacts by Lobe/Zone</h2>
 <div class="cell">
 <div class="cell-output-display">
-<table class="table lightable-paper lightable-hover caption-top" data-quarto-postprocess="true" style="font-size: 16px; margin-left: auto; margin-right: auto; font-family: &quot;Arial Narrow&quot;, arial, helvetica, sans-serif; width: auto !important; margin-left: auto; margin-right: auto;">
+<div class="Rtable1">
+<table class="Rtable1 caption-top" data-quarto-postprocess="true">
+<colgroup>
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+</colgroup>
 <thead>
 <tr class="header">
-<th style="text-align: left;" data-quarto-table-cell-role="th">&nbsp;</th>
-<th style="text-align: left;" data-quarto-table-cell-role="th">Cingulate</th>
-<th style="text-align: left;" data-quarto-table-cell-role="th">Frontal</th>
-<th style="text-align: left;" data-quarto-table-cell-role="th">Insula</th>
-<th style="text-align: left;" data-quarto-table-cell-role="th">Occipital</th>
-<th style="text-align: left;" data-quarto-table-cell-role="th">Parietal</th>
-<th style="text-align: left;" data-quarto-table-cell-role="th">Temporal</th>
-<th style="text-align: left;" data-quarto-table-cell-role="th">Overall</th>
+<th class="rowlabel firstrow lastrow" data-quarto-table-cell-role="th"></th>
+<th class="firstrow lastrow" data-quarto-table-cell-role="th"><span class="stratlabel">Cingulate<br>
+<span class="stratn">(N=88)</span></span></th>
+<th class="firstrow lastrow" data-quarto-table-cell-role="th"><span class="stratlabel">Frontal<br>
+<span class="stratn">(N=603)</span></span></th>
+<th class="firstrow lastrow" data-quarto-table-cell-role="th"><span class="stratlabel">Insula<br>
+<span class="stratn">(N=131)</span></span></th>
+<th class="firstrow lastrow" data-quarto-table-cell-role="th"><span class="stratlabel">Occipital<br>
+<span class="stratn">(N=76)</span></span></th>
+<th class="firstrow lastrow" data-quarto-table-cell-role="th"><span class="stratlabel">Parietal<br>
+<span class="stratn">(N=375)</span></span></th>
+<th class="firstrow lastrow" data-quarto-table-cell-role="th"><span class="stratlabel">Temporal<br>
+<span class="stratn">(N=590)</span></span></th>
+<th class="firstrow lastrow" data-quarto-table-cell-role="th"><span class="stratlabel">Overall<br>
+<span class="stratn">(N=1863)</span></span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"></td>
-<td style="text-align: left;">(N=88)</td>
-<td style="text-align: left;">(N=602)</td>
-<td style="text-align: left;">(N=130)</td>
-<td style="text-align: left;">(N=76)</td>
-<td style="text-align: left;">(N=375)</td>
-<td style="text-align: left;">(N=590)</td>
-<td style="text-align: left;">(N=1861)</td>
-</tr>
-<tr class="even" data-grouplength="4">
-<td colspan="8" style="text-align: left; border-bottom: 1px solid;"><strong>ez_label</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">epileptogenic zone</td>
-<td style="text-align: left;">2 (2.3%)</td>
-<td style="text-align: left;">3 (0.5%)</td>
-<td style="text-align: left;">9 (6.9%)</td>
-<td style="text-align: left;">10 (13.2%)</td>
-<td style="text-align: left;">17 (4.5%)</td>
-<td style="text-align: left;">30 (5.1%)</td>
-<td style="text-align: left;">71 (3.8%)</td>
+<td class="rowlabel firstrow">ez_label</td>
+<td class="firstrow"></td>
+<td class="firstrow"></td>
+<td class="firstrow"></td>
+<td class="firstrow"></td>
+<td class="firstrow"></td>
+<td class="firstrow"></td>
+<td class="firstrow"></td>
 </tr>
 <tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">propagation zone</td>
-<td style="text-align: left;">11 (12.5%)</td>
-<td style="text-align: left;">43 (7.1%)</td>
-<td style="text-align: left;">11 (8.5%)</td>
-<td style="text-align: left;">1 (1.3%)</td>
-<td style="text-align: left;">48 (12.8%)</td>
-<td style="text-align: left;">98 (16.6%)</td>
-<td style="text-align: left;">212 (11.4%)</td>
+<td class="rowlabel">non-involved zone</td>
+<td>73 (83.0%)</td>
+<td>460 (76.3%)</td>
+<td>97 (74.0%)</td>
+<td>63 (82.9%)</td>
+<td>301 (80.3%)</td>
+<td>360 (61.0%)</td>
+<td>1354 (72.7%)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">irritative zone</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">16 (2.7%)</td>
-<td style="text-align: left;">12 (9.2%)</td>
-<td style="text-align: left;">2 (2.6%)</td>
-<td style="text-align: left;">9 (2.4%)</td>
-<td style="text-align: left;">93 (15.8%)</td>
-<td style="text-align: left;">132 (7.1%)</td>
+<td class="rowlabel">irritative zone</td>
+<td>0 (0%)</td>
+<td>35 (5.8%)</td>
+<td>12 (9.2%)</td>
+<td>2 (2.6%)</td>
+<td>9 (2.4%)</td>
+<td>102 (17.3%)</td>
+<td>160 (8.6%)</td>
 </tr>
 <tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">non-involved zone</td>
-<td style="text-align: left;">75 (85.2%)</td>
-<td style="text-align: left;">540 (89.7%)</td>
-<td style="text-align: left;">98 (75.4%)</td>
-<td style="text-align: left;">63 (82.9%)</td>
-<td style="text-align: left;">301 (80.3%)</td>
-<td style="text-align: left;">369 (62.5%)</td>
-<td style="text-align: left;">1446 (77.7%)</td>
-</tr>
-<tr class="odd" data-grouplength="2">
-<td colspan="8" style="text-align: left; border-bottom: 1px solid;"><strong>lesional</strong></td>
-</tr>
-<tr class="even">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">0</td>
-<td style="text-align: left;">88 (100%)</td>
-<td style="text-align: left;">596 (99.0%)</td>
-<td style="text-align: left;">130 (100%)</td>
-<td style="text-align: left;">76 (100%)</td>
-<td style="text-align: left;">351 (93.6%)</td>
-<td style="text-align: left;">583 (98.8%)</td>
-<td style="text-align: left;">1824 (98.0%)</td>
+<td class="rowlabel">propagation zone</td>
+<td>13 (14.8%)</td>
+<td>83 (13.8%)</td>
+<td>11 (8.4%)</td>
+<td>1 (1.3%)</td>
+<td>48 (12.8%)</td>
+<td>98 (16.6%)</td>
+<td>254 (13.6%)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left; padding-left: 2em;" data-indentlevel="1">1</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">6 (1.0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">0 (0%)</td>
-<td style="text-align: left;">24 (6.4%)</td>
-<td style="text-align: left;">7 (1.2%)</td>
-<td style="text-align: left;">37 (2.0%)</td>
+<td class="rowlabel lastrow">epileptogenic zone</td>
+<td class="lastrow">2 (2.3%)</td>
+<td class="lastrow">25 (4.1%)</td>
+<td class="lastrow">11 (8.4%)</td>
+<td class="lastrow">10 (13.2%)</td>
+<td class="lastrow">17 (4.5%)</td>
+<td class="lastrow">30 (5.1%)</td>
+<td class="lastrow">95 (5.1%)</td>
+</tr>
+<tr class="even">
+<td class="rowlabel firstrow">lesional</td>
+<td class="firstrow"></td>
+<td class="firstrow"></td>
+<td class="firstrow"></td>
+<td class="firstrow"></td>
+<td class="firstrow"></td>
+<td class="firstrow"></td>
+<td class="firstrow"></td>
+</tr>
+<tr class="odd">
+<td class="rowlabel">0</td>
+<td>88 (100%)</td>
+<td>597 (99.0%)</td>
+<td>131 (100%)</td>
+<td>76 (100%)</td>
+<td>351 (93.6%)</td>
+<td>583 (98.8%)</td>
+<td>1826 (98.0%)</td>
+</tr>
+<tr class="even">
+<td class="rowlabel lastrow">1</td>
+<td class="lastrow">0 (0%)</td>
+<td class="lastrow">6 (1.0%)</td>
+<td class="lastrow">0 (0%)</td>
+<td class="lastrow">0 (0%)</td>
+<td class="lastrow">24 (6.4%)</td>
+<td class="lastrow">7 (1.2%)</td>
+<td class="lastrow">37 (2.0%)</td>
 </tr>
 </tbody>
 </table>
 
-
+</div>
 </div>
 </div>
 </section></section>
 <section>
-<section id="individual-level-t1-gm" class="title-slide slide level1 center">
-<h1>Individual-Level T1 GM</h1>
+<section id="individual-level" class="title-slide slide level1 center">
+<h1>Individual-Level</h1>
 
 </section>
-<section id="by-individual-ith1" class="slide level2">
-<h2>By individual, ith1</h2>
+<section id="ith4-gm" class="slide level2">
+<h2>ith4 GM</h2>
+
+<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-13-1.png" width="960" class="r-stretch"></section></section>
+<section id="ith4-t1-wm" class="title-slide slide level1 center">
+<h1>ith4 T1 WM</h1>
 
 <img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-14-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith2" class="slide level2">
-<h2>By individual, ith2</h2>
+
+<section>
+<section id="ith4-t2-gm" class="title-slide slide level1 center">
+<h1>ith4 T2 GM</h1>
 
 <img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-15-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith3" class="slide level2">
-<h2>By individual, ith3</h2>
+<section id="ith7-t1-gm" class="slide level2">
+<h2>ith7 T1 GM</h2>
 
 <img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-16-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith4" class="slide level2">
-<h2>By individual, ith4</h2>
+<section id="ith7-t2-gm" class="slide level2">
+<h2>ith7 T2 GM</h2>
 
 <img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-17-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith5" class="slide level2">
-<h2>By individual, ith5</h2>
+<section id="ith12-t1-gm" class="slide level2">
+<h2>ith12 T1 GM</h2>
 
 <img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-18-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith6" class="slide level2">
-<h2>By individual, ith6</h2>
+<section id="ith12-t2-gm" class="slide level2">
+<h2>ith12 T2 GM</h2>
 
 <img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-19-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith7" class="slide level2">
-<h2>By individual, ith7</h2>
+<section id="ith9-t1-gm" class="slide level2">
+<h2>ith9 T1 GM</h2>
 
 <img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-20-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith8" class="slide level2">
-<h2>By individual, ith8</h2>
+<section id="ith9-t2-gm" class="slide level2">
+<h2>ith9 T2 GM</h2>
 
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-21-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith9" class="slide level2">
-<h2>By individual, ith9</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-22-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith10" class="slide level2">
-<h2>By individual, ith10</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-23-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith11" class="slide level2">
-<h2>By individual, ith11</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-24-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith12" class="slide level2">
-<h2>By individual, ith12</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-25-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith13" class="slide level2">
-<h2>By individual, ith13</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-26-1.png" width="960" class="r-stretch"></section></section>
-<section>
-<section id="individual-level-t2-gm" class="title-slide slide level1 center">
-<h1>Individual-Level T2 GM</h1>
-
-</section>
-<section id="by-individual-ith1-1" class="slide level2">
-<h2>By individual, ith1</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-27-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith2-1" class="slide level2">
-<h2>By individual, ith2</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-28-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith3-1" class="slide level2">
-<h2>By individual, ith3</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-29-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith4-1" class="slide level2">
-<h2>By individual, ith4</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-30-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith5-1" class="slide level2">
-<h2>By individual, ith5</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-31-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith6-1" class="slide level2">
-<h2>By individual, ith6</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-32-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith7-1" class="slide level2">
-<h2>By individual, ith7</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-33-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith8-1" class="slide level2">
-<h2>By individual, ith8</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-34-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith9-1" class="slide level2">
-<h2>By individual, ith9</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-35-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith10-1" class="slide level2">
-<h2>By individual, ith10</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-36-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith11-1" class="slide level2">
-<h2>By individual, ith11</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-37-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith12-1" class="slide level2">
-<h2>By individual, ith12</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-38-1.png" width="960" class="r-stretch"></section>
-<section id="by-individual-ith13-1" class="slide level2">
-<h2>By individual, ith13</h2>
-
-<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-39-1.png" width="960" class="r-stretch"></section></section>
+<img data-src="2025-01-07-first-look-at-mrf-values_files/figure-revealjs/unnamed-chunk-21-1.png" width="960" class="r-stretch"></section></section>
 <section>
 <section id="next-steps" class="title-slide slide level1 center">
 <h1>Next Steps</h1>

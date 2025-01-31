@@ -5,7 +5,7 @@ draft = false
 +++
 
 Neuroimaging  
-
+- [2025-01-31](/labmtgs/2025-01-30-2mm-v2.html)
 - [2025-01-09](/labmtgs/2025-01-07-first-look-at-mrf-values)
 
 - [2024-08-29](/labmtgs/prelim-presentation-2024-08-29.html)
